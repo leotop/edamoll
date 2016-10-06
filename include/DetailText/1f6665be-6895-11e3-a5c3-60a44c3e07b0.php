@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Чай черный Classic Breakfast &quot;Greenfield&quot; 25 пакетиков по цене 68.00 руб.
+Обратите внимание на Срок годности: 36 месяцев, а также Марка: Greenfield.
+Заказывайте Чай черный Classic Breakfast &quot;Greenfield&quot; 25 пакетиков в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/2713'>Чай черный крупнолистовой &quot;Akbar Golden Series&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/2712'>Чай черный крупнолистовой &quot;Akbar Black&quot; 250 г</a>.

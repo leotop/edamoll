@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Natural Care Ultra Normal &quot;Libresse&quot; 10 шт по цене 51.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Производитель: ЭсСиЭй Хайджин Продактс.
+Заказывайте Прокладки Natural Care Ultra Normal &quot;Libresse&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10681'>Прокладки с крылышками Normal &quot;Naturella&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/31265'>Прокладки Ultra Sensitive Super Plus &quot;Always&quot; 8 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Mixing Colors 5-85 Ореховый коктейль &quot;Syoss&quot; 135 мл по цене 232.00 руб.
+Обратите внимание на Объем: 135 мл, а также Марка: Syoss.
+Заказывайте Краска для волос Mixing Colors 5-85 Ореховый коктейль &quot;Syoss&quot; 135 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/9949'>Краска для волос Perfect Mousse 700 темно-русый &quot;Schwarzkopff&quot;</a>, <a class='selected' style='color:#000000' href='/item/11583'>Краска для волос Excellence Creme с аммиаком 01 Супер-осветляющий русый натуральный &quot;L`Oreal&quot;</a>.

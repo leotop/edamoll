@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Gran Aroma Bar &quot;Lavazza&quot; 1 кг по цене 1847.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 20°С, а также Упаковка: Фольгированный пакет с клапаном.
+Заказывайте Кофе зерновой Gran Aroma Bar &quot;Lavazza&quot; 1 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18890'>Чай зеленый Jasmine Blossom &quot;Newby&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/26264'>Кофе зерновой Greenwich &quot;Berty's&quot; 250 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Средство для стирки &quot;Persil Color Expert Tabs&quot; 30 таб по цене 449.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Картонная.
+Заказывайте Средство для стирки &quot;Persil Color Expert Tabs&quot; 30 таб в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/19396'>Средство для стирки &quot;Persil Expert Tabs&quot; 48 шт</a>, <a class='selected' style='color:#000000' href='/item/3618'>Гель для стирки &quot;Dosia&quot; 1 л</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Altero&quot; 475 мл по цене 245.00 руб.
+Обратите внимание на Условия хранения: В темном месте, а также Срок годности: 18 месяцев.
+Заказывайте Масло оливковое Extra Virgin &quot;Altero&quot; 475 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/28023'>Масло оливковое Extra Virgin &quot;Borges&quot; 1 л</a>, <a class='selected' style='color:#000000' href='/item/10744'>Масло оливковое 100% Puro &quot;Borges&quot; 1 л</a>.

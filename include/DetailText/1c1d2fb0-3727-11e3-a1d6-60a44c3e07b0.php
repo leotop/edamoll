@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Sensetive Normal &quot;Always&quot; 18 шт по цене 152.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки Ultra Sensetive Normal &quot;Always&quot; 18 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10694'>Тампоны Pearl Regular &quot;Tampax&quot; с апликатором 18 шт</a>, <a class='selected' style='color:#000000' href='/item/31285'>Прокладки Квадро Normal &quot;Naturella&quot; 40 шт</a>.

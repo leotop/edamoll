@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Night &quot;Bella&quot; 7 шт по цене  руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Ultra Night &quot;Bella&quot; 7 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31261'>Прокладки Natural Ultra Clip Super &quot;Libresse&quot; 9 шт</a>, <a class='selected' style='color:#000000' href='/item/10681'>Прокладки с крылышками Normal &quot;Naturella&quot; 10 шт</a>.

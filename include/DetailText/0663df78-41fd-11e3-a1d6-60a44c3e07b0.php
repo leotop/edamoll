@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Шампунь Pro Series Color &quot;Wella&quot; 500 мл по цене 201.00 руб.
+Обратите внимание на Объем: 500 мл, а также Срок годности: 3 года.
+Заказывайте Шампунь Pro Series Color &quot;Wella&quot; 500 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Шампуни: <a class='selected' style='color:#000000' href='/item/10106'>Шампунь Энергия фруктов &quot;Shamtu&quot; 380 мл</a>, <a class='selected' style='color:#000000' href='/item/11786'>Шампунь Дрожжи и гранат для тонких волос без объема Ultra Doux &quot;Garnier&quot; 400 мл</a>.

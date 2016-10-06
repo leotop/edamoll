@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Style Normal &quot;Libresse&quot; 20 шт по цене 124.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Россия.
+Заказывайте Прокладки Style Normal &quot;Libresse&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10652'>Прокладки Ultra Super с бархатистой сеточкой &quot;Ola!&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/10671'>Прокладки с крылышками Natural Care Goodnigh &quot;Libresse&quot; 7 шт</a>.

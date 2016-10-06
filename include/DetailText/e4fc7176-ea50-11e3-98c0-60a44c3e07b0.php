@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе молотый Ristretto &quot;Roberto Totti&quot; 250 г по цене 230.00 руб.
+Обратите внимание на Вес: 250 г, а также Марка: Roberto Totti.
+Заказывайте Кофе молотый Ristretto &quot;Roberto Totti&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18912'>Чай черный Forest Dream &quot;Tess&quot; 20 пакетиков</a>, <a class='selected' style='color:#000000' href='/item/26269'>Кофе зерновой № 2 Costa Rica Tarrazu &quot;Julius Meinl&quot; 250 г</a>.

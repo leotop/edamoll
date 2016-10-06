@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Green Tea Magic Normal &quot;Naturella&quot; 60 шт по цене  руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки ежедневные Green Tea Magic Normal &quot;Naturella&quot; 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10678'>Прокладки с крылышками Ultra light duo &quot;Always&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/10697'>Тампоны Pro Comfort Night Normal &quot;O.B.&quot; 16 шт</a>.

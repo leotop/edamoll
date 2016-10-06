@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Color Sensation 4.15 Благородный опал &quot;Garnier&quot; по цене 131.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Color Sensation 4.15 Благородный опал &quot;Garnier&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/9959'>Крем-краска для волос N7 русый &quot;Palette&quot; 50 мл</a>, <a class='selected' style='color:#000000' href='/item/11591'>Краска для волос Perfect Mousse 400 Темный каштан &quot;Schwarzkopff&quot;</a>.

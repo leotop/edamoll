@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Pesto Extra Virgin &quot;Monini&quot; 0,25 л по цене 427.00 руб.
+Обратите внимание на Объем: 0,25 л, а также Условия хранения: В сухом прохладном месте.
+Заказывайте Масло оливковое Pesto Extra Virgin &quot;Monini&quot; 0,25 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/4239'>Масло подсолнечное &quot;Затея&quot; 1 л</a>, <a class='selected' style='color:#000000' href='/item/12080'>Масло оливковое Extra Virgin &quot;Colle Dei Frati&quot; 0,75 л</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Normal Plus &quot;Always&quot; 40 шт по цене 244.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Normal Plus &quot;Always&quot; 40 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4367'>Прокладки ежедневные &quot;Discreet Air multiform&quot; 100 шт</a>, <a class='selected' style='color:#000000' href='/item/10651'>Прокладки Ultra Sensitive Super Плюс &quot;Always&quot; 8 шт</a>.

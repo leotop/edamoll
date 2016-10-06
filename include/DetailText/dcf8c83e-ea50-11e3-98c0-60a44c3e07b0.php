@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой № 3 Guatemala Genuine Antigua &quot;Julius Meinl&quot; 250 г по цене 419.00 руб.
+Обратите внимание на Вес: 250 г, а также Условия хранения: от 1°С до 20°С.
+Заказывайте Кофе зерновой № 3 Guatemala Genuine Antigua &quot;Julius Meinl&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18375'>Чай черный &quot;Riston&quot; Премиум цейлонский 100 пакетиков</a>, <a class='selected' style='color:#000000' href='/item/18357'>Чай зеленый &quot;Принцесса Ява&quot; 25 пакетиков</a>.

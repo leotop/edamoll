@@ -1,0 +1,94 @@
+.profile-block-hidden
+{
+	display: none;
+}
+
+.profile-block-shown
+{
+	display:block;
+}
+
+.profile-table
+{
+	width: 100%;
+}
+
+.profile-link
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+
+.profile-table td {
+	vertical-align: middle;
+//	width:50%;
+}
+.profile-table input {
+width: 298px;
+border: 1px solid black;
+padding: 5px;
+}
+.profile-table input.noedit{
+border: 1px solid rgb(196,196,196);
+}
+.gray_t{color:rgb(196,196,196); display:none;}
+div.bx-auth-profile input.bx-auth-input {vertical-align:middle;}
+div.bx-auth-profile span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth-profile div.bx-auth-secure-icon {background-image:url(images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth-profile div.bx-auth-secure-unlock {background-image:url(images/sec-unlocked.png);}
+
+.profile-link{
+display:none;
+}
+
+
+.half h3, .half2 h3{
+font-weight:bold;
+}
+.personal_sbmt2{
+color:white;
+text-transform:uppercase;
+font-weight:bold;
+border:1px solid rgb(255,0,57);
+background: rgb(255,0,57);
+width: 220px;
+height:40px;
+margin-left:180px;
+}
+.darker{
+display:none;
+position:fixed;
+width:100%;
+height:100%;
+top:0;
+left:0;
+background:rgba(96,96,96,0.5);
+z-index:99999;
+}
+.pass_edit_div{
+width:370px;
+height:175px;
+border:4px solid rgb(255,0,57);
+margin:0 auto;
+background:white;
+position: relative;
+top: 30%;
+padding: 10px;
+}
+.darker .pass_edit_div table{
+width: 300px;
+margin: 10px 10px 10px 35px;
+}
+
+.pass_edit_div div{
+text-align:center;
+}
+#pwd1, #pwd2{
+width:150px;
+}
+#save_btn{
+display:none;
+}

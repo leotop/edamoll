@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Multiform Deo Summer Fresh &quot;Discreet&quot; 60 шт по цене 113.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Срок годности: 2 года.
+Заказывайте Прокладки Multiform Deo Summer Fresh &quot;Discreet&quot; 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31282'>Прокладки Ежедневные Бархатная Роза Deo &quot;Ola!&quot; 60 шт</a>, <a class='selected' style='color:#000000' href='/item/10645'>Прокладки Ultra Sensitive Normal плюс &quot;Always&quot; 10 шт</a>.

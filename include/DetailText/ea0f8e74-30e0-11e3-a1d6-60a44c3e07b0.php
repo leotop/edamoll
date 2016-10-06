@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Perfect Mousse 700 темно-русый &quot;Schwarzkopff&quot; по цене 248.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Perfect Mousse 700 темно-русый &quot;Schwarzkopff&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11589'>Краска для волос Mixing Colors 8-15 Шампань коктейль &quot;Syoss&quot; 135 мл</a>, <a class='selected' style='color:#000000' href='/item/9942'>Краска для волос E20 осветляющий &quot;Palette&quot; 50 мл</a>.

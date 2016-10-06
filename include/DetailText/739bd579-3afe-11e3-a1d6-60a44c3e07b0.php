@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Parodontax&quot; Extra Fresh 75 мл по цене 170.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Условия хранения: от 0°С до 20°C.
+Заказывайте Зубная паста &quot;Parodontax&quot; Extra Fresh 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/10132'>Зубная паста &quot;Colgate&quot; Комплексное отбеливание 100 мл</a>, <a class='selected' style='color:#000000' href='/item/9658'>Зубная паста &quot;President&quot; Exclusive 75 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Green Maxi &quot;Bella&quot; 9 шт по цене  руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Марка: Bella.
+Заказывайте Прокладки Ultra Green Maxi &quot;Bella&quot; 9 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10694'>Тампоны Pearl Regular &quot;Tampax&quot; с апликатором 18 шт</a>, <a class='selected' style='color:#000000' href='/item/31286'>Прокладки с крылышками Maxi &quot;Naturella&quot; 16 шт</a>.

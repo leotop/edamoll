@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель после бритья Увлажнение 24 часа Men Expert &quot;L'Oreal&quot; 100 мл по цене 290.00 руб.
+Обратите внимание на Объем: 100 мл, а также Упаковка: Пластиковая.
+Заказывайте Гель после бритья Увлажнение 24 часа Men Expert &quot;L'Oreal&quot; 100 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Средства после бритья: <a class='selected' style='color:#000000' href='/item/17808'>Лосьон после бритья Artic Ice &quot;Gillette Series&quot; 100 мл</a>, <a class='selected' style='color:#000000' href='/item/17811'>Лосьон после бритья Storm Force &quot;Gillette Series&quot; 50 мл</a>.

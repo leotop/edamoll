@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Корм для канареек Menu Vital &quot;Vitakraft&quot; 500 г по цене 220.00 руб.
+Обратите внимание на Условия хранения: от 4°С до 35°С, а также Марка: Vitakraft.
+Заказывайте Корм для канареек Menu Vital &quot;Vitakraft&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Для птиц: <a class='selected' style='color:#000000' href='/item/10245'>Крекеры для волнистых попугаев при линьке &quot;Vitakraft&quot; 60 г</a>, <a class='selected' style='color:#000000' href='/item/10236'>Корм для волнистых попугаев Menu Vital &quot;Vitakraft&quot; 1 кг</a>.

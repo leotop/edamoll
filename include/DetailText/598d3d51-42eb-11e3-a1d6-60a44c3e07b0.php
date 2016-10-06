@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель для душа Happy Hydrating &quot;Adidas&quot; 250 мл по цене 120.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Adidas AG.
+Заказывайте Гель для душа Happy Hydrating &quot;Adidas&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для душа: <a class='selected' style='color:#000000' href='/item/11989'>Гель для душа Термал спа массаж &quot;Palmolive&quot; 750 мл</a>, <a class='selected' style='color:#000000' href='/item/11840'>Гель для душа Термал спа массаж &quot;Palmolive&quot; 250 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Color Naturals 6.25 шоколад &quot;Garnier&quot; по цене 114.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Garnier.
+Заказывайте Краска для волос Color Naturals 6.25 шоколад &quot;Garnier&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11581'>Краска для волос Color Sensation 8.0 Переливающийся светло - русый &quot;Garnier&quot;</a>, <a class='selected' style='color:#000000' href='/item/11569'>Краска для волос Color 9-5 Жемчужный блонд &quot;Syoss&quot; 50 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Active Baby Jumbo Maxi 7-14 кг 70 шт по цене 950.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Польша.
+Заказывайте Подгузники &quot;Pampers&quot; Active Baby Jumbo Maxi 7-14 кг 70 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10228'>Влажные салфетки &quot;Pampers&quot; сменный блок 2Х64 шт</a>, <a class='selected' style='color:#000000' href='/item/10366'>Подгузники-трусики Аctive Girl Maxi &quot;Pampers&quot; 9-14 кг 104 шт</a>.

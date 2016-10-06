@@ -1,0 +1,4 @@
+¬ нашем интернет магазине вы можете купить «убна€ щетка &quot;Aquafresh&quot; 3-way Head средн€€ по цене 112.00 руб.
+ќбратите внимание на —рок годности: Ќе ограничен, а также ”паковка: Ѕлистерна€ упаковка.
+«аказывайте «убна€ щетка &quot;Aquafresh&quot; 3-way Head средн€€ в интернет-магазине edamoll.ru.
+ќбратите внимание также на другие товары из категории «убные щетки: <a class='selected' style='color:#000000' href='/item/10954'>«убна€ щетка &quot;Oral-B&quot; ProExpert Clinic Line Pro-Flex 38 м€гка€</a>, <a class='selected' style='color:#000000' href='/item/10185'>«убна€ щетка &quot;Silver Care&quot; Plus средн€€</a>.

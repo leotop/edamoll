@@ -1,0 +1,47 @@
+.system-nav-orange
+{
+	color: #999;
+	font-size:12px;
+}
+
+.system-nav-orange .nav-current-page
+{
+	color:white;
+	background-color: rgb(255, 0, 57);
+	font-weight: bold;
+
+}
+.nav-prev{
+background: url("/include/img/pagerL.png") no-repeat center rgb(255, 0, 57);
+}
+ .nav-next{
+background: url("/include/img/pagerR.png") no-repeat center rgb(255, 0, 57);
+}
+.nav-pages a, .nav-pages span{
+display:inline-block;
+width:23px;
+height:23px;
+line-height:23px;
+text-align:center;
+font-weight:bold;
+}
+
+.nav-all-div span{
+display:inline-block;
+color:black;
+height:23px;
+line-height:23px;
+font-weight:bold;
+}
+.system-nav-orange .nav-all-div a{
+display:inline-block;
+color:rgb(255,0,57);
+height:23px;
+line-height:23px;
+font-weight:bold;
+text-transform:uppercase;
+text-decoration:underline;
+margin-left:5px;
+}
+
+

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки с крылышками Normal &quot;Naturella&quot; 20 шт по цене 92.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки с крылышками Normal &quot;Naturella&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10671'>Прокладки с крылышками Natural Care Goodnigh &quot;Libresse&quot; 7 шт</a>, <a class='selected' style='color:#000000' href='/item/31262'>Прокладки Normal &quot;Helen Harper&quot; 20 шт</a>.

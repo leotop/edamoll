@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Kalamata Extra Virgin &quot;Hellada&quot; 0,5 л по цене 387.00 руб.
+Обратите внимание на Жиры: 92 г, а также Марка: Hellada.
+Заказывайте Масло оливковое Kalamata Extra Virgin &quot;Hellada&quot; 0,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/10747'>Масло оливковое Extra Vergin &quot;Monini&quot; 1 л</a>, <a class='selected' style='color:#000000' href='/item/10754'>Масло оливковое Extra Virgin &quot;Maestro de Oliva&quot; 1 л</a>.

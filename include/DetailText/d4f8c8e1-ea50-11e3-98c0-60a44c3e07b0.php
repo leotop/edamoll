@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой King Hadhramaut &quot;Julius Meinl&quot; 250 г по цене 419.00 руб.
+Обратите внимание на Вес: 250 г, а также Упаковка: Фольгированный пакет с клапаном.
+Заказывайте Кофе зерновой King Hadhramaut &quot;Julius Meinl&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/26265'>Кофе зерновой Jamaica Blue Mountain &quot;Magnum Exotics&quot; 340 г</a>, <a class='selected' style='color:#000000' href='/item/18360'>Чай зеленый Ginger Mojito &quot;Tess&quot; 20 пакетиков</a>.

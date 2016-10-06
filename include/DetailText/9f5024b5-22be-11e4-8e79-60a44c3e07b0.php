@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Invisible Clip Super Duo &quot;Libresse&quot; 16 шт по цене 129.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Invisible Clip Super Duo &quot;Libresse&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10694'>Тампоны Pearl Regular &quot;Tampax&quot; с апликатором 18 шт</a>, <a class='selected' style='color:#000000' href='/item/10636'>Прокладки Platinum Collection Super &quot;Always&quot; 8 шт</a>.

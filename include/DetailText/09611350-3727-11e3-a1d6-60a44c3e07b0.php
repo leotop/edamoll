@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки с крылышками Invisible Goodnight &quot;Libresse&quot; 10 шт по цене 68.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Россия.
+Заказывайте Прокладки с крылышками Invisible Goodnight &quot;Libresse&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10630'>Прокладки Lux Cупер &quot;Kotex&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/10631'>Прокладки Lux Normal &quot;Kotex&quot; 10 шт</a>.

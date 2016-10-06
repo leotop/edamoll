@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Капсулы Expert Duo-Caps &quot;Persil&quot; 32 шт по цене 832.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 40°С, а также Производитель: Henkel Magyarorszag, Kft.
+Заказывайте Капсулы Expert Duo-Caps &quot;Persil&quot; 32 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/19396'>Средство для стирки &quot;Persil Expert Tabs&quot; 48 шт</a>, <a class='selected' style='color:#000000' href='/item/19880'>Гель для деликатной стирки Шерсть &quot;Dreft&quot; 1,6 л</a>.

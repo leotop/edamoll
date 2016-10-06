@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Panty Aroma Sensitive &quot;Bella&quot; 60 шт по цене 105.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Bella.
+Заказывайте Прокладки ежедневные Panty Aroma Sensitive &quot;Bella&quot; 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10698'>Тампоны Pro Comfort Night Super &quot;O.B.&quot; 16 шт</a>, <a class='selected' style='color:#000000' href='/item/10657'>Прокладки ежедневные Classic Regular &quot;Libresse&quot; 40+10 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Normal Plus &quot;Always&quot; 50 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Ultra Normal Plus &quot;Always&quot; 50 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10695'>Тампоны Pearl Super &quot;Tampax&quot; с апликатором 18 шт</a>, <a class='selected' style='color:#000000' href='/item/10646'>Прокладки Ultra Normal с шелковистой поверхностью &quot;Ola!&quot; 10 шт</a>.

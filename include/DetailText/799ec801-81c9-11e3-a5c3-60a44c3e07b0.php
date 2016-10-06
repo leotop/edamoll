@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Средство для стирки &quot;Persil Color Expert Gel&quot; 1,46 л по цене 449.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Persil.
+Заказывайте Средство для стирки &quot;Persil Color Expert Gel&quot; 1,46 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/19889'>Капсулы &quot;Ariel Active Gel Горный родник&quot; 40 шт по 35 г</a>, <a class='selected' style='color:#000000' href='/item/3856'>Гель для стирки &quot;Persil Color Expert&quot; 2,19 л</a>.

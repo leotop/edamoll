@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Natural Care Normal &quot;Libresse&quot; 40 шт по цене 87.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Словакия.
+Заказывайте Прокладки ежедневные Natural Care Normal &quot;Libresse&quot; 40 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10674'>Прокладки с крылышками Nova Komfort Dry &quot;Bella&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10634'>Прокладки Platinum Collection Night &quot;Always&quot; 7 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Пицца моцарелла &quot;Dr.Oetker Ristorante&quot; 225 г по цене 171.00 руб.
+Обратите внимание на Срок годности: 9 месяцев, а также Страна производитель: Германия.
+Заказывайте Пицца моцарелла &quot;Dr.Oetker Ristorante&quot; 225 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Пицца: <a class='selected' style='color:#000000' href='/item/10623'>Пицца Ristorante с салями &quot;Dr.Oetker&quot; 320 г</a>, <a class='selected' style='color:#000000' href='/item/12575'>Пицца Fresca Bambini с сыром и ветчиной &quot;КампоМос&quot; 405 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сухая молочная смесь Nutrilon 2 &quot;Nutricia&quot; 900 г по цене 868.00 руб.
+Обратите внимание на Вес: 900 г, а также Производитель: Nutricia Cuijk B.V..
+Заказывайте Сухая молочная смесь Nutrilon 2 &quot;Nutricia&quot; 900 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Детские смеси: <a class='selected' style='color:#000000' href='/item/20194'>Смесь гипоаллернный Nan-1 &quot;Nestle&quot; 400 г</a>, <a class='selected' style='color:#000000' href='/item/11367'>Молочная смесь Nan 2 Н.А. Гипоаллергенная &quot;Nestle&quot; 400 г</a>.

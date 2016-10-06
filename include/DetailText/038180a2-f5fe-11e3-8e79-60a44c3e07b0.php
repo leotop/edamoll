@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Водоросли прессованные Nori Gold premium &quot;Takemura&quot; 28 г по цене 83.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Энергетическая ценность: 207 Ккал.
+Заказывайте Водоросли прессованные Nori Gold premium &quot;Takemura&quot; 28 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Все для суши: <a class='selected' style='color:#000000' href='/item/19588'>Соевый творог тофу &quot;Blue Dragon&quot; 349 г</a>, <a class='selected' style='color:#000000' href='/item/27651'>Соус Wok Phad Thai &quot;Santa Maria&quot; 120 г</a>.

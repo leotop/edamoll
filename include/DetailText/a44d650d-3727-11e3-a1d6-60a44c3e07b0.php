@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Platinum Collection Super &quot;Always&quot; 8 шт по цене 88.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Platinum Collection Super &quot;Always&quot; 8 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4264'>Тампоны &quot;o.b. Original&quot; Super 32 шт</a>, <a class='selected' style='color:#000000' href='/item/10667'>Прокладки ежедневные Алоэ &quot;Ola!&quot; 20 x 2 шт</a>.

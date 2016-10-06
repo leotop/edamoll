@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Ultra Comfort &quot;Huggies&quot; для девочек 5-9 кг 94 шт по цене 1100.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Производитель: Kimberly-Clark.
+Заказывайте Подгузники Ultra Comfort &quot;Huggies&quot; для девочек 5-9 кг 94 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/31110'>Подгузники 12-20 кг XL для мальчиков &quot;Goon&quot; 40 шт</a>, <a class='selected' style='color:#000000' href='/item/10257'>Подгузники Premium Mini &quot;Pampers&quot; 3-6 кг 72 шт</a>.

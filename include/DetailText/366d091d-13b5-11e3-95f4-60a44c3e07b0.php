@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки гигиенические &quot;Bella&quot; Panty Mini 30+6 шт по цене 38.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Россия.
+Заказывайте Прокладки гигиенические &quot;Bella&quot; Panty Mini 30+6 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10636'>Прокладки Platinum Collection Super &quot;Always&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/10632'>Прокладки Normal Plus &quot;Always&quot; 40 шт</a>.

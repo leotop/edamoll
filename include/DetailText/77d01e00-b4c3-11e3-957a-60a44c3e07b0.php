@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Ariel Lenor effect aromatherapy&quot; автомат 4,5 кг по цене 449.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 35°С, а также Упаковка: Полиэтиленовая.
+Заказывайте Стиральный порошок &quot;Ariel Lenor effect aromatherapy&quot; автомат 4,5 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/19412'>Стиральный порошок &quot;Tide Детский&quot; автомат 2,4 кг</a>, <a class='selected' style='color:#000000' href='/item/18857'>Стиральный порошок &quot;Persil Color Expert Vernel&quot; 4,5 кг</a>.

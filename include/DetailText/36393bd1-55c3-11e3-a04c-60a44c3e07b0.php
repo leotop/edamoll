@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кассеты сменные для станка Venus &quot;Gillette&quot; 2 шт по цене 275.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Марка: Gillette.
+Заказывайте Кассеты сменные для станка Venus &quot;Gillette&quot; 2 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские бритвы: <a class='selected' style='color:#000000' href='/item/13564'>Кассеты сменные для станка Venus &quot;Gillette&quot; 4 шт</a>, <a class='selected' style='color:#000000' href='/item/17865'>Станок для бритья Venus Embrace &quot;Gillette&quot;</a>.

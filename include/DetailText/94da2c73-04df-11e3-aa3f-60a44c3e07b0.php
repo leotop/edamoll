@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Пицца ветчина и грибы &quot;Dr.Oetker Guseppe&quot; 425 г по цене 144.00 руб.
+Обратите внимание на Срок годности: 10 месяцев, а также Марка: Dr.Oetker.
+Заказывайте Пицца ветчина и грибы &quot;Dr.Oetker Guseppe&quot; 425 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Пицца: <a class='selected' style='color:#000000' href='/item/12575'>Пицца Fresca Bambini с сыром и ветчиной &quot;КампоМос&quot; 405 г</a>, <a class='selected' style='color:#000000' href='/item/10617'>Пицца Ristorante 4 сыра &quot;Dr.Oetker&quot; 340 г</a>.

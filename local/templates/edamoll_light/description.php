@@ -1,0 +1,1 @@
+<?$arTemplate = array("NAME"=>"edamoll_light", "DESCRIPTION"=>"легкий шаблон без менюшек");?>

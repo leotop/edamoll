@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Crete Extra Virgin &quot;Hellada&quot; 0,5 л по цене 387.00 руб.
+Обратите внимание на Срок годности: 24 месяца, а также Страна производитель: Россия.
+Заказывайте Масло оливковое Crete Extra Virgin &quot;Hellada&quot; 0,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/10815'>Масло оливковое Olive-pomace oil &quot;Iberica&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/12064'>Масло кунжутное &quot;Kotanyi&quot; 0,5 л</a>.

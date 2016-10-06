@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки с крылышками Nova Classic &quot;Bella&quot; 10  шт по цене 37.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Bella.
+Заказывайте Прокладки с крылышками Nova Classic &quot;Bella&quot; 10  шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10635'>Прокладки Platinum Collection Normal &quot;Always&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10633'>Прокладки Platinum Collection Night &quot;Always&quot; 14 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Влажные салфетки Ultra Comfort &quot;Huggies&quot; с Алоэ 128 шт по цене 199.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Влажные салфетки Ultra Comfort &quot;Huggies&quot; с Алоэ 128 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10010'>Подгузники Sleep&Play Junior &quot;Pampers&quot; 11-25 кг 58 шт</a>, <a class='selected' style='color:#000000' href='/item/10353'>Подгузники Premium Care Maxi &quot;Pampers&quot; 7-14 кг 104 шт</a>.

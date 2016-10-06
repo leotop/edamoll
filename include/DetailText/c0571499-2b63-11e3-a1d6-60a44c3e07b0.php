@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Ополаскиватель для рта &quot;Colgate&quot;  Plax Herbal 250 мл по цене 74.00 руб.
+Обратите внимание на Объем: 0,25 л, а также Марка: Colgate.
+Заказывайте Ополаскиватель для рта &quot;Colgate&quot;  Plax Herbal 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Ополаскиватели: <a class='selected' style='color:#000000' href='/item/10221'>Ополаскиватель для рта &quot;Splat&quot; Complete 340 мл</a>, <a class='selected' style='color:#000000' href='/item/10219'>Ополаскиватель для рта &quot;Parodontax&quot; Экстра 300 мл</a>.

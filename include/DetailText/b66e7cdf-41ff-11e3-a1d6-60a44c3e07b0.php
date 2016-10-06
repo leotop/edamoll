@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Маска для волос Silicone Free Защита и объем &quot;Syoss&quot; 250 мл по цене 281.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Объем: 250 мл.
+Заказывайте Маска для волос Silicone Free Защита и объем &quot;Syoss&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Бальзамы и маски: <a class='selected' style='color:#000000' href='/item/11667'>Маска Увлажняющая Pro Series Moisture &quot;Wella&quot; 200 мл</a>, <a class='selected' style='color:#000000' href='/item/9867'>Бальзам-ополаскиватель Aqua Light легкий &quot;Pantene Pro-V &quot; 400 мл</a>.

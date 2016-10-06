@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кислородный пятновыводитель &quot;Astonish Oxy Plus&quot; 350 г по цене 146.00 руб.
+Обратите внимание на Вес: 350 г, а также Производитель: The London Oil Refining Co. Ltd.
+Заказывайте Кислородный пятновыводитель &quot;Astonish Oxy Plus&quot; 350 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Отбеливатели и пятновыводители: <a class='selected' style='color:#000000' href='/item/18487'>Пятновыводитель+Отбеливатель Кристальная белизна Oxi Action &quot;Vanish&quot; 1,5 кг</a>, <a class='selected' style='color:#000000' href='/item/18473'>Пятновыводитель жидкий Oxi Action &quot;Vanish&quot; 1 л</a>.

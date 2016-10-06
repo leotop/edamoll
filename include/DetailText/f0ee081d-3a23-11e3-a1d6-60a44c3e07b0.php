@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin Olio Oliva &quot;I.G.P. Toscano&quot; 0,25 л по цене 464.00 руб.
+Обратите внимание на Жиры: 99,9 г, а также Страна производитель: Италия.
+Заказывайте Масло оливковое Extra Virgin Olio Oliva &quot;I.G.P. Toscano&quot; 0,25 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/10809'>Масло оливковое Extra Virgin &quot;Hellada&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/10757'>Масло оливковое Extra Virgin olive oil Crete D.O.P. &quot;Gaea&quot; 0,5 л</a>.

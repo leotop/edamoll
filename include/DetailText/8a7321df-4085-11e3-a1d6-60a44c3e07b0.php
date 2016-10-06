@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сухая молочная смесь Nutrilon 1 &quot;Nutricia&quot; 400 г по цене 420.00 руб.
+Обратите внимание на Вес: 400 г, а также Производитель: Nutricia Cuijk B.V..
+Заказывайте Сухая молочная смесь Nutrilon 1 &quot;Nutricia&quot; 400 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Детские смеси: <a class='selected' style='color:#000000' href='/item/12306'>Сухая молочная смесь Nutrilon 4 &quot;Nutricia&quot; 400 г</a>, <a class='selected' style='color:#000000' href='/item/11365'>Молочная смесь Nan 2 &quot;Nestle&quot; 400 г</a>.

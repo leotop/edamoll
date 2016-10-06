@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое с базиликом Extra Virgin &quot;Bioitalia&quot; 250 мл по цене 251.00 руб.
+Обратите внимание на Срок годности: 18 месяцев, а также Энергетическая ценность: 824 Ккал.
+Заказывайте Масло оливковое с базиликом Extra Virgin &quot;Bioitalia&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12074'>Масло оливковое D.O.P. Umbria Extra Virgin &quot;Monini&quot; 0,25 л</a>, <a class='selected' style='color:#000000' href='/item/28017'>Масло лесного ореха &quot;International Collection&quot; 250 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Super Duo &quot;Kotex&quot; 16 шт по цене 123.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Kimberly Clark.
+Заказывайте Прокладки Ultra Super Duo &quot;Kotex&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31286'>Прокладки с крылышками Maxi &quot;Naturella&quot; 16 шт</a>, <a class='selected' style='color:#000000' href='/item/31264'>Прокладки Ultra Normal Duo &quot;Kotex&quot; 20 шт</a>.

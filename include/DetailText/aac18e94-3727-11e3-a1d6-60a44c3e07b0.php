@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Platinum Collection Night &quot;Always&quot; 7 шт по цене 87.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки Platinum Collection Night &quot;Always&quot; 7 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4368'>Прокладки ежедневные &quot;Discreet Deo Water lily&quot; 100 шт</a>, <a class='selected' style='color:#000000' href='/item/10660'>Прокладки ежедневные Light Солнечная ромашка &quot;Ola!&quot; 20 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки урологические Lady Ultra mini &quot;Tena&quot; 14 шт по цене 101.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Страна производитель: Словакия.
+Заказывайте Прокладки урологические Lady Ultra mini &quot;Tena&quot; 14 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10672'>Прокладки с крылышками Nova Classic &quot;Bella&quot; 10  шт</a>, <a class='selected' style='color:#000000' href='/item/10697'>Тампоны Pro Comfort Night Normal &quot;O.B.&quot; 16 шт</a>.

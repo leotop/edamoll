@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Color 1-1 черный &quot;Syoss&quot; 50 мл по цене 198.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Syoss.
+Заказывайте Краска для волос Color 1-1 черный &quot;Syoss&quot; 50 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11578'>Краска для волос Color Sensation 5.62 Царский гранат &quot;Garnier&quot;</a>, <a class='selected' style='color:#000000' href='/item/9923'>Краска Excellence Creme 7.1 русый пепельный &quot;L' Oreal&quot;</a>.

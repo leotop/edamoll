@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель для бритья Satin Care Avocado Twist &quot;Gillette&quot; 200 мл по цене 205.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Gillette.
+Заказывайте Гель для бритья Satin Care Avocado Twist &quot;Gillette&quot; 200 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гель, пена для бритья: <a class='selected' style='color:#000000' href='/item/17835'>Пена для бритья Чистое бритьё &quot;Gillette&quot; 200 мл</a>, <a class='selected' style='color:#000000' href='/item/13550'>Гель для бритья для чувствительной кожи &quot;Nivea for men&quot; 200 мл</a>.

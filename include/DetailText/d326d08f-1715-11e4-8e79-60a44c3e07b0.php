@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Хлебцы из цельного зерна Muesli Crunch &quot;Ryvita&quot; 200 г по цене 187.00 руб.
+Обратите внимание на Углеводы: 62 г, а также Марка: Ryvita.
+Заказывайте Хлебцы из цельного зерна Muesli Crunch &quot;Ryvita&quot; 200 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Сушки, сухари, хлебцы: <a class='selected' style='color:#000000' href='/item/12783'>Хлебцы ржаные Traditional &quot;Finn Crisp&quot; 200 г</a>, <a class='selected' style='color:#000000' href='/item/12937'>Хлебцы многозерновые из цельного зерна Multi-Grain &quot;Ryvita&quot; 250 г</a>.

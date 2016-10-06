@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Parodontax&quot; Без фтора 75 мл по цене 143.00 руб.
+Обратите внимание на Объем: 0,075 л, а также Производитель: GlaxoSmithKline Consumer Healthcare.
+Заказывайте Зубная паста &quot;Parodontax&quot; Без фтора 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/10920'>Зубная паста &quot;President&quot; Anti-Age 75 мл</a>, <a class='selected' style='color:#000000' href='/item/10127'>Зубная паста &quot;Colgate&quot; Sensitive Pro-relief 75 мл</a>.

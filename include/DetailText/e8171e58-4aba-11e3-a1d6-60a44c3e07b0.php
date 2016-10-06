@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Корм для собак крупных пород Adult Large Breed с курицей &quot;Eukanuba&quot; 3 кг по цене 1202.00 руб.
+Обратите внимание на Жиры: 13 г, а также Производитель: Iams Europe BV.
+Заказывайте Корм для собак крупных пород Adult Large Breed с курицей &quot;Eukanuba&quot; 3 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Корм для собак: <a class='selected' style='color:#000000' href='/item/12464'>Корм для щенков крупных пород &quot;Brit Care&quot; 3 кг</a>, <a class='selected' style='color:#000000' href='/item/12382'>Корм для взрослых собак крупных пород Premium &quot;Brit&quot; 15 кг</a>.

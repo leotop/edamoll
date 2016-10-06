@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Normal &quot;Helen Harper&quot; 20 шт по цене 80.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Условия хранения: от 5°С до 30°С.
+Заказывайте Прокладки Normal &quot;Helen Harper&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10677'>Прокладки с крылышками Perfecta Green &quot;Bella&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/31292'>Прокладки урологические Lady Ultra mini &quot;Tena&quot; 14 шт</a>.

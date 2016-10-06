@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Super &quot;Helen Harper&quot; 16 шт по цене 71.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Ontex.
+Заказывайте Прокладки Super &quot;Helen Harper&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10673'>Прокладки с крылышками Nova Komfort &quot;Bella&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/4368'>Прокладки ежедневные &quot;Discreet Deo Water lily&quot; 100 шт</a>.

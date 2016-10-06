@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Huggies&quot; Ultra Comfort для девочек 12-22 кг 64 шт по цене 1109.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Производитель: Kimberly-Clark.
+Заказывайте Подгузники &quot;Huggies&quot; Ultra Comfort для девочек 12-22 кг 64 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10019'>Подгузники-трусики Up&Go Extra Large &quot;Libero&quot; 13-20 кг 44 шт</a>, <a class='selected' style='color:#000000' href='/item/9879'>Влажные салфетки Нежная забота &quot;Johnson's baby&quot; 64 шт</a>.

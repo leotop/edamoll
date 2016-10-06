@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Pants Large &quot;Tena&quot; 10 шт по цене 473.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Условия хранения: В сухом месте.
+Заказывайте Подгузники Pants Large &quot;Tena&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10353'>Подгузники Premium Care Maxi &quot;Pampers&quot; 7-14 кг 104 шт</a>, <a class='selected' style='color:#000000' href='/item/10349'>Подгузники Large &quot;Merries&quot; 9-14 кг 54 шт</a>.

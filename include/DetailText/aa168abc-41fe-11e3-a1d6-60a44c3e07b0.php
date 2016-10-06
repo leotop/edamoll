@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Recital Preference 5.25 Антигуа &quot;L`Oreal&quot; по цене 311.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Recital Preference 5.25 Антигуа &quot;L`Oreal&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11588'>Краска для волос Mixing Colors 7-58 Дымчатый микс &quot;Syoss&quot; 135 мл</a>, <a class='selected' style='color:#000000' href='/item/11607'>Краска для волос Sublime Mousse 415 Морозный каштан &quot;L`Oreal&quot;</a>.

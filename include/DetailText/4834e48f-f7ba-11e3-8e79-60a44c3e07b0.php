@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Макароны Tagliatelle со шпинатом № 107 &quot;De Cecco&quot; 250 г по цене 147.00 руб.
+Обратите внимание на Вес: 250 г, а также Производитель: OAO "Extra M".
+Заказывайте Макароны Tagliatelle со шпинатом № 107 &quot;De Cecco&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Макаронные изделия: <a class='selected' style='color:#000000' href='/item/27832'>Макароны Spagetti №5 &quot;Barilla&quot; 1кг</a>, <a class='selected' style='color:#000000' href='/item/27818'>Картофельные клецки &quot;De Cecco&quot; 500 г</a>.

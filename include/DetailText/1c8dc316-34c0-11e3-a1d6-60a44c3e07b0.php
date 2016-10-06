@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Premium Care Midi &quot;Pampers&quot; 4-9 кг 120 шт по цене 1815.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Pampers.
+Заказывайте Подгузники Premium Care Midi &quot;Pampers&quot; 4-9 кг 120 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9844'>Подгузники Everyday Extra Large &quot;Libero&quot; 11-25 кг 56 шт</a>, <a class='selected' style='color:#000000' href='/item/9878'>Влажные салфетки Classic Duo &quot;Huggies&quot; 144 шт</a>.

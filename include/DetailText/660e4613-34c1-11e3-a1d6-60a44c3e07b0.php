@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Premium Care Newborn &quot;Pampers&quot; &lt;2,5 кг 30 шт по цене 421.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Пленочная пачка.
+Заказывайте Подгузники Premium Care Newborn &quot;Pampers&quot; &lt;2,5 кг 30 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9878'>Влажные салфетки Classic Duo &quot;Huggies&quot; 144 шт</a>, <a class='selected' style='color:#000000' href='/item/10374'>Простыни впитывающие Bed Normal &quot;Tena&quot; 60X90 30 шт</a>.

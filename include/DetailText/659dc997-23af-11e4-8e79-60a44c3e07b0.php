@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Normal Plus &quot;Discreet&quot; 50 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки Normal Plus &quot;Discreet&quot; 50 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31293'>Прокладки урологические Lady Ultra mini &quot;Tena&quot; 28 шт</a>, <a class='selected' style='color:#000000' href='/item/4266'>Тампоны Super Plus &quot;o.b.&quot; 16 шт</a>.

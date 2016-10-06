@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Night &quot;Naturella&quot; 7 шт по цене  руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Марка: Naturella.
+Заказывайте Прокладки Ultra Night &quot;Naturella&quot; 7 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31278'>Прокладки ежедневные Panty Aroma Relax &quot;Bella&quot; 60 шт</a>, <a class='selected' style='color:#000000' href='/item/10637'>Прокладки Style Normal &quot;Libresse&quot; 20 шт</a>.

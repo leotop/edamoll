@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Пустышка ортодонтическая &quot;Philips&quot; SCF178/23 Freeflow по цене 371.00 руб.
+Обратите внимание на Вес: 0.02 г, а также Марка: Philips.
+Заказывайте Пустышка ортодонтическая &quot;Philips&quot; SCF178/23 Freeflow в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Бутылочки, соски и посуда: <a class='selected' style='color:#000000' href='/item/9116'>Соска-пустышка &quot;Philips&quot; SCF 633/27</a>, <a class='selected' style='color:#000000' href='/item/9515'>Пустышка ортодонтическая &quot;Philips&quot; SCF176/18</a>.

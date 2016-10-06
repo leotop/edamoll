@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Молочко SPF 30 Sublime Sun &quot;L'Oreal&quot; 200 мл по цене 552.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Объем: 200 мл.
+Заказывайте Молочко SPF 30 Sublime Sun &quot;L'Oreal&quot; 200 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Солнцезащитные средства: <a class='selected' style='color:#000000' href='/item/28509'>Сухое масло SPF 15 Sublime Sun &quot;L'Oreal&quot; 150 мл</a>, <a class='selected' style='color:#000000' href='/item/28461'>Солнцезащитное молочко детское Ambre Solaire SPF 30+ &quot;Garnier&quot; 200 мл</a>.

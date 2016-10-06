@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Салфетки детские влажные Ultra Comfort Aloe &quot;Huggies&quot; 128 шт по цене 199.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Марка: Huggies.
+Заказывайте Салфетки детские влажные Ultra Comfort Aloe &quot;Huggies&quot; 128 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10374'>Простыни впитывающие Bed Normal &quot;Tena&quot; 60X90 30 шт</a>, <a class='selected' style='color:#000000' href='/item/30611'>Подгузники для мальчиков Ultra Comfort &quot;Huggies&quot; 8-14 кг 19 шт</a>.

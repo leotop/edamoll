@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель для умывания &quot;Himalaya Herbals&quot; 150 мл по цене 137.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Марка: Himalaya Herbals.
+Заказывайте Гель для умывания &quot;Himalaya Herbals&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Очищающие средства для лица: <a class='selected' style='color:#000000' href='/item/19112'>Глубоко очищающий гель Чистый эффект 30 секунд Pure Zone &quot;L'Oreal&quot; 150 мл</a>, <a class='selected' style='color:#000000' href='/item/18690'>Гель для умывания Advantage быстрый эффект &quot;Clean & Clear&quot; 150 мл</a>.

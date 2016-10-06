@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Platinum Collection Ultra Super Plus &quot;Always&quot; 16 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Венгрия.
+Заказывайте Прокладки Platinum Collection Ultra Super Plus &quot;Always&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10668'>Прокладки ежедневные воздухопроницаемые &quot;Carefree&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/31269'>Прокладки Водная лилия Alldays &quot;Discreet&quot; 60 шт</a>.

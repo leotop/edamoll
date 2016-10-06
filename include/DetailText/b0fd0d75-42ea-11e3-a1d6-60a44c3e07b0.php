@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель для душа Whitewater &quot;Old Spice&quot; 250 мл по цене 133.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Платсмассовая.
+Заказывайте Гель для душа Whitewater &quot;Old Spice&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для душа: <a class='selected' style='color:#000000' href='/item/11835'>Гель для душа Натурэль гранат и манго &quot;Palmolive&quot; 250 мл</a>, <a class='selected' style='color:#000000' href='/item/11867'>Молочко для душа Protect Extra Hydrating увлажняющее с экстрактом хлопка &quot;Adidas&quot; 250 мл</a>.

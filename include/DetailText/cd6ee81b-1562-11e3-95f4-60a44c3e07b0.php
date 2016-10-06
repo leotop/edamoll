@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Жевательная резинка &quot;Wrigley Doublemint&quot; 13 г по цене 306.00 руб.
+Обратите внимание на Срок годности: 9 месяцев, а также Марка: Wrigley Doublemint.
+Заказывайте Жевательная резинка &quot;Wrigley Doublemint&quot; 13 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Жевательные конфеты и леденцы: <a class='selected' style='color:#000000' href='/item/9608'>Жевательная резинка &quot;Orbit&quot; Сочный арбуз 13,6 г</a>, <a class='selected' style='color:#000000' href='/item/4464'>Мармелад &quot;Haribo Wummis&quot; 200 г</a>.

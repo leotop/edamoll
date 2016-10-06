@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки с крылышками Ultra light duo &quot;Always&quot; 20 шт по цене 148.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Россия.
+Заказывайте Прокладки с крылышками Ultra light duo &quot;Always&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/21852'>Прокладки Ultra Super Plus &quot;Always&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/4381'>Тампоны &quot;Tampax Compak Super&quot; с аппликатором 16 шт</a>.

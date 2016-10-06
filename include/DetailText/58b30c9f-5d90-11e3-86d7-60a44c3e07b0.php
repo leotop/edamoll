@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Бритвенные станки со сменными кассетами Venus Breeze &quot;Gillette&quot; 2 шт по цене 408.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Марка: Gillette.
+Заказывайте Бритвенные станки со сменными кассетами Venus Breeze &quot;Gillette&quot; 2 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские бритвы: <a class='selected' style='color:#000000' href='/item/13553'>Кассеты для женского станка Sensor Excel &quot;Gillette&quot; 5 шт</a>, <a class='selected' style='color:#000000' href='/item/13605'>Одноразовые женские бритвенные станки Blue II &quot;Gillette&quot; 5 шт</a>.

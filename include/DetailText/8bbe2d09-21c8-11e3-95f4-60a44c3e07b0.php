@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сардины подкопченые в масле &quot;Moroccan Sardines Seafood Quality&quot; 125 г по цене 68.00 руб.
+Обратите внимание на Белки: 23 г, а также Энергетическая ценность: 218 Ккал.
+Заказывайте Сардины подкопченые в масле &quot;Moroccan Sardines Seafood Quality&quot; 125 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Рыбные консервы: <a class='selected' style='color:#000000' href='/item/8926'>Шпроты в масле &quot;Золото Балтики&quot; 240 г</a>, <a class='selected' style='color:#000000' href='/item/9070'>Шпроты в масле &quot;Riga Gold&quot; 160 г</a>.

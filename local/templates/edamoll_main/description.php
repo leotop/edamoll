@@ -1,0 +1,1 @@
+<?$arTemplate = array("NAME"=>"edamoll_main", "DESCRIPTION"=>"основной шаблон для страниц сайта");?>

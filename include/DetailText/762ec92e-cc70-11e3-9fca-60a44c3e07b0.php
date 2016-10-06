@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Пакеты с застёжкой 1 л &quot;Toppits&quot; 15 шт по цене 86.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: Cofresco Frischhalteprodukte GmbH & Co. KG.
+Заказывайте Пакеты с застёжкой 1 л &quot;Toppits&quot; 15 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Одноразовые принадлежности: <a class='selected' style='color:#000000' href='/item/22661'>Пакеты для льда &quot;Toppits&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/22719'>Фольга алюминиевая &quot;Toppits&quot; 10 м</a>.

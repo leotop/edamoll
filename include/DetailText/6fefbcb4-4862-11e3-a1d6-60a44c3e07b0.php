@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сухая молочная смесь Premium 2 &quot;Similac&quot; 900 г по цене 823.00 руб.
+Обратите внимание на Условия хранения: от 0°С до 25°С, а также Производитель: Abbott Laboratories S.A..
+Заказывайте Сухая молочная смесь Premium 2 &quot;Similac&quot; 900 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Детские смеси: <a class='selected' style='color:#000000' href='/item/12302'>Сухая молочная смесь 3 &quot;Similac&quot; 350 г</a>, <a class='selected' style='color:#000000' href='/item/20195'>Смесь кисломолочная 1 &quot;Nutrilon&quot; 400 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Лосьон после бритья Storm Force &quot;Gillette Series&quot; 50 мл по цене 231.00 руб.
+Обратите внимание на Объем: 50 мл, а также Производитель: Procter&Gamble.
+Заказывайте Лосьон после бритья Storm Force &quot;Gillette Series&quot; 50 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Средства после бритья: <a class='selected' style='color:#000000' href='/item/4101'>Гель после бритья &quot;Gillette Series&quot; для чувствительной кожи 75 мл</a>, <a class='selected' style='color:#000000' href='/item/17762'>Бальзам после бритья для чувствительной кожи &quot;Nivea for men&quot; 100 мл</a>.

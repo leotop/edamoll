@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Лакомство для котов Колбаска CAT-STICK MINI с лососем и форелью &quot;Vitakraft&quot; 3х6 г по цене 111.00 руб.
+Обратите внимание на Белки: 31 г, а также Производитель: Vitakraft.
+Заказывайте Лакомство для котов Колбаска CAT-STICK MINI с лососем и форелью &quot;Vitakraft&quot; 3х6 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Корм для кошек: <a class='selected' style='color:#000000' href='/item/12395'>Корм для кошек Sterile &quot;Perfect Fit&quot; 190 г</a>, <a class='selected' style='color:#000000' href='/item/12399'>Корм для кошек Из курицы и кролика Pleasure &quot;Sheba&quot; 85 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Чай черный Kenyan Sunrise &quot;Greenfield&quot; 25 пакетиков по цене 67.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Марка: Greenfield.
+Заказывайте Чай черный Kenyan Sunrise &quot;Greenfield&quot; 25 пакетиков в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18905'>Чай черный Ceylon Premium &quot;Riston&quot; 200 г</a>, <a class='selected' style='color:#000000' href='/item/2412'>Кофе растворимый &quot;Jacobs Monarch&quot; 95 г</a>.

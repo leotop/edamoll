@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Professional Ariel Color Expert&quot; 15 кг по цене 1665.00 руб.
+Обратите внимание на Вес: 15 кг, а также Страна производитель: Россия.
+Заказывайте Стиральный порошок &quot;Professional Ariel Color Expert&quot; 15 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/18868'>Стиральный порошок &quot;Persil Морозная Арктика&quot; 3 кг</a>, <a class='selected' style='color:#000000' href='/item/21449'>Стиральный порошок &quot;Dosia Color&quot; автомат 5,5 кг</a>.

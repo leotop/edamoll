@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Салфетки Flexi Form &quot;Carefree&quot; 30 шт по цене  руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Италия.
+Заказывайте Салфетки Flexi Form &quot;Carefree&quot; 30 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10646'>Прокладки Ultra Normal с шелковистой поверхностью &quot;Ola!&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10698'>Тампоны Pro Comfort Night Super &quot;O.B.&quot; 16 шт</a>.

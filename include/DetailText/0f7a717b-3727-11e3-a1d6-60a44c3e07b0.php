@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Normal &quot;Kotex&quot; 50 + 10 шт по цене 121.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Kotex.
+Заказывайте Прокладки ежедневные Normal &quot;Kotex&quot; 50 + 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10700'>Тампоны Pro comfort Super &quot;O.B.&quot; 16 шт</a>, <a class='selected' style='color:#000000' href='/item/10642'>Прокладки Ultra Night Sensitive &quot;Always&quot; 7 шт</a>.

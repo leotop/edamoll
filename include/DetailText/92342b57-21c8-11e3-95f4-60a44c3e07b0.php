@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сардины с томатом &quot;Moroccan Sardines Seafood Quality&quot; 125 г по цене 68.00 руб.
+Обратите внимание на Белки: 17 г, а также Срок годности: 4 года.
+Заказывайте Сардины с томатом &quot;Moroccan Sardines Seafood Quality&quot; 125 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Рыбные консервы: <a class='selected' style='color:#000000' href='/item/9123'>Тунец рубленый в масле &quot;Fortuna&quot; 185 г</a>, <a class='selected' style='color:#000000' href='/item/8603'>Шпроты Рижские &quot;Вкусные консервы&quot; 160 г</a>.

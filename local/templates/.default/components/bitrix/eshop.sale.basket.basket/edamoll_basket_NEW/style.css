@@ -1,0 +1,136 @@
+#id-cart-list, .cart-items{
+width:992px;
+border:4px solid rgb(255,0,57);
+z-index:1;
+position: relative;
+}
+table.equipment{
+margin: 135px auto 50px;
+}
+table.equipment thead td{
+font-weight:bold;
+}
+a.setaside, a.deleteitem, .sortbutton{
+color:black;
+text-decoration:underline;
+}
+.sortbutton{
+text-transform:uppercase;
+font-weight:bold;
+top:55px;
+position:absolute;
+padding:5px;
+}
+#sortbutton1,#sortbutton10{
+left:85px;
+}
+#sortbutton2{
+right:85px;
+}
+
+#sortbutton20{
+right:118px;
+}
+#cartrefresh{
+right:85px;
+top: 55px;
+position: absolute;
+}
+
+.sortbutton.current{
+color:white;
+text-decoration:none;
+background: rgb(149,209,0);
+}
+table.equipment a{
+color:black;
+}
+table.myorders_itog{
+margin-bottom:60px;
+position: relative;
+left: 500px;
+}
+
+#basketOrderButton2, #basketOrderButtonTop{
+color:white;
+text-transform:uppercase;
+font-weight:bold;
+height:60px;
+background: rgb(255,0,57);
+width: 220px;
+position:absolute;
+left:390px;
+z-index:2;
+border:10px solid white;
+line-height:0;
+}
+#basketOrderButton2{
+bottom: -26px;
+}
+#basketOrderButtonTop{
+top: -26px;
+}
+.bt3{
+padding:20px;
+color:black;
+font-weight:bold;
+text-transform:uppercase;
+background: rgb(255,0,57);
+}
+.cart-notetext{
+margin-bottom:40px;
+}
+.count_nav{
+position:relative;
+left: -23px;
+width: 90px;
+top: -8px;
+}
+.count_nav .quantity{
+top: -8px;
+}
+.count_nav .plus, .count_nav .minus{
+top: -8px;
+}
+.decimal{
+vertical-align: 0.3em;
+font-size: 70%; 
+}
+
+.price{
+ color: black;
+//font-weight:bold;
+font-size:12pt;
+}
+.summ{
+ color: black;
+font-weight:bold;
+font-size:13pt;
+}
+.fullsumm{
+    font-size: 18pt;
+    padding-left: 20px;
+    margin-top: -4px;
+    display: block;
+}
+.fullsummlbl{
+font-size:12pt;
+    text-align: right;
+
+
+}
+.blacktext td{
+/*vertical-align:bottom;*/
+}
+.tal input{
+width:140px;
+height: 28px;
+border:1px solid rgb(255,0,57);
+}
+.tal .btuse{
+background:rgb(255,0,57);
+height: 32px;
+margin-left: -4px;
+}    
+.td_cart_image{text-align:center;}
+.cart-item-price{width:70px;text-align:center;}

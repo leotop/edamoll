@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Classic Regular &quot;Libresse&quot; 40+10 шт по цене 60.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Россия.
+Заказывайте Прокладки ежедневные Classic Regular &quot;Libresse&quot; 40+10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10695'>Тампоны Pearl Super &quot;Tampax&quot; с апликатором 18 шт</a>, <a class='selected' style='color:#000000' href='/item/4243'>Прокладки гигиенические &quot;Bella&quot; Panty Mini 30+6 шт</a>.

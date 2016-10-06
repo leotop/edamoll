@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Бальзам Aqua Light &quot;Pantene Pro-V&quot; 250 мл по цене 276.00 руб.
+Обратите внимание на Объем: 200 мл, а также Производитель: Procter&Gamble.
+Заказывайте Бальзам Aqua Light &quot;Pantene Pro-V&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Бальзамы и маски: <a class='selected' style='color:#000000' href='/item/11559'>Кондиционер для окрашенных и поврежденны волос Cucumbers &quot;Yes To&quot; 500 мл</a>, <a class='selected' style='color:#000000' href='/item/11485'>Бальзам-ополаскиватель Pro Series Color &quot;Wella&quot; 500 мл</a>.

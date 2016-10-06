@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Platinum Collection Normal &quot;Always&quot; 10 шт по цене 88.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Марка: Always.
+Заказывайте Прокладки Platinum Collection Normal &quot;Always&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10664'>Прокладки ежедневные So slim &quot;Libresse&quot; 64 шт</a>, <a class='selected' style='color:#000000' href='/item/10662'>Прокладки ежедневные Normal &quot;Kotex&quot; 50 + 10 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье песочное с шоколадом и сахаром Classic Choco Kranze &quot;Coppenrath&quot; 250 г по цене 214.00 руб.
+Обратите внимание на Срок годности: 1 год, а также Углеводы: 68,4 г.
+Заказывайте Печенье песочное с шоколадом и сахаром Classic Choco Kranze &quot;Coppenrath&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/12736'>Печенье &quot;Датский балет&quot; 900 г</a>, <a class='selected' style='color:#000000' href='/item/12838'>Печенье Ассорти &quot;Wonderful Copenhagen&quot; 340 г</a>.

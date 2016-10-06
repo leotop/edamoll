@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Fresh Normal &quot;Always&quot; 18 шт по цене 153.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Россия.
+Заказывайте Прокладки Ultra Fresh Normal &quot;Always&quot; 18 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10678'>Прокладки с крылышками Ultra light duo &quot;Always&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/21852'>Прокладки Ultra Super Plus &quot;Always&quot; 8 шт</a>.

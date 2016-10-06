@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Invisible Clip Super Soft &quot;Libresse&quot; 8 шт по цене 72.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Словакия.
+Заказывайте Прокладки Invisible Clip Super Soft &quot;Libresse&quot; 8 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10671'>Прокладки с крылышками Natural Care Goodnigh &quot;Libresse&quot; 7 шт</a>, <a class='selected' style='color:#000000' href='/item/10661'>Прокладки ежедневные Maxi Fresh &quot;Carefree&quot; 20 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Iberica&quot; 0,5 л по цене 322.00 руб.
+Обратите внимание на Условия хранения: В темном месте, а также Марка: Iberica.
+Заказывайте Масло оливковое Extra Virgin &quot;Iberica&quot; 0,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/10808'>Масло оливковое Extra Vergin Granfruttato&quot;Monini&quot; 1 л</a>, <a class='selected' style='color:#000000' href='/item/10805'>Масло оливковое 100% Oil &quot;Hellada&quot; 0,5 л</a>.

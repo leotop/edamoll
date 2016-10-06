@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Silver Care&quot; Plus средняя по цене 333.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Страна производитель: Италия.
+Заказывайте Зубная щетка &quot;Silver Care&quot; Plus средняя в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10184'>Зубная щетка &quot;Reach&quot; Floss Clean средняя</a>, <a class='selected' style='color:#000000' href='/item/10955'>Зубная щетка &quot;Oral-B&quot; ProExpert Clinic Line Pro-Flex 38 средняя</a>.

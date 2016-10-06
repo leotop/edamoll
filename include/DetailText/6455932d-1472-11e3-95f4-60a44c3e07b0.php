@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные &quot;Discreet Deo Water lily&quot; 100 шт по цене 205.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Россия.
+Заказывайте Прокладки ежедневные &quot;Discreet Deo Water lily&quot; 100 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10637'>Прокладки Style Normal &quot;Libresse&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/10697'>Тампоны Pro comfort Night Normal &quot;O.B.&quot; 16 шт</a>.

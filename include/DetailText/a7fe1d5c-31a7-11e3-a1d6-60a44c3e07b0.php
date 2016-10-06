@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Trisa&quot; Flex Head 3 средняя по цене 201.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Страна производитель: Швейцария.
+Заказывайте Зубная щетка &quot;Trisa&quot; Flex Head 3 средняя в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10948'>Зубная щетка &quot;Colgate&quot; Massager средняя</a>, <a class='selected' style='color:#000000' href='/item/10955'>Зубная щетка &quot;Oral-B&quot; ProExpert Clinic Line Pro-Flex 38 средняя</a>.

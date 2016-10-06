@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Casting Creme Gloss 600 темно - русый &quot;L`Oreal&quot; по цене 313.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: ЗАО "Л'Ореаль".
+Заказывайте Краска для волос Casting Creme Gloss 600 темно - русый &quot;L`Oreal&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11587'>Краска для волос Mixing Colors 5-85 Ореховый коктейль &quot;Syoss&quot; 135 мл</a>, <a class='selected' style='color:#000000' href='/item/11582'>Краска для волос Color Sensation 9.13 Кремовый перламутр &quot;Garnier&quot;</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежеденевные Platinum Deo normal &quot;Always&quot; 50 шт по цене 136.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Картонная.
+Заказывайте Прокладки ежеденевные Platinum Deo normal &quot;Always&quot; 50 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10701'>Тампоны Pro comfort Super Plus &quot;O.B.&quot; 16 шт</a>, <a class='selected' style='color:#000000' href='/item/10660'>Прокладки ежедневные Light Солнечная ромашка &quot;Ola!&quot; 20 шт</a>.

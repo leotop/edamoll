@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Детские влажные салфетки Ultra Comfort &quot;Aura&quot; 63 шт по цене 66.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Детские влажные салфетки Ultra Comfort &quot;Aura&quot; 63 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10255'>Подгузники Newborn &quot;Huggies&quot; 3-6 кг 88 шт</a>, <a class='selected' style='color:#000000' href='/item/10022'>Подгузники-трусики Аctive Girl Extra Large &quot;Pampers&quot; 16+ кг 44 шт</a>.

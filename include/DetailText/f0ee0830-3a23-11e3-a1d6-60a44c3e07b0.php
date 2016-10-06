@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло из виноградных косточек Grapeseed Oil &quot;Monini&quot; 1 л по цене 494.00 руб.
+Обратите внимание на Объем: 1 л, а также Страна производитель: Италия.
+Заказывайте Масло из виноградных косточек Grapeseed Oil &quot;Monini&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12081'>Масло оливковое Extra Virgin &quot;De Cecco&quot; 5 л</a>, <a class='selected' style='color:#000000' href='/item/10748'>Масло оливковое Extra vergine Classico нефильтрованное &quot;Monini&quot; 2 л</a>.

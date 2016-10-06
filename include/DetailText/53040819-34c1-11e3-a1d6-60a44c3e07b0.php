@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Premium Care Maxi &quot;Pampers&quot; 7-14 кг 104 шт по цене 1815.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Pampers.
+Заказывайте Подгузники Premium Care Maxi &quot;Pampers&quot; 7-14 кг 104 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9842'>Подгузники Comfort Maxi+ &quot;Libero&quot; 10-16 кг 112 шт</a>, <a class='selected' style='color:#000000' href='/item/10343'>Пеленки &quot;Aura&quot; 60Х60 10 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Premium Midi &quot;Pampers&quot; 4-9 кг 60 шт по цене 1013.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Польша.
+Заказывайте Подгузники Premium Midi &quot;Pampers&quot; 4-9 кг 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10251'>Подгузники Active Baby Junior &quot;Pampers&quot; 11-18 кг 132 шт</a>, <a class='selected' style='color:#000000' href='/item/9780'>Подгузники &quot;Pampers&quot; Active Baby Jumbo Maxi 9-16 кг 62 шт</a>.

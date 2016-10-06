@@ -1,0 +1,24 @@
+Array
+(
+    [BITRIX_SM_GUEST_ID] => 306225
+    [BITRIX_SM_LAST_VISIT] => 02.06.2014 12:33:27
+    [BITRIX_SM_SALE_UID] => 1472340
+    [__utma] => 218785869.1764498886.1396269139.1401694536.1401697940.76
+    [__utmz] => 218785869.1400835892.65.5.utmcsr=gdeslon|utmccn=partner|utmcmd=cpo
+    [__utmv] => 218785869.|1=user_id=05Zbc=1
+    [_ga] => GA1.2.1764498886.1396269139
+    [BITRIX_SM_LOGIN] => Gorillas
+    [BITRIX_SM_Izb] => a:0:{}
+    [PHPSESSID] => 81fd6eeed612c20432840c45233be269
+    [user_id] => 05Zbc
+    [session_id] => gCAx5
+    [click_time] => Mon Jun 02 2014 10:32:34 GMT 0700 (NOVT)
+    [__utmc] => 218785869
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [__utmb] => 218785869.6.9.1401697988652
+    [_dc] => 1
+    [_ym_visorc_21772657] => w
+)
+
+
+17601:39.00,11968:107.00,8718:66.00,20226:226.00,19306:92.00

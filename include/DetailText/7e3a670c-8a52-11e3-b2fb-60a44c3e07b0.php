@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Лапша в гнездах Nidi Tagliatelle &quot;Bioitalia&quot; 500 г по цене 244.00 руб.
+Обратите внимание на Вес: 500 г, а также Условия хранения: В прохладном, вентилируемом и сухом месте.
+Заказывайте Лапша в гнездах Nidi Tagliatelle &quot;Bioitalia&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Макаронные изделия: <a class='selected' style='color:#000000' href='/item/12051'>Макароны Перья рифленые &quot;Federici&quot; 500 г</a>, <a class='selected' style='color:#000000' href='/item/9437'>Макароны Penne rigate &quot;Barilla&quot; 1 кг</a>.

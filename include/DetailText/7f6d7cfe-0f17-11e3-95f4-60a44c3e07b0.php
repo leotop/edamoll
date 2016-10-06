@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Бальзам после бритья &quot;Arko Cool&quot; 150 мл по цене 111.00 руб.
+Обратите внимание на Срок годности: 5 лет, а также Объем: 150 мл.
+Заказывайте Бальзам после бритья &quot;Arko Cool&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Средства после бритья: <a class='selected' style='color:#000000' href='/item/4087'>Бальзам после бритья &quot;Gillette Sensitive Skin&quot; 75 мл</a>, <a class='selected' style='color:#000000' href='/item/17808'>Лосьон после бритья Artic Ice &quot;Gillette Series&quot; 100 мл</a>.

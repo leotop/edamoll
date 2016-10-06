@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Sleep&Play Junior &quot;Pampers&quot; 11-25 кг 58 шт по цене 724.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Пленочная пачка.
+Заказывайте Подгузники Sleep&Play Junior &quot;Pampers&quot; 11-25 кг 58 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10008'>Подгузники Newborn Mini &quot;Huggies&quot; 3-6 кг 32 шт</a>, <a class='selected' style='color:#000000' href='/item/10251'>Подгузники Active Baby Junior &quot;Pampers&quot; 11-18 кг 132 шт</a>.

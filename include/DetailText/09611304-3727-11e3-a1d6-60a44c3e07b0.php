@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Style Super &quot;Libresse&quot; 16 шт по цене 124.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: SCA Hygiene Products.
+Заказывайте Прокладки Style Super &quot;Libresse&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10635'>Прокладки Platinum Collection Normal &quot;Always&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10650'>Прокладки Ultra Sensetive Normal &quot;Always&quot; 20 шт</a>.

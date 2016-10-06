@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант-антиперспирант Aloe Vera &quot;Rexona&quot; 150 мл по цене 125.00 руб.
+Обратите внимание на Срок годности: 30 месяцев, а также Страна производитель: Великобритания.
+Заказывайте Дезодорант-антиперспирант Aloe Vera &quot;Rexona&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские дезодоранты: <a class='selected' style='color:#000000' href='/item/18930'>Дезодорант Angel Star Hot Crash &quot;Nivea&quot; спрей 100 мл</a>, <a class='selected' style='color:#000000' href='/item/18933'>Дезодорант Fresh&Essence &quot;Lady Speed Stick&quot; стик 65 г</a>.

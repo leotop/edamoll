@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Baby Soft Mini &quot;Libero&quot; 3-6 кг 94 шт по цене 1073.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: SCA Hygiene Products.
+Заказывайте Подгузники Baby Soft Mini &quot;Libero&quot; 3-6 кг 94 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10256'>Подгузники Premium Maxi &quot;Pampers&quot; 7-14 кг 52 шт</a>, <a class='selected' style='color:#000000' href='/item/10011'>Подгузники Sleep&Play Maxi &quot;Pampers&quot; 7-18 кг 68 шт</a>.

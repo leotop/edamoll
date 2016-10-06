@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Natural Ultra Clip Super &quot;Libresse&quot; 9 шт по цене 51.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Natural Ultra Clip Super &quot;Libresse&quot; 9 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4263'>Тампоны Original Normal &quot;o.b.&quot; 16 шт</a>, <a class='selected' style='color:#000000' href='/item/31270'>Прокладки ежедневные Dео &quot;Helen Harper&quot; 50 шт</a>.

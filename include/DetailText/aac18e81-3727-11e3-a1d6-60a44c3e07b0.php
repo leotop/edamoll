@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Platinum Collection Night &quot;Always&quot; 14 шт по цене 165.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Platinum Collection Night &quot;Always&quot; 14 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4261'>Тампоны &quot;Kotex&quot; Normal 16 шт</a>, <a class='selected' style='color:#000000' href='/item/10695'>Тампоны Pearl Super &quot;Tampax&quot; с апликатором 18 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Конфета жевательная Marshmallows mini &quot;Rocky Mountain &quot; 150 г по цене 113.00 руб.
+Обратите внимание на Вес: 150 г, а также Производитель: "Doumak Inc".
+Заказывайте Конфета жевательная Marshmallows mini &quot;Rocky Mountain &quot; 150 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зефир, пастила, мармелад: <a class='selected' style='color:#000000' href='/item/12696'>Зефир в шоколаде классический &quot;Шармэль&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/12733'>Пастила клюквенная &quot;Шармэль&quot; 221 г</a>.

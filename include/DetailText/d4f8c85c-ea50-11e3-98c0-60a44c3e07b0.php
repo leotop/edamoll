@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Crema Speciale &quot;Cellini&quot; espresso 1 кг по цене 1540.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 20°С, а также Срок годности: 18 месяцев.
+Заказывайте Кофе зерновой Crema Speciale &quot;Cellini&quot; espresso 1 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18396'>Чай черный чебрец &quot;Milford&quot; 20 пакетиков</a>, <a class='selected' style='color:#000000' href='/item/18924'>Чай черный цейлонский &quot;Maitre&quot; 100 г</a>.

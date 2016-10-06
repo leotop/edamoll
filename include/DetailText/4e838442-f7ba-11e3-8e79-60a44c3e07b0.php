@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Макароны Capelli d'angelo №209 &quot;De Cecco&quot; 500 г по цене 152.00 руб.
+Обратите внимание на Срок годности: 36 месяцев, а также Страна производитель: Россия.
+Заказывайте Макароны Capelli d'angelo №209 &quot;De Cecco&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Макаронные изделия: <a class='selected' style='color:#000000' href='/item/9445'>Макароны Tagliatelle Paglia & Fien &quot;Barilla&quot; 500 г</a>, <a class='selected' style='color:#000000' href='/item/9463'>Макароны Перья рифленые &quot;Pasta Zara&quot; 500 г</a>.

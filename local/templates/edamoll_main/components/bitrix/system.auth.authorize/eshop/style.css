@@ -1,0 +1,53 @@
+.form_auth_div{
+width:323px;
+float:left;
+text-align:right;
+}
+.soc_net_div{
+float:right;
+margin-right:10px;
+width:340px;
+}
+.log_cont{
+width:700px;
+position:relative;
+}
+.forgotpassword a{
+color: rgb(141,141,141);
+text-decoration:underline;
+vertical-align:top;
+text-transform:lowercase;
+}
+.forgotpassword a:hover{
+text-decoration:none;
+}
+.log_cont strong{
+color: rgb(141,141,141);
+text-transform:lowercase;
+}
+.rememberme{display:none;}
+#auth_submit{
+height:32px;
+line-height:32px;
+border:1px solid rgb(255,0,57);
+background:rgb(255,0,57);
+color:white;
+font-weight:bold;
+font-size:14px;
+text-transform:uppercase;
+float:right;
+}
+.input_text_style{
+width:300px;
+height:30px;
+line-height:31px;
+border:1px solid black;
+}
+
+.textl{
+text-align:left;margin-left: 20px;
+}
+.h_text{
+font-weight:bold;
+font-size:12pt;
+}

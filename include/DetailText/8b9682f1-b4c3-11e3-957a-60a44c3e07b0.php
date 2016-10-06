@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Средство для стирки &quot;Minel Color&quot; 1,5 л по цене 465.00 руб.
+Обратите внимание на Срок годности: 5 лет, а также Упаковка: Пластиковая бутылка.
+Заказывайте Средство для стирки &quot;Minel Color&quot; 1,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/27951'>Капсулы Color Expert Duo-Caps &quot;Persil&quot; 32 шт</a>, <a class='selected' style='color:#000000' href='/item/19394'>Средство для стирки &quot;Persil Color Expert Tabs&quot; 48 шт</a>.

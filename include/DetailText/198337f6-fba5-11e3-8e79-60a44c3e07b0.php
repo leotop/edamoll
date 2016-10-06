@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Солнцезащитное молочко детское Ambre Solaire SPF 30+ &quot;Garnier&quot; 200 мл по цене 385.00 руб.
+Обратите внимание на Объем: 200 мл, а также Марка: Garnier.
+Заказывайте Солнцезащитное молочко детское Ambre Solaire SPF 30+ &quot;Garnier&quot; 200 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Солнцезащитные средства: <a class='selected' style='color:#000000' href='/item/28392'>Бальзам для загара детский SPF 50 &quot;Eva Sun&quot; 150 мл</a>, <a class='selected' style='color:#000000' href='/item/28433'>Молочко SPF 30 Sublime Sun &quot;L'Oreal&quot; 200 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Water Lily Deo Plus &quot;Discreet&quot; 50 шт по цене  руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Марка: Discreet.
+Заказывайте Прокладки Water Lily Deo Plus &quot;Discreet&quot; 50 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31273'>Прокладки ежедневные Natural Care Normal &quot;Libresse&quot; 40 шт</a>, <a class='selected' style='color:#000000' href='/item/4261'>Тампоны &quot;Kotex&quot; Normal 16 шт</a>.

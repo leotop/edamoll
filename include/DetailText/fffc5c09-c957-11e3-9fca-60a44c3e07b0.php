@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Super Plus &quot;Always&quot; 8 шт по цене 76.00 руб.
+Обратите внимание на Условия хранения: В сухом мете, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Ultra Super Plus &quot;Always&quot; 8 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10656'>Прокладки ежеденевные Platinum Deo normal &quot;Always&quot; 50 шт</a>, <a class='selected' style='color:#000000' href='/item/10641'>Прокладки Ultra Night Sensitive &quot;Always&quot; 14 шт</a>.

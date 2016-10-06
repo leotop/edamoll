@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Одноразовые бритвенные станки &quot;Gillette Blue II Plus&quot; 5 шт по цене 71.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Упаковка: Полиэтиленовая.
+Заказывайте Одноразовые бритвенные станки &quot;Gillette Blue II Plus&quot; 5 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские бритвы: <a class='selected' style='color:#000000' href='/item/13562'>Кассеты сменные для станка Mach3 Turbo &quot;Gillette&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/17793'>Кассеты сменные для станка Fusion Proglide &quot;Gillette&quot; 8 шт</a>.

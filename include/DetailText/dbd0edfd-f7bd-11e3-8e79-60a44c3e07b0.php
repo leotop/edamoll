@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Чай черный Mild Ceylon байховый листовой ''Lipton'' 100 г по цене 171.00 руб.
+Обратите внимание на Вес: 100 г, а также Срок годности: 24 месяца.
+Заказывайте Чай черный Mild Ceylon байховый листовой ''Lipton'' 100 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/26251'>Кофе зерновой Bella Crema Espresso &quot;Melitta&quot; 1 кг</a>, <a class='selected' style='color:#000000' href='/item/18908'>Чай черный English Breakfast &quot;Lipton&quot; 25 пакетиков</a>.

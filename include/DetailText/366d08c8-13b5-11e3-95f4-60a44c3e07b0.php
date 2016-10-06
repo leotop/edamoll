@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны Pro Comfort Super &quot;o.b.&quot; 16 шт по цене 130.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: Johnson & Johnson.
+Заказывайте Тампоны Pro Comfort Super &quot;o.b.&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10631'>Прокладки Lux Normal &quot;Kotex&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/31287'>Прокладки с крылышками Normal &quot;Naturella&quot; 20 шт</a>.

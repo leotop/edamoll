@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое с чесноком и перцем чили Extra Virgin &quot;Monini&quot; 0,25 л по цене 427.00 руб.
+Обратите внимание на Срок годности: 18 месяцев, а также Марка: Monini.
+Заказывайте Масло оливковое с чесноком и перцем чили Extra Virgin &quot;Monini&quot; 0,25 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12091'>Масло оливковое Toscano &quot;Prim Oli&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/12090'>Масло оливковое Terra Di Bari &quot;Prim Oli&quot; 0,5 л</a>.

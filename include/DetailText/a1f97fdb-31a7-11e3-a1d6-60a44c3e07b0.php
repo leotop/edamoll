@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Colgate&quot; Sensitive Pro-Relief Восстановление эмали 75 мл по цене 163.00 руб.
+Обратите внимание на Условия хранения: от 0°С до 20°C, а также Объем: 0,75 л.
+Заказывайте Зубная паста &quot;Colgate&quot; Sensitive Pro-Relief Восстановление эмали 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/9656'>Зубная паста &quot;President&quot; Active 75 мл</a>, <a class='selected' style='color:#000000' href='/item/9648'>Зубная паста &quot;Lacalut&quot; Active 75 мл</a>.

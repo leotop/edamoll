@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Капсулы &quot;Ariel Active Gel Color & Style&quot; 23 шт по 35 г по цене 569.00 руб.
+Обратите внимание на Срок годности: 1,5 года, а также Производитель: "Проктер энд Гэмбл Амьенс".
+Заказывайте Капсулы &quot;Ariel Active Gel Color & Style&quot; 23 шт по 35 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/21359'>Жидкое средство &quot;Uniplus Universal&quot; 1,5 л</a>, <a class='selected' style='color:#000000' href='/item/3615'>Гель &quot;Dreft Шерсть&quot; для деликатной стирки 800 мл</a>.

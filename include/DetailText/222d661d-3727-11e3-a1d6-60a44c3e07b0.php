@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Platinum Light &quot;Always&quot; 20 шт по цене 165.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Марка: Always.
+Заказывайте Прокладки Ultra Platinum Light &quot;Always&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10680'>Прокладки с крылышками Ultra Night &quot;Always&quot; 7 шт</a>, <a class='selected' style='color:#000000' href='/item/10672'>Прокладки с крылышками Nova Classic &quot;Bella&quot; 10  шт</a>.

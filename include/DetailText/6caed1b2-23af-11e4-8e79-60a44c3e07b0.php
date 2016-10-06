@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Irresistible Deo Multiform &quot;Discreet&quot; 60 шт по цене  руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Марка: Discreet.
+Заказывайте Прокладки Irresistible Deo Multiform &quot;Discreet&quot; 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10676'>Прокладки с крылышками Perfecta Blue &quot;Bella&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/31304'>Тампоны Super &quot;Ola!&quot; 8 шт</a>.

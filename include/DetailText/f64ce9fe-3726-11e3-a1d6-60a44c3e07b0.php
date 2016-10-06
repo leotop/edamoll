@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки с крылышками Ultra Night &quot;Always&quot; 7 шт по цене 76.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Россия.
+Заказывайте Прокладки с крылышками Ultra Night &quot;Always&quot; 7 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4264'>Тампоны &quot;o.b. Original&quot; Super 32 шт</a>, <a class='selected' style='color:#000000' href='/item/10640'>Прокладки Ultra Light &quot;Always&quot; 40 шт</a>.

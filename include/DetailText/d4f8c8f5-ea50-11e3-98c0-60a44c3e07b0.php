@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Espresso Stile di Milano &quot;Jardin&quot; 500 г по цене 283.00 руб.
+Обратите внимание на Вес: 500 г, а также Страна производитель: Швейцария.
+Заказывайте Кофе зерновой Espresso Stile di Milano &quot;Jardin&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18891'>Чай зеленый листовой c жасмином &quot;Riston&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/18371'>Чай фруктовый шиповник &quot;Milford&quot; 20 пакетиков</a>.

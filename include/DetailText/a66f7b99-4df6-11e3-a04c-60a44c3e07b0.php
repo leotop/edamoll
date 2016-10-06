@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье Ginger Thins Тонкое имбирное &quot;Anna's&quot; 150 г по цене 119.00 руб.
+Обратите внимание на Белки: 8,1 г, а также Производитель: Lotus Bakeries.
+Заказывайте Печенье Ginger Thins Тонкое имбирное &quot;Anna's&quot; 150 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/12833'>Печенье Almond Thins Тонкое миндальное &quot;Anna's&quot; 150 г</a>, <a class='selected' style='color:#000000' href='/item/12873'>Печенье с шоколадом Mini &quot;Leibniz&quot; 100 г</a>.

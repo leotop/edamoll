@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Маслины с косточкой &quot;Maestro de Oliva&quot; 280 г по цене 54.00 руб.
+Обратите внимание на Углеводы: 4,78 г, а также Марка: Maestro de Oliva.
+Заказывайте Маслины с косточкой &quot;Maestro de Oliva&quot; 280 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Оливки и маслины: <a class='selected' style='color:#000000' href='/item/18061'>Оливки зеленые без косточек крупные &quot;Acorsa&quot; 425 г</a>, <a class='selected' style='color:#000000' href='/item/18346'>Оливки с сыром &quot;Maestro de Oliva&quot; 300 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны Fresh Super Compact &quot;Tampax&quot; 16 шт по цене  руб.
+Обратите внимание на Срок годности: 5 лет, а также Страна производитель: Польша.
+Заказывайте Тампоны Fresh Super Compact &quot;Tampax&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4368'>Прокладки ежедневные &quot;Discreet Deo Water lily&quot; 100 шт</a>, <a class='selected' style='color:#000000' href='/item/10697'>Тампоны Pro Comfort Night Normal &quot;O.B.&quot; 16 шт</a>.

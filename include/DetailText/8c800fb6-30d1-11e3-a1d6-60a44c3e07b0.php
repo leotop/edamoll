@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Casting Creme Gloss 200 черное дерево  &quot;L`Oreal&quot; по цене 313.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Casting Creme Gloss 200 черное дерево  &quot;L`Oreal&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11591'>Краска для волос Perfect Mousse 400 Темный каштан &quot;Schwarzkopff&quot;</a>, <a class='selected' style='color:#000000' href='/item/11616'>Краска-мусс для волос Wellaton 7/3 Лесной орех &quot;Wella&quot;</a>.

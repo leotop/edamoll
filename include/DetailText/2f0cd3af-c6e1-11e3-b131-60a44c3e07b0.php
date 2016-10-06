@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Жидкое средство &quot;Uniplus Wool аnd Silk&quot; 1,5 л по цене 384.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 35°С, а также Производитель: К&Kcapitalgroup.
+Заказывайте Жидкое средство &quot;Uniplus Wool аnd Silk&quot; 1,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/18854'>Средство для стирки &quot;Persil Expert Gel&quot; 2,19 л</a>, <a class='selected' style='color:#000000' href='/item/21360'>Жидкое средство &quot;Uniplus White&quot; 1,5 л</a>.

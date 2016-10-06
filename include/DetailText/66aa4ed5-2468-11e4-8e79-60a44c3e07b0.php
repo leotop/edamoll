@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сыр с плесенью Piccante Gorgonzola &quot;Merivio&quot; 150 г по цене  руб.
+Обратите внимание на Жиры: 48 г, а также Условия хранения: от 4°С до 6°С.
+Заказывайте Сыр с плесенью Piccante Gorgonzola &quot;Merivio&quot; 150 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Сыры твердые: <a class='selected' style='color:#000000' href='/item/30531'>Сыр копченый со вкусом чеснока и укропа &quot;Сырцееды&quot; 30 г</a>, <a class='selected' style='color:#000000' href='/item/30373'>Сырные слайсы &quot;Oltermanni&quot; 150 г</a>.

@@ -1,0 +1,679 @@
+From: info@edamoll.ru
+Reply-To: info@edamoll.ru
+X-Priority: 3 (Normal)
+BCC: info@edamoll.ru
+X-MID: 0.3 (25.04.2014 07:57:05)
+X-EVENT_NAME: USER_PASS_REQUEST
+Content-Type: text/html; charset=windows-1251
+Content-Transfer-Encoding: 8bitИнформационное сообщение сайта Интернет супермаркет Edamoll
+------------------------------------------
+ ,
+
+Вы запросили ваши регистрационные данные.
+
+Для смены пароля перейдите по следующей ссылке:
+http://edamoll.ru/auth/index.php?change_password=yes&lang=ru&USER_CHECKWORD=a2cca96cbcd45acae05654bc89fc901d&USER_LOGIN=Gorillas
+
+Ваша регистрационная информация:
+
+ID пользователя: 2301
+Статус профиля: активен
+Login: Gorillas
+
+Сообщение сгенерировано автоматически.From: info@edamoll.ru
+Reply-To: info@edamoll.ru
+X-Priority: 3 (Normal)
+BCC: info@edamoll.ru
+X-MID: 0.3 (25.04.2014 07:58:41)
+X-EVENT_NAME: USER_PASS_REQUEST
+Content-Type: text/plain; charset=windows-1251
+Content-Transfer-Encoding: 8bitИнформационное сообщение сайта Интернет супермаркет Edamoll
+------------------------------------------
+ ,
+
+Вы запросили ваши регистрационные данные.
+
+Для смены пароля перейдите по следующей ссылке:
+http://edamoll.ru/auth/index.php?change_password=yes&lang=ru&USER_CHECKWORD=754b1980aecf0a487cfb81710a6fca89&USER_LOGIN=Gorillas
+
+Ваша регистрационная информация:
+
+ID пользователя: 2301
+Статус профиля: активен
+Login: Gorillas
+
+Сообщение сгенерировано автоматически.From: info@edamoll.ru
+Reply-To: info@edamoll.ru
+X-Priority: 3 (Normal)
+BCC: info@edamoll.ru
+X-MID: 0.3 (25.04.2014 08:00:15)
+X-EVENT_NAME: USER_PASS_REQUEST
+Content-Type: text/plain; charset=windows-1251
+Content-Transfer-Encoding: 8bitИнформационное сообщение сайта Интернет супермаркет Edamoll
+------------------------------------------
+ ,
+
+Вы запросили ваши регистрационные данные.
+
+Для смены пароля перейдите по следующей ссылке:
+http://edamoll.ru/auth/index.php?change_password=yes&lang=ru&USER_CHECKWORD=33d9d6ef8d1866b31009fe0412989899&USER_LOGIN=Gorillas
+
+Ваша регистрационная информация:
+
+ID пользователя: 2301
+Статус профиля: активен
+Login: Gorillas
+
+Сообщение сгенерировано автоматически.From: order@edamoll.ru
+BCC: order@edamoll.ru
+Reply-To: order@edamoll.ru
+X-Priority: 3 (Normal)
+X-MID: 3313.33 (25.04.2014 08:00:55)
+X-EVENT_NAME: SALE_NEW_ORDER
+Content-Type: text/html; charset=windows-1251
+Content-Transfer-Encoding: 8bit<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1251"/>
+  <style>
+    body
+    {
+      font-family:'PT Sans', sans-serif;
+      font-size:14px;
+      color:#000;
+    }
+  </style>
+</head>
+<body>
+<div style="width:750px;">
+  <div style="float:left;margin-right:50px;">
+    <a title="" href="http://edamoll.ru"><img width="216" height="61" title="edamoll" alt="edamoll" src="http://edamoll.ru/include/logo.jpg"/></a>
+    <br /><a title="" href="http://edamoll.ru" style="font-size:111%;color:rgb(255, 0, 57);font-weight:bold;">
+      ИНТЕРНЕТ СУПЕРМАРКЕТ
+    </a>
+  </div>
+  <div style="float:left;"><br /><br /><br />Служба поддержки:
+    <br /><b><font size="4"  style="color:black; border:none;">
+        +7 (495) 215 56 33
+      </font></b></div>
+  <div style="clear:both;"></div>
+
+  <p>Здравствуйте Gorillas!</p>
+  <p>Ваш заказ успешно принят</p>
+  <p>Заказ был сделан  25.04.2014</p>
+  <br />
+  <p><b>Номер Вашего заказа 2820</b></p>
+
+  <br />
+  <p style="font-weight:bold;">ДАННЫЕ ЗАКАЗА:</p>
+
+  <br />
+
+
+
+  <p>
+    <div>
+<table width="100%" cellspacing="10" style="margin-bottom:60px;">
+		<tr>
+			<td style="color:rgb(94, 94, 94);">
+ФИО
+</td><td style="width:30px;"></td>
+			<td> Имяdfg </td>
+                    <td rowspan="5" style="text-align:right;font-size:14pt;font-weight:bold;width:350px;vertical-align:top;">
+                    <table width="100%"><tr>
+ <td align="left"><b>СУММА ЗАКАЗА:</b></td>
+ <td align="right">348.50 р.</td>
+	</tr><tr>
+			<td align="left">
+				<b>СТОИМОСТЬ ДОСТАВКИ:</b>
+			</td>
+			<td align="right">250.00 р.</td>
+		</tr><tr><td colspan="2" style="border-top:1px solid black;"></td></tr>
+	<tr>
+		<td align="left"><b>ОБЩАЯ СТОИМОСТЬ:</b></td>
+		<td align="right"><b>598.50 р.</b>
+		</td>
+	</tr>
+</table>
+
+</td>
+		</tr>
+
+		<tr>
+			<td style="color:rgb(94, 94, 94);">
+Номер телефона
+			</td><td></td>
+			<td>Номер телефонаfdg	</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Email
+                       </td><td></td>
+                       <td>dmitriy.zaharchenko@gorillasweb.ru</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Адрес доставки
+                       </td><td></td>
+                       <td>Адрес доставки:	</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Дата доставки
+                       </td><td></td>
+                       <td>25.04.2014 (Пт)</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Оплата банковской картой во время доставки
+                       </td><td></td>
+                       <td>Нет</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Комментарий к заказу
+                       </td><td></td>
+                       <td>
+			</td>
+		</tr>
+
+
+	</table>
+<div><table rules="rows" width="100%" style="border-bottom:1px solid black;margin-bottom:60px;"><thead><tr><th></th><th style="text-align:left;">Название</th><th>Количество/Вес</th><th>Цена за ед.</th><th>Сумма</th></tr></thead><tbody><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/8718'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/4a0/4a0733a661fbd4e791f6b4442b97d22c.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/8718'>Рис Янтарь пропаренный длиннозерный "Мистраль" 1 кг</a></td><td style='text-align:center;'>5.00 шт</td><td style="text-align:center;"><span>62<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>310<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/17601'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/20b/20b21f1a8731d71e6a24eec3d1c832a2.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/17601'>Картофель в сетке "Агропродспектр" 5 кг</a></td><td style='text-align:center;'>1.10 кг</td><td style="text-align:center;"><span>35<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>38<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">50</span></span></td></tr></tbody></table>
+  </p>
+
+
+  <div class="edamoll_footer">
+
+    <div  class="edamoll_sidebar" style="width:180px;height:160px;float:left;text-align:center;">
+      <a href="http://www.facebook.com/edamoll" ><img src="http://edamoll.ru/include/img/facebook.png" border="0" alt="facebook" width="33" height="33"  /></a>
+      <a href="http://vk.com/edamoll" ><img src="http://edamoll.ru/include/img/vk.png" hspace="25" border="0" alt="vk" width="33" height="33"  /></a>
+      <a href="http://twitter.com/edamoll" ><img src="http://edamoll.ru/include/img/twitter.png" border="0" alt="twitter" width="33" height="33"  /></a><br /><br />
+      <img width="94" height="98" title="edamoll" alt="edamoll" src="http://edamoll.ru/include/img/logo_bot2.png"/>
+    </div>
+    <div class="edamoll_footer-links">
+
+      <div class="edamoll_footer_links_area">
+
+        <table width="570" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+          <tbody>
+          <tr>
+            <td style="width:150px;"><span style=" padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">каталог товаров</span></td>
+            <td style="width:110px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">сервис</span></td>
+            <td style="width:150px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">личный кабинет</span></td>
+            <td style="width:160px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">контакты</span></td></tr>
+
+          <tr>
+            <td style="vertical-align:top;">
+
+              <a href="http://edamoll.ru/produkty/" style="color:black;text-decoration:none;">Продукты питания</a><br />
+
+              <a href="http://edamoll.ru/detskie_tovary/" style="color:black;text-decoration:none;">Детские товары</a><br />
+
+              <a href="http://edamoll.ru/zootovary/" style="color:black;text-decoration:none;">Зоотовары</a><br />
+
+              <a href="http://edamoll.ru/cosmetic/" style="color:black;text-decoration:none;">Косметика</a><br />
+
+              <a href="http://edamoll.ru/bytovaya_khimiya/" style="color:black;text-decoration:none;">Бытовая химия</a><br />
+
+              <a href="http://edamoll.ru/alkogol_i_tabak/" style="color:black;text-decoration:none;">Алкоголь и табак</a>
+
+
+            </td>
+            <td style="vertical-align:top;">
+              <a href="http://edamoll.ru/about/delivery.php" style="color:black;text-decoration:none;">Доставка </a>
+              <br />
+              <a href="http://edamoll.ru/about/payment.php" style="color:black;text-decoration:none;" >Оплата </a>
+              <br />
+              <a href="http://edamoll.ru/about/contacts.php"  style="color:black;text-decoration:none;">Реквизиты</a><br />
+
+              <a href="http://edamoll.ru/about/"  style="color:black;text-decoration:none;">О нас</a> </td>
+            <td style="vertical-align:top;">
+              <a href="http://edamoll.ru"  style="color:black;text-decoration:none;">Вход</a><br />
+
+              <a href="http://edamoll.ru"  style="color:black;text-decoration:none;">Регистрация
+                <br />
+              </a> <a href="http://edamoll.ru/personal/basket.php"  style="color:black;text-decoration:none;">Корзина</a> </td>
+            <td style="vertical-align:top;">
+              <b>Служба поддержки:
+                <br />
+              </b> <span style="color:black; border:none;">+7 (495) 215 56 33</span><b>
+                <br />
+              </b><b> Адрес:
+                <br />
+              </b> г.Москва, ул.Ижорская, д.7           </td></tr>
+          </tbody>
+        </table>
+
+        <br />
+      </div>
+
+    </div>
+  </div>
+
+</div>
+</body>
+</html>From: order@edamoll.ru
+BCC: order@edamoll.ru
+Reply-To: order@edamoll.ru
+X-Priority: 3 (Normal)
+X-MID: 3314.33 (25.04.2014 09:09:12)
+X-EVENT_NAME: SALE_NEW_ORDER
+Content-Type: text/html; charset=windows-1251
+Content-Transfer-Encoding: 8bit<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1251"/>
+  <style>
+    body
+    {
+      font-family:'PT Sans', sans-serif;
+      font-size:14px;
+      color:#000;
+    }
+  </style>
+</head>
+<body>
+<div style="width:750px;">
+  <div style="float:left;margin-right:50px;">
+    <a title="" href="http://edamoll.ru"><img width="216" height="61" title="edamoll" alt="edamoll" src="http://edamoll.ru/include/logo.jpg"/></a>
+    <br /><a title="" href="http://edamoll.ru" style="font-size:111%;color:rgb(255, 0, 57);font-weight:bold;">
+      ИНТЕРНЕТ СУПЕРМАРКЕТ
+    </a>
+  </div>
+  <div style="float:left;"><br /><br /><br />Служба поддержки:
+    <br /><b><font size="4"  style="color:black; border:none;">
+        +7 (495) 215 56 33
+      </font></b></div>
+  <div style="clear:both;"></div>
+
+  <p>Здравствуйте elenazhalnina_a!</p>
+  <p>Ваш заказ успешно принят</p>
+  <p>Заказ был сделан  25.04.2014</p>
+  <br />
+  <p><b>Номер Вашего заказа 2821</b></p>
+
+  <br />
+  <p style="font-weight:bold;">ДАННЫЕ ЗАКАЗА:</p>
+
+  <br />
+
+
+
+  <p>
+    <div>
+<table width="100%" cellspacing="10" style="margin-bottom:60px;">
+		<tr>
+			<td style="color:rgb(94, 94, 94);">
+ФИО
+</td><td style="width:30px;"></td>
+			<td> Елена </td>
+                    <td rowspan="5" style="text-align:right;font-size:14pt;font-weight:bold;width:350px;vertical-align:top;">
+                    <table width="100%">
+    <tr style="color:red">
+      <td align="left">
+        <b>СКИДКА:</b>
+      </td>
+      <td align="right">-398.40 р.</td>
+    </tr><tr>
+ <td align="left"><b>СУММА ЗАКАЗА:</b></td>
+ <td align="right">2 551.61 р.</td>
+	</tr><tr><td colspan="2" style="border-top:1px solid black;"></td></tr>
+	<tr>
+		<td align="left"><b>ОБЩАЯ СТОИМОСТЬ:</b></td>
+		<td align="right"><b>2 551.61 р.</b>
+		</td>
+	</tr>
+</table>
+
+</td>
+		</tr>
+
+		<tr>
+			<td style="color:rgb(94, 94, 94);">
+Номер телефона
+			</td><td></td>
+			<td>89296523302</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Email
+                       </td><td></td>
+                       <td>elenazhalnina_a@mail.ru</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Адрес доставки
+                       </td><td></td>
+                       <td>Кленовый бульвар д 26 кв121 под 4 эт 10</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Дата доставки
+                       </td><td></td>
+                       <td>25.04.2014 (Пт)</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Оплата банковской картой во время доставки
+                       </td><td></td>
+                       <td>Нет</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Комментарий к заказу
+                       </td><td></td>
+                       <td>Домофон 121
+			</td>
+		</tr>
+
+
+	</table>
+<div><table rules="rows" width="100%" style="border-bottom:1px solid black;margin-bottom:60px;"><thead><tr><th></th><th style="text-align:left;">Название</th><th>Количество/Вес</th><th>Цена за ед.</th><th>Скидка</th><th>Сумма</th></tr></thead><tbody><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/10872'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/a87/a87d9d80fc521ffdca0c2ee099e390a2.png'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/10872'>Сосиски Сливочные "Клинский мясокомбинат" 470 г</a></td><td style='text-align:center;'>2.00 шт</td><td style="text-align:center;"><span>210<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"><span>-185<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">48</span></span></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>234<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">52</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/8581'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/98d/98d93e394bf4400176574d329aa34b21.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/8581'>Сметана литовская 30% "Сваля" 380 г</a></td><td style='text-align:center;'>5.00 шт</td><td style="text-align:center;"><span>124<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>620<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/4214'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/3ea/3ea0e128ebb4c61ae4b14524ad7ae112.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/4214'>Туалетная бумага "Zewa Deluxe" Ромашка 3 слоя 8 рулонов</a></td><td style='text-align:center;'>1.00 шт</td><td style="text-align:center;"><span>158<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">01</span></span></td><td style="text-align:center;color:red"><span>-30<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">42</span></span></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>127<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">59</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/19280'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/25f/25f941b84e2fa287a06559830b15a0ea.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/19280'>Шампиньоны "Национальная Грибная Компания" 500 г</a></td><td style='text-align:center;'>2.00 шт</td><td style="text-align:center;"><span>99<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>198<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/8611'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/20a/20a1e1b552dc8873c22615914fae5641.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/8611'>Яйцо куриное категории С0 30 шт</a></td><td style='text-align:center;'>1.00 шт</td><td style="text-align:center;"><span>169<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>169<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/8377'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/338/338169623e9acc8dcf0f793043226be9.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/8377'>Сильногазированный напиток "Schweppes" Биттер Лемон 1,5 л</a></td><td style='text-align:center;'>2.00 шт</td><td style="text-align:center;"><span>63<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>126<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/2598'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/f79/f7955b468f733569a89f8ed262aee3b0.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/2598'>Сигареты "Marlboro" </a></td><td style='text-align:center;'>4.00 шт</td><td style="text-align:center;"><span>84<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>336<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/12516'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/c37/c37ef04b97c2c0860bda7544b6d1f1cc.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/12516'>Киви корзинка 1 кг</a></td><td style='text-align:center;'>1.00 шт</td><td style="text-align:center;"><span>134<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>134<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/21384'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/591/59166e0540d2e37237e99cc3216c7250.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/21384'>Мука пшеничная хлебопекарная в/с "Экстра" 5 кг</a></td><td style='text-align:center;'>1.00 шт</td><td style="text-align:center;"><span>140<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>140<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/13049'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/e36/e36ac40b6ee9cd33b074b2daa4a9d8a6.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/13049'>Нектар Апельсиновый "Моя Семья" 1,930 мл</a></td><td style='text-align:center;'>2.00 шт</td><td style="text-align:center;"><span>95<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"><span>-73<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>117<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/10970'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/6cb/6cb34885d9ca3115c54decebaf74d560.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/10970'>Нектар зеленое яблоко "Моя семья" 1,93 л</a></td><td style='text-align:center;'>3.00 шт</td><td style="text-align:center;"><span>95<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"><span>-109<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">50</span></span></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>175<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">50</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/2287'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/89b/89b6b15daf21eed9f4105157eaa74af3.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/2287'>Вода газированная "Святой Источник" 1,5 л</a></td><td style='text-align:center;'>6.00 шт</td><td style="text-align:center;"><span>29<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>174<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr></tbody></table>
+  </p>
+
+
+  <div class="edamoll_footer">
+
+    <div  class="edamoll_sidebar" style="width:180px;height:160px;float:left;text-align:center;">
+      <a href="http://www.facebook.com/edamoll" ><img src="http://edamoll.ru/include/img/facebook.png" border="0" alt="facebook" width="33" height="33"  /></a>
+      <a href="http://vk.com/edamoll" ><img src="http://edamoll.ru/include/img/vk.png" hspace="25" border="0" alt="vk" width="33" height="33"  /></a>
+      <a href="http://twitter.com/edamoll" ><img src="http://edamoll.ru/include/img/twitter.png" border="0" alt="twitter" width="33" height="33"  /></a><br /><br />
+      <img width="94" height="98" title="edamoll" alt="edamoll" src="http://edamoll.ru/include/img/logo_bot2.png"/>
+    </div>
+    <div class="edamoll_footer-links">
+
+      <div class="edamoll_footer_links_area">
+
+        <table width="570" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+          <tbody>
+          <tr>
+            <td style="width:150px;"><span style=" padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">каталог товаров</span></td>
+            <td style="width:110px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">сервис</span></td>
+            <td style="width:150px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">личный кабинет</span></td>
+            <td style="width:160px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">контакты</span></td></tr>
+
+          <tr>
+            <td style="vertical-align:top;">
+
+              <a href="http://edamoll.ru/produkty/" style="color:black;text-decoration:none;">Продукты питания</a><br />
+
+              <a href="http://edamoll.ru/detskie_tovary/" style="color:black;text-decoration:none;">Детские товары</a><br />
+
+              <a href="http://edamoll.ru/zootovary/" style="color:black;text-decoration:none;">Зоотовары</a><br />
+
+              <a href="http://edamoll.ru/cosmetic/" style="color:black;text-decoration:none;">Косметика</a><br />
+
+              <a href="http://edamoll.ru/bytovaya_khimiya/" style="color:black;text-decoration:none;">Бытовая химия</a><br />
+
+              <a href="http://edamoll.ru/alkogol_i_tabak/" style="color:black;text-decoration:none;">Алкоголь и табак</a>
+
+
+            </td>
+            <td style="vertical-align:top;">
+              <a href="http://edamoll.ru/about/delivery.php" style="color:black;text-decoration:none;">Доставка </a>
+              <br />
+              <a href="http://edamoll.ru/about/payment.php" style="color:black;text-decoration:none;" >Оплата </a>
+              <br />
+              <a href="http://edamoll.ru/about/contacts.php"  style="color:black;text-decoration:none;">Реквизиты</a><br />
+
+              <a href="http://edamoll.ru/about/"  style="color:black;text-decoration:none;">О нас</a> </td>
+            <td style="vertical-align:top;">
+              <a href="http://edamoll.ru"  style="color:black;text-decoration:none;">Вход</a><br />
+
+              <a href="http://edamoll.ru"  style="color:black;text-decoration:none;">Регистрация
+                <br />
+              </a> <a href="http://edamoll.ru/personal/basket.php"  style="color:black;text-decoration:none;">Корзина</a> </td>
+            <td style="vertical-align:top;">
+              <b>Служба поддержки:
+                <br />
+              </b> <span style="color:black; border:none;">+7 (495) 215 56 33</span><b>
+                <br />
+              </b><b> Адрес:
+                <br />
+              </b> г.Москва, ул.Ижорская, д.7           </td></tr>
+          </tbody>
+        </table>
+
+        <br />
+      </div>
+
+    </div>
+  </div>
+
+</div>
+</body>
+</html>From: order@edamoll.ru
+BCC: order@edamoll.ru
+Reply-To: order@edamoll.ru
+X-Priority: 3 (Normal)
+X-MID: 3315.33 (25.04.2014 09:48:44)
+X-EVENT_NAME: SALE_NEW_ORDER
+Content-Type: text/html; charset=windows-1251
+Content-Transfer-Encoding: 8bit<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=windows-1251"/>
+  <style>
+    body
+    {
+      font-family:'PT Sans', sans-serif;
+      font-size:14px;
+      color:#000;
+    }
+  </style>
+</head>
+<body>
+<div style="width:750px;">
+  <div style="float:left;margin-right:50px;">
+    <a title="" href="http://edamoll.ru"><img width="216" height="61" title="edamoll" alt="edamoll" src="http://edamoll.ru/include/logo.jpg"/></a>
+    <br /><a title="" href="http://edamoll.ru" style="font-size:111%;color:rgb(255, 0, 57);font-weight:bold;">
+      ИНТЕРНЕТ СУПЕРМАРКЕТ
+    </a>
+  </div>
+  <div style="float:left;"><br /><br /><br />Служба поддержки:
+    <br /><b><font size="4"  style="color:black; border:none;">
+        +7 (495) 215 56 33
+      </font></b></div>
+  <div style="clear:both;"></div>
+
+  <p>Здравствуйте Gorillas!</p>
+  <p>Ваш заказ успешно принят</p>
+  <p>Заказ был сделан  25.04.2014</p>
+  <br />
+  <p><b>Номер Вашего заказа 2822</b></p>
+
+  <br />
+  <p style="font-weight:bold;">ДАННЫЕ ЗАКАЗА:</p>
+
+  <br />
+
+
+
+  <p>
+    <div>
+<table width="100%" cellspacing="10" style="margin-bottom:60px;">
+		<tr>
+			<td style="color:rgb(94, 94, 94);">
+ФИО
+</td><td style="width:30px;"></td>
+			<td> Имяdfg </td>
+                    <td rowspan="5" style="text-align:right;font-size:14pt;font-weight:bold;width:350px;vertical-align:top;">
+                    <table width="100%">
+    <tr style="color:red">
+      <td align="left">
+        <b>СКИДКА:</b>
+      </td>
+      <td align="right">-175.32 р.</td>
+    </tr><tr>
+ <td align="left"><b>СУММА ЗАКАЗА:</b></td>
+ <td align="right">930.68 р.</td>
+	</tr><tr>
+			<td align="left">
+				<b>СТОИМОСТЬ ДОСТАВКИ:</b>
+			</td>
+			<td align="right">250.00 р.</td>
+		</tr><tr><td colspan="2" style="border-top:1px solid black;"></td></tr>
+	<tr>
+		<td align="left"><b>ОБЩАЯ СТОИМОСТЬ:</b></td>
+		<td align="right"><b>1 180.68 р.</b>
+		</td>
+	</tr>
+</table>
+
+</td>
+		</tr>
+
+		<tr>
+			<td style="color:rgb(94, 94, 94);">
+Номер телефона
+			</td><td></td>
+			<td>Номер телефонаfdg	</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Email
+                       </td><td></td>
+                       <td>dmitriy.zaharchenko@gorillasweb.ru</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Адрес доставки
+                       </td><td></td>
+                       <td>Адрес доставки:	</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Дата доставки
+                       </td><td></td>
+                       <td>25.04.2014 (Пт)</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Оплата банковской картой во время доставки
+                       </td><td></td>
+                       <td>Нет</td>
+                     </tr>
+
+                     <tr>
+                       <td style="color:rgb(94, 94, 94);">
+                    Комментарий к заказу
+                       </td><td></td>
+                       <td>
+			</td>
+		</tr>
+
+
+	</table>
+<div><table rules="rows" width="100%" style="border-bottom:1px solid black;margin-bottom:60px;"><thead><tr><th></th><th style="text-align:left;">Название</th><th>Количество/Вес</th><th>Цена за ед.</th><th>Скидка</th><th>Сумма</th></tr></thead><tbody><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/20226'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/201/2016485ba169df9aedd7d919cb24b47e.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/20226'>Томаты черри на ветке "Sweet Pearl" 500 г</a></td><td style='text-align:center;'>2.00 шт</td><td style="text-align:center;"><span>220<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>440<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td></tr><tr><td style='text-align:center;'><a href='http://edamoll.ru/item/20834'><img style='max-width:75px;max-height:75px;' src='http://edamoll.ru/upload/iblock/a1c/a1c0e2bab3e788dfbc78f4be80dd40e0.jpeg'/></a></td><td><a style='width:50px' href='http://edamoll.ru/item/20834'>Суп Турецкий с булгуром "Ярмарка" 250 г</a></td><td style='text-align:center;'>6.00 шт</td><td style="text-align:center;"><span>111<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">00</span></span></td><td style="text-align:center;color:red"><span>-175<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">32</span></span></td><td style="text-align:right;font-weight:bold;font-size:16px;"><span>490<span style="vertical-align:0.3em;font-size:70%;margin-left:4px;">68</span></span></td></tr></tbody></table>
+  </p>
+
+
+  <div class="edamoll_footer">
+
+    <div  class="edamoll_sidebar" style="width:180px;height:160px;float:left;text-align:center;">
+      <a href="http://www.facebook.com/edamoll" ><img src="http://edamoll.ru/include/img/facebook.png" border="0" alt="facebook" width="33" height="33"  /></a>
+      <a href="http://vk.com/edamoll" ><img src="http://edamoll.ru/include/img/vk.png" hspace="25" border="0" alt="vk" width="33" height="33"  /></a>
+      <a href="http://twitter.com/edamoll" ><img src="http://edamoll.ru/include/img/twitter.png" border="0" alt="twitter" width="33" height="33"  /></a><br /><br />
+      <img width="94" height="98" title="edamoll" alt="edamoll" src="http://edamoll.ru/include/img/logo_bot2.png"/>
+    </div>
+    <div class="edamoll_footer-links">
+
+      <div class="edamoll_footer_links_area">
+
+        <table width="570" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+          <tbody>
+          <tr>
+            <td style="width:150px;"><span style=" padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">каталог товаров</span></td>
+            <td style="width:110px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">сервис</span></td>
+            <td style="width:150px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">личный кабинет</span></td>
+            <td style="width:160px;"><span style="padding:0px;color:rgb(255, 0, 57);text-transform:uppercase;font-weight:bold;font-size:9pt;" class="pinktext">контакты</span></td></tr>
+
+          <tr>
+            <td style="vertical-align:top;">
+
+              <a href="http://edamoll.ru/produkty/" style="color:black;text-decoration:none;">Продукты питания</a><br />
+
+              <a href="http://edamoll.ru/detskie_tovary/" style="color:black;text-decoration:none;">Детские товары</a><br />
+
+              <a href="http://edamoll.ru/zootovary/" style="color:black;text-decoration:none;">Зоотовары</a><br />
+
+              <a href="http://edamoll.ru/cosmetic/" style="color:black;text-decoration:none;">Косметика</a><br />
+
+              <a href="http://edamoll.ru/bytovaya_khimiya/" style="color:black;text-decoration:none;">Бытовая химия</a><br />
+
+              <a href="http://edamoll.ru/alkogol_i_tabak/" style="color:black;text-decoration:none;">Алкоголь и табак</a>
+
+
+            </td>
+            <td style="vertical-align:top;">
+              <a href="http://edamoll.ru/about/delivery.php" style="color:black;text-decoration:none;">Доставка </a>
+              <br />
+              <a href="http://edamoll.ru/about/payment.php" style="color:black;text-decoration:none;" >Оплата </a>
+              <br />
+              <a href="http://edamoll.ru/about/contacts.php"  style="color:black;text-decoration:none;">Реквизиты</a><br />
+
+              <a href="http://edamoll.ru/about/"  style="color:black;text-decoration:none;">О нас</a> </td>
+            <td style="vertical-align:top;">
+              <a href="http://edamoll.ru"  style="color:black;text-decoration:none;">Вход</a><br />
+
+              <a href="http://edamoll.ru"  style="color:black;text-decoration:none;">Регистрация
+                <br />
+              </a> <a href="http://edamoll.ru/personal/basket.php"  style="color:black;text-decoration:none;">Корзина</a> </td>
+            <td style="vertical-align:top;">
+              <b>Служба поддержки:
+                <br />
+              </b> <span style="color:black; border:none;">+7 (495) 215 56 33</span><b>
+                <br />
+              </b><b> Адрес:
+                <br />
+              </b> г.Москва, ул.Ижорская, д.7           </td></tr>
+          </tbody>
+        </table>
+
+        <br />
+      </div>
+
+    </div>
+  </div>
+
+</div>
+</body>
+</html>From: info@edamoll.ru
+Reply-To: info@edamoll.ru
+X-Priority: 3 (Normal)
+BCC: info@edamoll.ru
+X-MID: 3316.69 (25.04.2014 10:47:54)
+X-EVENT_NAME: FORM_FILLING_SIMPLE_FORM_1
+Content-Type: text/plain; charset=windows-1251
+Content-Transfer-Encoding: 8bitПоступил новый отзыв
+Дата - 25.04.2014 10:47:54
+Пользователь - [не зарегистрирован]  
+Имя - Ярослав
+Телефон - +79036156604 
+e-mail - vyaroslav@new-pack.ru 
+OS - Windows 7 
+Browser - Chrome 34.0.1847.116
+IP - 77.50.177.16
+Текст обращения - Добрый день!Мы хотим делать для Вас бумажные пакеты с Вашим лого.Мы производители полного цикла,без посредников и рекламных агенств!Может делать и с ручками и без!ООО "Нью-Пак"
+
+
+Для просмотра воспользуйтесь ссылкой:
+http://edamoll.ru/bitrix/admin/form_result_view.php?lang=ru&WEB_FORM_ID=1&RESULT_ID=38
+
+-------------------------------------------------------
+Письмо сгенерировано автоматически.

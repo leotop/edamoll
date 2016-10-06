@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Active Baby Jumbo Junior 11-25 кг 58 шт по цене 965.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Вес: 3.8 кг.
+Заказывайте Подгузники &quot;Pampers&quot; Active Baby Jumbo Junior 11-25 кг 58 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10015'>Подгузники Up&Go Maxi Plus &quot;Libero&quot; 10-14 кг 30 шт</a>, <a class='selected' style='color:#000000' href='/item/9852'>Подгузники-трусики Up & Go Extra Large &quot;Libero&quot; 16-26 кг 40 шт</a>.

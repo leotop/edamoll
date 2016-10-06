@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Aquafresh&quot; T&T+Interdental средняя по цене 121.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: M & C Schiffer GmbH.
+Заказывайте Зубная щетка &quot;Aquafresh&quot; T&T+Interdental средняя в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10171'>Зубная щетка &quot;Colgate&quot; 360 Суперчистота 1+1</a>, <a class='selected' style='color:#000000' href='/item/10956'>Зубная щетка &quot;Reach&quot; Clean & Whitening</a>.

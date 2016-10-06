@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Premium Care Maxi 7-18 кг 104 шт по цене 1333.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Procter & Gamble Operations.
+Заказывайте Подгузники &quot;Pampers&quot; Premium Care Maxi 7-18 кг 104 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/30602'>Подгузники Active Baby-Dry &quot;Pampers&quot; 7-14 кг 20 шт</a>, <a class='selected' style='color:#000000' href='/item/9845'>Подгузники Everyday Maxi &quot;Libero&quot; 7-18 кг 66 шт</a>.

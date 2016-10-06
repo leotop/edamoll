@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Night &quot;Always&quot; 36 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Венгрия.
+Заказывайте Прокладки Ultra Night &quot;Always&quot; 36 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10646'>Прокладки Ultra Normal с шелковистой поверхностью &quot;Ola!&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10645'>Прокладки Ultra Sensitive Normal плюс &quot;Always&quot; 10 шт</a>.

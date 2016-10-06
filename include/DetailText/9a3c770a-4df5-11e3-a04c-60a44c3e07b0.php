@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье сливочно-шоколадное &quot;Wonderful Copenhagen&quot; 150 г по цене 238.00 руб.
+Обратите внимание на Вес: 150 г, а также Срок годности: 1 год.
+Заказывайте Печенье сливочно-шоколадное &quot;Wonderful Copenhagen&quot; 150 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/12851'>Печенье миндальное Montibovi la dolcevita &quot;Cuntunccini&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/12873'>Печенье с шоколадом Mini &quot;Leibniz&quot; 100 г</a>.

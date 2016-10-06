@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кассеты сменные для станка Fusion Proglide Power &quot;Gillette&quot; 4 шт по цене 928.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Марка: Gillette.
+Заказывайте Кассеты сменные для станка Fusion Proglide Power &quot;Gillette&quot; 4 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские бритвы: <a class='selected' style='color:#000000' href='/item/17795'>Кассеты сменные для станка Fusion Proglide Power &quot;Gillette&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/13541'>Бритва мужская Mach3 &quot;Gillette&quot; с 2 сменными кассетами</a>.

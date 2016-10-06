@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Мюсли Super High Fibre &quot;Dorset Cereals&quot; 540 г по цене 345.00 руб.
+Обратите внимание на Углеводы: 60,1 г, а также Условия хранения: В сухом прохладном месте.
+Заказывайте Мюсли Super High Fibre &quot;Dorset Cereals&quot; 540 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Готовые завтраки: <a class='selected' style='color:#000000' href='/item/29591'>Хрустящие овсяные хлопья оригинальные Crunchy &quot;Sante&quot; 350 г</a>, <a class='selected' style='color:#000000' href='/item/18028'>Шарики медовые &quot;Kellogg's Miel Pops&quot; 325 г</a>.

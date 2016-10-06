@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Pomace &quot;Ybarra&quot; 1 л по цене 300.00 руб.
+Обратите внимание на Объем: 1 л, а также Страна производитель: Испания.
+Заказывайте Масло оливковое Pomace &quot;Ybarra&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12091'>Масло оливковое Toscano &quot;Prim Oli&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/10758'>Масло оливковое Extra Virgin olive oil Kalamata D.O.P &quot;Gaea&quot; 0,5 л</a>.

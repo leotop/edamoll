@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Duo Maxi &quot;Naturella&quot; 16 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Условия хранения: от 5°С до 30°С.
+Заказывайте Прокладки Ultra Duo Maxi &quot;Naturella&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10695'>Тампоны Pearl Super &quot;Tampax&quot; с апликатором 18 шт</a>, <a class='selected' style='color:#000000' href='/item/10648'>Прокладки Ultra Platinum Light &quot;Always&quot; 20 шт</a>.

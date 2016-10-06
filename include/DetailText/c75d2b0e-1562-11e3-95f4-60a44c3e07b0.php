@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант &quot;Adidas Action 3 Dry Max Intensive&quot; роликовый женский 50 мл по цене 95.00 руб.
+Обратите внимание на Условия хранения: Хранить в недоступном для детей месте., а также Марка: Adidas.
+Заказывайте Дезодорант &quot;Adidas Action 3 Dry Max Intensive&quot; роликовый женский 50 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские дезодоранты: <a class='selected' style='color:#000000' href='/item/18933'>Дезодорант Fresh&Essence &quot;Lady Speed Stick&quot; стик 65 г</a>, <a class='selected' style='color:#000000' href='/item/18925'>Антиперспирант шариковый Алоэ &quot;Rexona&quot; 50 мл</a>.

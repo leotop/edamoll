@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Color Sensation 5.62 Царский гранат &quot;Garnier&quot; по цене 131.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Космепол СП. з.о.о..
+Заказывайте Краска для волос Color Sensation 5.62 Царский гранат &quot;Garnier&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11600'>Краска для волос Recital Preference 5.25 Антигуа &quot;L`Oreal&quot;</a>, <a class='selected' style='color:#000000' href='/item/11572'>Краска для волос Color Naturals 7.1 ольха &quot;Garnier&quot;</a>.

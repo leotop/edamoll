@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Silver Care&quot; Normal с фтором 75 мл по цене 178.00 руб.
+Обратите внимание на Объем: 75 мл, а также Производитель: Spazzolificio Piave.
+Заказывайте Зубная паста &quot;Silver Care&quot; Normal с фтором 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/10129'>Зубная паста &quot;Colgate&quot; Total 12 Прополис 100 мл</a>, <a class='selected' style='color:#000000' href='/item/10916'>Зубная паста &quot;Lacalut&quot; Duo 75 мл</a>.

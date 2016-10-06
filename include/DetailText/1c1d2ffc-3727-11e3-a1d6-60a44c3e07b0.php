@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Night Sensitive &quot;Always&quot; 7 шт по цене 76.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Россия.
+Заказывайте Прокладки Ultra Night Sensitive &quot;Always&quot; 7 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4367'>Прокладки ежедневные &quot;Discreet Air multiform&quot; 100 шт</a>, <a class='selected' style='color:#000000' href='/item/10666'>Прокладки ежедневные Super Clip &quot;Libresse&quot; 9 шт</a>.

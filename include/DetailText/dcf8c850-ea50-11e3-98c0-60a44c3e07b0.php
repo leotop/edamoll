@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой № 2 Costa Rica Tarrazu &quot;Julius Meinl&quot; 250 г по цене 419.00 руб.
+Обратите внимание на Вес: 250 г, а также Срок годности: 2 года.
+Заказывайте Кофе зерновой № 2 Costa Rica Tarrazu &quot;Julius Meinl&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18899'>Чай трявяной мате ассорти &quot;Maitre&quot; 25 пакетиков</a>, <a class='selected' style='color:#000000' href='/item/18394'>Чай черный с лесными травами Forest Herbs &quot;Milford&quot; 20 пакетиков</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Средство для удаления жира Шуманит Extra &quot;Баги&quot; 500 мл по цене 287.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Bagi Professional Products ltd.
+Заказывайте Средство для удаления жира Шуманит Extra &quot;Баги&quot; 500 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Для кухни: <a class='selected' style='color:#000000' href='/item/10304'>Жироудалитель Gold Professional &quot;UNICUM&quot; 750 мл</a>, <a class='selected' style='color:#000000' href='/item/10306'>Жироудалитель для стеклокерамики Gold Series &quot;UNICUM&quot; 750 мл</a>.

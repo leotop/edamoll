@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло-спрей Ambre Solaire SPF 15 &quot;Garnier&quot; 150 мл по цене 350.00 руб.
+Обратите внимание на Объем: 150 мл, а также Производитель: Garnier.
+Заказывайте Масло-спрей Ambre Solaire SPF 15 &quot;Garnier&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Солнцезащитные средства: <a class='selected' style='color:#000000' href='/item/28433'>Молочко SPF 30 Sublime Sun &quot;L'Oreal&quot; 200 мл</a>, <a class='selected' style='color:#000000' href='/item/28470'>Солнцезащитный лосьон для детей SPF 30 Sun &quot;Nivea&quot; 200 мл</a>.

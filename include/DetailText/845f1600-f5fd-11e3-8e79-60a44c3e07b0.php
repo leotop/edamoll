@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Соус кунжутный Sesame Dressing &quot;Takemura&quot; 1,5 л по цене 730.00 руб.
+Обратите внимание на Объем: 1,5 л, а также Условия хранения: от 5°C до 20°C.
+Заказывайте Соус кунжутный Sesame Dressing &quot;Takemura&quot; 1,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Все для суши: <a class='selected' style='color:#000000' href='/item/19599'>Соус соевый Yakitori (Sucree) &quot;Kikkoman&quot; 250 мл</a>, <a class='selected' style='color:#000000' href='/item/27598'>Лапша яичная тонкая &quot;Blue Dragon&quot; 300 г</a>.

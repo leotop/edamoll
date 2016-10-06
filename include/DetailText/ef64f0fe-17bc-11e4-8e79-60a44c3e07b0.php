@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Active Baby-Dry Junior &quot;Pampers&quot; 11-18 кг 16 шт по цене 356.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Pampers.
+Заказывайте Подгузники Active Baby-Dry Junior &quot;Pampers&quot; 11-18 кг 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10023'>Подгузники-трусики Аctive Girl Junior &quot;Pampers&quot; 12-18 кг 48 шт</a>, <a class='selected' style='color:#000000' href='/item/10262'>Подгузники-трусики Аctive Girl Maxi &quot;Pampers&quot; 9-14 кг 52 шт</a>.

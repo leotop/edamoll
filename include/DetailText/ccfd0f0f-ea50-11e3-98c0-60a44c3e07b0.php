@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Arabica &quot;Alta Roma&quot; 1 кг по цене 695.00 руб.
+Обратите внимание на Срок годности: 18 месяцев, а также Упаковка: Пакет с дегазирующим клапаном.
+Заказывайте Кофе зерновой Arabica &quot;Alta Roma&quot; 1 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18388'>Чай черный Kenyan Sunrise &quot;Greenfield&quot; 25 пакетиков</a>, <a class='selected' style='color:#000000' href='/item/26279'>Кофе зерновой Terry &quot;Berty's&quot; 250 г</a>.

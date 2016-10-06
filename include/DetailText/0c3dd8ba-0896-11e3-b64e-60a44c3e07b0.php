@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Tide Color Lenor Scent&quot; автомат 3 кг по цене 304.00 руб.
+Обратите внимание на Вес: 3 кг, а также Производитель: Procter&Gamble.
+Заказывайте Стиральный порошок &quot;Tide Color Lenor Scent&quot; автомат 3 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/18861'>Стиральный порошок &quot;Persil Color Expert&quot; 9 кг</a>, <a class='selected' style='color:#000000' href='/item/2245'>Cтиральный порошок &quot;Ariel Color&Style&quot; автомат 6 кг</a>.

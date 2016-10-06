@@ -1,0 +1,480 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201404 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.edamoll.gorillasweb.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2678                
+POS_VISITOR 7074                
+POS_DAY 7417                
+POS_DOMAIN 3495                
+POS_LOGIN 3731                
+POS_ROBOT 3886                
+POS_WORMS 4140                
+POS_EMAILSENDER 4271                
+POS_EMAILRECEIVER 4414                
+POS_SESSION 7898                
+POS_SIDER 8106                
+POS_FILETYPES 4549                
+POS_DOWNLOADS 4847                
+POS_OS 4918                
+POS_BROWSER 5018                
+POS_SCREENSIZE 5209                
+POS_UNKNOWNREFERER 5283                
+POS_UNKNOWNREFERERBROWSER 5403                
+POS_ORIGIN 5518                
+POS_SEREFERRALS 5662                
+POS_PAGEREFS 5806                
+POS_SEARCHWORDS 6008                
+POS_KEYWORDS 6160                
+POS_MISC 2341                
+POS_ERRORS 6219                
+POS_CLUSTER 3587                
+POS_SIDER_404 6373                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140421022519 14 2056 8343475000766
+FirstTime 20140402071457
+LastTime 20140420162011
+LastUpdate 20140421090235 0 0 0 0 0
+TotalVisits 51                  
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 37 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 89 96 807592
+1 0 0 0 93 94 1177994
+2 0 0 0 48 49 798457
+3 0 0 0 48 49 682863
+4 0 0 0 38 40 327089
+5 0 0 0 18 18 301779
+6 0 0 0 3 3 6869
+7 222 1251 7070376 11 13 139305
+8 100 732 5538032 10 12 5420
+9 327 2428 5350754 5 5 27880
+10 768 6539 17220006 21 22 182784
+11 693 4427 15276909 16 18 18302
+12 1293 8029 36976600 33 46 669642
+13 1744 15809 40433601 27 34 200468
+14 1899 11921 32040838 42 47 1003724
+15 1607 9171 27117780 46 50 1589423
+16 1370 7701 40658198 35 41 901968
+17 1485 10337 25811603 43 47 1380027
+18 1042 8380 35935381 15 16 299454
+19 260 1646 3224007 0 0 0
+20 275 1661 10647057 5 7 72223
+21 352 1992 8042791 4 4 139562
+22 353 560 207074 0 0 0
+23 54 54 968 21 23 138136
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 13844 92638 311551975
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 371 4242383 20140421022519 0
+googlebot 18 22476 20140421003829 15
+no_user_agent 1 0 20140416140630 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 10107 6954380 0 0
+png 43442 95725811 0 0
+php 12593 101144688 0 0
+map 1 1868 0 0
+html 1007 34188464 0 0
+jpg 576 991058 0 0
+xml 7 1935221 0 0
+js 12865 14113042 0 0
+jpeg 10813 48677229 0 0
+Unknown 236 7100448 0 0
+gif 991 719766 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 15 0 21060
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 200
+Unknown 807
+linux 51726
+winvista 19426
+win7 20479
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+firefox28.0 54097
+firefox25.0 1
+chrome34.0.1847.116 19176
+chrome33.0.1750.154 12778
+firefox18.0 1
+safari5.0 200
+Unknown 807
+firefox27.0 5578
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+1C_Enterprise/8.2 20140417142051
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+1C_Enterprise/8.2 20140417142051
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1418 1418
+From1 0 0
+From2 0 0
+From3 1 1
+From4 12425 91219
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.teamer.ru/projects/114074/1313134.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 223 5380061
+503 1 608
+206 10 56696
+500 5 62529
+301 32 10658
+404 36 1071712
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/bx_1c_import.php 1 -
+/bitrix/admin/iblock_element_rating 2 http://edamoll.gorillasweb.ru/bitrix/admin/sale_order.php
+/discount/el_count=100&PAGEN_1=2 1 -
+/id_end=11956& 4 -
+/bitrix/admin/asd_fav_types_list.php 2 http://edamoll.gorillasweb.ru/bitrix/admin/iblock_element_rating.php
+/iblock_element_rating.php 3 -
+/include/js/jquery.min.map 23 http://edamoll.gorillasweb.ru/personal/order.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+89.251.101.226 8523 71351 201938469 20140418145634
+141.136.116.70 2680 7139 37686315 20140418163551
+212.20.43.86 1825 11256 51657741 20140420162011
+188.255.94.45 814 2890 20142898 20140413204427
+92.242.36.2 1 1 126080 20140416153049
+217.69.133.169 1 1 472 20140409135514
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20140402 220 1305 7157133 5
+20140403 885 6918 18619323 4
+20140404 2045 16905 67134552 4
+20140405 2505 12637 48026083 9
+20140406 168 622 1688109 4
+20140407 57 57 6981 2
+20140409 1 1 472 1
+20140411 27 27 1013 1
+20140412 1 1 472 1
+20140413 17 194 497386 1
+20140414 2301 11000 52915953 3
+20140415 1295 11550 38226892 4
+20140416 2588 24027 54741843 5
+20140417 805 2769 13595021 3
+20140418 928 4624 8917271 3
+20140420 1 1 23471 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 18
+5mn-15mn 10
+2mn-5mn 2
+0s-30s 12
+30s-2mn 3
+15mn-30mn 1
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 189
+/bitrix/components/bitrix/pull.request/ajax.php 3703 179185 0 14
+/bitrix/tools/public_session.php 2017 5775 0 6
+/include/ajax_form.php 1134 2608768 0 1
+/bitrix/admin/1c_exchange.php 810 593606 11 12
+/include/cart_line_top.php 510 947105 0 1
+/include/cart_line_scroll.php 508 941715 0 0
+/ 386 12864717 25 5
+/personal/basket.php 336 11579942 3 2
+/bitrix/admin/graph_legend.php 317 24251 0 0
+/include/cart_qu.php 305 978 0 0
+/bitrix/ 60 4980 9 0
+/bitrix/admin/iblock_type_edit.php 1 35563 0 0
+/bitrix/admin/rubric_edit.php 1 34171 0 0
+/ovoshchi_frukty_yagody/ 2 77290 0 0
+/bitrix/admin/sale_tax_edit.php 1 33293 0 0
+/include/js/jquery.min.map 1 1868 0 0
+/bitrix/admin/message_admin.php 2 389027 0 0
+/item/8448 1 38802 0 0
+/bitrix/admin/sale_location_admin.php 2 73150 0 0
+/bitrix/admin/public_undo.php 1 674 0 0
+/bitrix/admin/fileman_common_js.php 19 1432752 0 0
+/bitrix/admin/cache.php 13 112760 0 0
+/bitrix/admin/stat_list.php 3 37466 0 0
+/item/17611 117 3014625 0 1
+/bitrix/admin/phrase_list.php 3 72891 0 0
+/zefir_pastila_marmelad/ 1 33890 0 0
+/bitrix/admin/sale_transact_admin.php 1 37720 0 0
+/mors/ 1 30332 0 0
+/bitrix/admin/get_search.php 2 40 0 0
+/myaso/ 1 38992 0 0
+/bitrix/admin/sale_tax_rate.php 4 141298 0 0
+/bitrix/admin/sale_order_new.php 10 585004 0 0
+/vareno_kopchenye_kolbasy/ 2 97759 0 0
+/krupy/ 6 294455 0 0
+/item/13357 10 111788 0 0
+/include/find_pager.php 37 4098086 0 0
+/bitrix/admin/iblock_element_search.php 4 21575 0 0
+/bitrix/admin/sale_graph_legend.php 158 12245 0 0
+/bitrix/admin/template_edit.php 1 46073 0 0
+/dlya_vanny_i_tualeta/ 3 142443 0 0
+/item/12762 1 36538 0 0
+/bitrix/admin/currency_edit.php 2 70273 0 0
+/bitrix/admin/cat_product_edit.php 13 1360225 0 0
+/bitrix/admin/fileman_admin.php 50 1239528 0 1
+/item/19354 1 29834 0 0
+/bitrix/admin/public_file_edit_src.php 16 105601 0 0
+/bitrix/admin/phpinfo.php 151 9064629 0 1
+/discount/ 197 7662056 1 0
+/bitrix/admin/sitemap_sitemap.php 10 139368 0 0
+/item/8619 2 88471 0 0
+/bitrix/admin/dump_list.php 5 109787 0 0
+/bitrix/admin/iblock_element_admin.php 100 2250558 0 0
+/item/8718 7 313457 0 0
+/item/12356 2 68100 0 0
+/77.php 9 346975 0 0
+/bitrix/admin/sale_tax.php 1 33723 0 0
+/item/20218 5 256385 0 0
+/bitrix/admin/message_edit.php 5 705635 0 0
+/bitrix/admin/iblock_element_rating.php 215 4275985 0 0
+/bitrix/admin/cat_vat_admin.php 8 254243 0 0
+/bitrix/admin/user_admin.php 4 125452 0 0
+/include/setIz.php 7 0 0 0
+/bitrix/admin/cat_section_admin.php 5 216101 0 0
+/bitrix/admin/sale_options_get.php 5 11630 0 0
+/include/ajax_add.php 148 1125 0 0
+/search/index.php 90 2899284 0 1
+/bitrix/admin/perfmon_php.php 1 33191 0 0
+/item/17601 39 1021595 0 0
+/bitrix/admin/update_system.php 2 105422 0 0
+/bitrix/tools/catalog_export/yandex_util.php 1 14784 0 0
+/korm_dlya_sobak/ 2 68047 0 0
+/bitrix/admin/get_user.php 2 6538 0 0
+/detskie_tovary/ 2 75825 0 0
+/bitrix/admin/sale_location_import.php 1 33652 0 0
+/bitrix/admin/iblock_element_edit.php 10 785682 0 0
+/bitrix/admin/sale_product_search.php 5 48021 0 0
+/bitrix/admin/sale_location_group_edit.php 1 34360 0 0
+/bitrix/admin/cat_discount_coupon.php 2 71374 0 0
+/bitrix/admin/update_system_act.php 1 21 0 0
+/bitrix/admin/iblock_edit_property.php 2 6715 0 0
+/bitrix/admin/sale_delivery.php 12 305998 0 0
+/restore.php 107 368916 0 0
+/sredstva_gigieny/ 1 35130 0 0
+/bitrix/admin/sale_location_group_admin.php 1 35506 0 0
+/bitrix/admin/sale_basket.php 11 477471 0 0
+/bitrix/admin/ 57 1555950 0 0
+/item/4140 1 39104 0 0
+/bitrix/admin/fileman_manage_snippets.php 7 399 0 0
+/personal/order.php 227 3376604 0 1
+/bitrix/admin/1c_admin.php 5 193665 0 0
+/bitrix/admin/agent_edit.php 4 137113 0 0
+/item/20157 1 36435 0 0
+/bitrix/admin/sale_order_detail.php 3 101843 0 0
+/sitemap.xml 1 1044065 0 0
+/pechen_i_potrokha/ 1 32336 0 0
+/bitrix/admin/cat_import_setup.php 1 36198 0 0
+/bitrix/admin/favorite_list.php 1 36224 0 0
+/bitrix/admin/sale_order_props_edit.php 13 431745 0 0
+/bitrix/admin/get_start_menu.php 1 14686 0 0
+/bitrix/admin/fileman_access.php 3 107215 0 0
+/detskie_smesi/ 1 35830 0 0
+/item/12988 2 69434 0 0
+/bitrix/admin/currencies.php 1 35206 0 0
+/bitrix/admin/user_edit.php 2 82616 0 0
+/bx_1c_import.php 21 496716 0 0
+/item/4141 1 39110 0 0
+/item/20054 2 98291 0 0
+/item/18052 1 38755 0 0
+/kremy_i_masla/ 2 64949 0 0
+/produkty/ 198 7786386 1 1
+/bitrix/admin/iblock_section_admin.php 18 698016 0 0
+/bitrix/admin/cat_extra_edit.php 7 233628 0 0
+/bitrix/admin/fileman_file_edit.php 7 282480 0 0
+/item/13370 6 304502 0 0
+/syry_i_kolbasy/ 5 201878 0 0
+/gazirovannye_napitki/ 2 75769 0 0
+/bitrix/admin/cat_export_setup.php 8 306178 0 0
+/bitrix/admin/bizproc_task_list.php 1 35783 0 0
+/bytovaya_khimiya/ 10 458352 0 0
+/pripravy_spetsii/ 1 34495 0 0
+/gel_pena_dlya_britya/ 5 164956 0 0
+/alkogol_i_tabak/ 2 68190 0 0
+/bitrix/tools/autosave.php 80 2400 0 0
+/bitrix/admin/sale_stat_graph.php 164 1527215 0 0
+/sigarety/ 3 120332 0 0
+/bitrix/admin/cat_vat_edit.php 8 268964 0 0
+/korm_dlya_koshek/ 5 228462 0 0
+/bitrix/admin/index.php 105 2563117 0 0
+/search/ 7 192090 0 0
+/personal/ 8 313014 0 0
+/bitrix/admin/sale_tax_rate_edit.php 3 100969 0 0
+/item/12428 7 333204 0 0
+/bitrix/admin/checklist.php 94 264588 0 0
+/bitrix/admin/iblock_admin.php 10 333442 1 1
+/bitrix/admin/cat_discount_edit.php 26 3184439 0 0
+/baranina/ 1 44776 0 0
+/include/cart_big.php 19 371382 0 0
+/bitrix/admin/get_menu.php 9 8157 0 0
+/item/2260 1 38911 0 0
+/bitrix/admin/sale_account_admin.php 1 38128 0 0
+/bitrix/admin/checklist_detail.php 2 13387 0 0
+/bitrix/admin/site_admin.php 1 34740 0 0
+/prezervativy_testy/ 1 33299 0 0
+/bitrix/admin/agent_list.php 9 208808 0 0
+/bitrix/admin/user_options.php 147 3536 0 0
+/bitrix/admin/cat_group_admin.php 3 106445 0 0
+/bitrix/admin/cat_discount_admin.php 61 1701831 0 2
+/include/catalog_pager.php 49 4954640 0 0
+/bitrix/gadgets/bitrix/admin_stat/getdata.php 3 3176 0 0
+/bitrix/admin/sale_discount.php 1 34939 0 0
+/bitrix/admin/cat_catalog_edit.php 1 36715 0 0
+/item/20055 1 39218 0 0
+/govyadina/ 1 34937 0 0
+/sitemap_112.xml 5 890802 0 0
+/item/4623 13 383889 0 0
+/bitrix/admin/iblock_edit.php 35 14165454 0 0
+/bitrix/admin/cat_section_search.php 14 58432 0 0
+/bitrix/admin/fileman_js.php 11 62847 0 0
+/bitrix/admin/cat_extra.php 10 253179 0 0
+/item/8475 10 480840 0 0
+/bitrix/admin/public_file_edit.php 12 98057 0 0
+/bitrix/admin/fileman_load_components2.php 10 132300 0 0
+/bitrix/admin/settings.php 7 328007 0 0
+/bitrix/admin/cat_product_admin.php 2 97768 0 0
+/bitrix/admin/update_system_market.php 7 159673 0 0
+/bitrix/admin/cat_subcoupon_edit.php 2 6751 0 0
+/bitrix/gadgets/bitrix/rssreader/getdata.php 79 720266 0 0
+/detskoe_pitanie/ 1 48510 0 0
+/sosiski_i_sardelki/ 1 35257 0 0
+/molochnye_produkty_yaytsa/ 1 38886 0 0
+/diabeticheskoe_pitanie/ 6 200993 0 0
+/item/20217 1 30106 0 0
+/bitrix/admin/iblock_type_admin.php 2 72790 0 0
+/maslo_i_zhiry/ 1 36879 0 0
+/item/3439 2 99896 0 0
+/item/4224 1 50326 0 0
+/bitrix/admin/traffic_graph.php 82 1367990 0 1
+/sitemap_index.xml 1 354 0 0
+/bitrix/admin/component_props.php 67 486958 0 0
+/bakaleya/ 23 956022 0 0
+/item/2263 1 38832 0 0
+/bitrix/admin/sale_delivery_edit.php 5 174075 0 0
+/bitrix/admin/site_checker.php 1 36817 0 0
+/page.php 172 9207827 0 0
+/bitrix/admin/cat_subcoupons_admin.php 1 3069 0 0
+/bitrix/admin/cat_discsave_admin.php 2 70634 0 0
+/bitrix/admin/sale_order_props.php 17 462753 0 0
+/bitrix/admin/sale_order.php 22 1228806 0 0
+/bitrix/admin/clear_component_cache.php 1 16 0 0
+END_SIDER

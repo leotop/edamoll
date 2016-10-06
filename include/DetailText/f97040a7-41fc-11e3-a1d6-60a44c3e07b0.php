@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Perfect Mousse 950 Золотисто-русый &quot;Schwarzkopff&quot; по цене 248.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Марка: Schwarzkopf.
+Заказывайте Краска для волос Perfect Mousse 950 Золотисто-русый &quot;Schwarzkopff&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11606'>Краска для волос Sublime Mousse 400 Чистый темный каштан &quot;L`Oreal&quot;</a>, <a class='selected' style='color:#000000' href='/item/9961'>Крем-краска для волос RFE3 баклажан &quot;Palette&quot; 50 мл</a>.

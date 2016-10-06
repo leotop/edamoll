@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Active Baby Jumbo Maxi 9-16 кг 62 шт по цене 1219.00 руб.
+Обратите внимание на Вес: 4.1 кг, а также Марка: Pampers.
+Заказывайте Подгузники &quot;Pampers&quot; Active Baby Jumbo Maxi 9-16 кг 62 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10260'>Подгузники Sleep&Play Midi &quot;Pampers&quot; 4-9 кг 58 шт</a>, <a class='selected' style='color:#000000' href='/item/10022'>Подгузники-трусики Аctive Girl Extra Large &quot;Pampers&quot; 16+ кг 44 шт</a>.

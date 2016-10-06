@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Persil Color Expert Vernel&quot; 6 кг по цене 839.00 руб.
+Обратите внимание на Вес: 6 кг, а также Производитель: ООО "Хенкель-Рус".
+Заказывайте Стиральный порошок &quot;Persil Color Expert Vernel&quot; 6 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/21455'>Стиральный порошок &quot;Dosia Лимон&quot; автомат 3,7 кг</a>, <a class='selected' style='color:#000000' href='/item/18866'>Стиральный порошок &quot;Persil Expert Vernel&quot; 9 кг</a>.

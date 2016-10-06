@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Perfect Mousse 665 золотистый каштан &quot;Schwarzkopff&quot; по цене 248.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Schwarzkopff & Henkel.
+Заказывайте Краска для волос Perfect Mousse 665 золотистый каштан &quot;Schwarzkopff&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11593'>Краска для волос Perfect Mousse 500 Средний каштан &quot;Schwarzkopff&quot;</a>, <a class='selected' style='color:#000000' href='/item/11576'>Краска для волос Color Sensation 111 УльтраБлонд Платиновый &quot;Garnier&quot;</a>.

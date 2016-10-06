@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кондиционер для придания объема &quot;Botanique Serie&quot; 250 мл по цене 226.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Марка: Botanique Serie.
+Заказывайте Кондиционер для придания объема &quot;Botanique Serie&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Бальзамы и маски: <a class='selected' style='color:#000000' href='/item/11659'>Маска для волос Silicone Free Защита и объем &quot;Syoss&quot; 250 мл</a>, <a class='selected' style='color:#000000' href='/item/11664'>Маска для окрашенных и мелированных волос Color Therapy &quot;Pantene Pro-V&quot; 200 мл</a>.

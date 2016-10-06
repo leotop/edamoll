@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Baby Soft Midi &quot;Libero&quot; 4-9 кг 90 шт по цене 1035.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: SCA Hygiene Products.
+Заказывайте Подгузники Baby Soft Midi &quot;Libero&quot; 4-9 кг 90 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10233'>Впитывающие пеленки &quot;Molinea&quot; 60Х60 5 шт</a>, <a class='selected' style='color:#000000' href='/item/10008'>Подгузники Newborn Mini &quot;Huggies&quot; 3-6 кг 32 шт</a>.

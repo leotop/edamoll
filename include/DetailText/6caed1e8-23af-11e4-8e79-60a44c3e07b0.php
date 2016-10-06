@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Салфетки Plus Large &quot;Carefree&quot; 36 шт по цене  руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Johnson & Johnson.
+Заказывайте Салфетки Plus Large &quot;Carefree&quot; 36 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10676'>Прокладки с крылышками Perfecta Blue &quot;Bella&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10698'>Тампоны Pro Comfort Night Super &quot;O.B.&quot; 16 шт</a>.

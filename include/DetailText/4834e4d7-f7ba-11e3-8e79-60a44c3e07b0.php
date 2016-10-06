@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Макароны Conchiglioni Rigate №126 &quot;De Cecco&quot; 500 г по цене 180.00 руб.
+Обратите внимание на Условия хранения: от 2°С до 20°С, а также Срок годности: 36 месяцев.
+Заказывайте Макароны Conchiglioni Rigate №126 &quot;De Cecco&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Макаронные изделия: <a class='selected' style='color:#000000' href='/item/30987'>Рисовая лапша по-вьетнамски &quot;Big Bon&quot; 75 г</a>, <a class='selected' style='color:#000000' href='/item/27839'>Макароны Tagliolini &quot;De Cecco&quot; 250 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Premium Care Junior 11-25 кг 56 шт по цене 1096.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Упаковка: Полиэтиленовая пачка.
+Заказывайте Подгузники &quot;Pampers&quot; Premium Care Junior 11-25 кг 56 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10349'>Подгузники Large &quot;Merries&quot; 9-14 кг 54 шт</a>, <a class='selected' style='color:#000000' href='/item/9883'>Влажные салфетки Ultra Comfort Natural &quot;Huggies&quot; 128 шт</a>.

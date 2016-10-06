@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Чай зеленый Gunpowder &quot;Twinings&quot; 100 г по цене 218.00 руб.
+Обратите внимание на Вес: 0,1 кг, а также Страна производитель: Россия.
+Заказывайте Чай зеленый Gunpowder &quot;Twinings&quot; 100 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18394'>Чай черный с лесными травами Forest Herbs &quot;Milford&quot; 20 пакетиков</a>, <a class='selected' style='color:#000000' href='/item/18904'>Чай черный Ceylon Premium &quot;Riston&quot; 100 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Terra Delyssa&quot; 1 л по цене 405.00 руб.
+Обратите внимание на Жиры: 99,9 г, а также Страна производитель: Тунис.
+Заказывайте Масло оливковое Extra Virgin &quot;Terra Delyssa&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12080'>Масло оливковое Extra Virgin &quot;Colle Dei Frati&quot; 0,75 л</a>, <a class='selected' style='color:#000000' href='/item/12062'>Масло кукурузное рафинированное &quot;Злато&quot; 1 л</a>.

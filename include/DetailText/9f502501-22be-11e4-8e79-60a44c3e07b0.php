@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Panty Aroma Energy &quot;Bella&quot; 20 шт по цене 38.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Марка: Bella.
+Заказывайте Прокладки ежедневные Panty Aroma Energy &quot;Bella&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31265'>Прокладки Ultra Sensitive Super Plus &quot;Always&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/10667'>Прокладки ежедневные Алоэ &quot;Ola!&quot; 20 x 2 шт</a>.

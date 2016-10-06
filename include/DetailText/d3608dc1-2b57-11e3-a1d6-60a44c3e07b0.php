@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Влажные салфетки &quot;Pampers&quot; Sensitive сменный блок 2Х56 шт по цене 153.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Марка: Pampers.
+Заказывайте Влажные салфетки &quot;Pampers&quot; Sensitive сменный блок 2Х56 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10005'>Подгузники Classic &quot;Huggies&quot; 7-18 кг 68 шт</a>, <a class='selected' style='color:#000000' href='/item/9838'>Подгузники Comfort Extra Large &quot;Libero&quot; 12-22 кг 104 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Маска для волос Silicone Free восстановление и сила &quot;Syoss&quot; 250 мл по цене 281.00 руб.
+Обратите внимание на Объем: 250 мл, а также Марка: Syoss.
+Заказывайте Маска для волос Silicone Free восстановление и сила &quot;Syoss&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Бальзамы и маски: <a class='selected' style='color:#000000' href='/item/11663'>Маска для волос Экстра-питание &quot;Dessange&quot; 250 мл</a>, <a class='selected' style='color:#000000' href='/item/11667'>Маска Увлажняющая Pro Series Moisture &quot;Wella&quot; 200 мл</a>.

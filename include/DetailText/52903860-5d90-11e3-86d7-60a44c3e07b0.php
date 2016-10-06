@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Станок для бритья Fusion Power &quot;Gillette&quot; по цене 672.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: Procter&Gamble.
+Заказывайте Станок для бритья Fusion Power &quot;Gillette&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские бритвы: <a class='selected' style='color:#000000' href='/item/13559'>Кассеты сменные для станка Mach3 &quot;Gillette&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/13545'>Бритвы одноразовые BLUEII Max &quot;Gillette&quot; 6 + 2 шт</a>.

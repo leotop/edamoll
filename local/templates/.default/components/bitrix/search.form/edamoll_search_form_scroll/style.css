@@ -1,0 +1,16 @@
+#search_field2{
+border:1px solid rgb(255,0,57);
+width:130px;
+height: 18px;
+
+border-bottom: 4px solid rgb(255, 0, 57);
+border-left: 4px solid rgb(255, 0, 57);
+}
+#search_button2 {
+background: none no-repeat scroll center rgb(255, 0, 57); height: 25px; width: 25px;
+border:1px solid rgb(255,0,57);
+background-image:url('/include/img/search_btn.png');
+position: relative;
+}
+#scroll-menu-div2{
+height: 27px;}

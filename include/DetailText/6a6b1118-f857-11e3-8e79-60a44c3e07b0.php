@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Filippo Berio&quot; 1 л по цене 636.00 руб.
+Обратите внимание на Объем: 1 л, а также Условия хранения: от 10°С до 25°С.
+Заказывайте Масло оливковое Extra Virgin &quot;Filippo Berio&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/8845'>Масло льняное нерафинированное &quot;Биаск&quot; 500 мл</a>, <a class='selected' style='color:#000000' href='/item/10807'>Масло оливковое Extra Vergin &quot;Coosur&quot; 500 мл</a>.

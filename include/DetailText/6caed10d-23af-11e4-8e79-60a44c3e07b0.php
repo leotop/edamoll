@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны Pro Comfort Normal &quot;o.b.&quot; 32 шт по цене  руб.
+Обратите внимание на Срок годности: Не ограничен, а также Страна производитель: Франция.
+Заказывайте Тампоны Pro Comfort Normal &quot;o.b.&quot; 32 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10632'>Прокладки Normal Plus &quot;Always&quot; 40 шт</a>, <a class='selected' style='color:#000000' href='/item/31273'>Прокладки ежедневные Natural Care Normal &quot;Libresse&quot; 40 шт</a>.

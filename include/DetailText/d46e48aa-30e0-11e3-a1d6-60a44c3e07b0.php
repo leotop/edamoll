@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Casting Creme Gloss 10.10 светло-светло русый пепельный &quot;L`Oreal&quot; по цене 313.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Casting Creme Gloss 10.10 светло-светло русый пепельный &quot;L`Oreal&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11570'>Краска для волос Color Naturals 3 темный каштан &quot;Garnier&quot;</a>, <a class='selected' style='color:#000000' href='/item/11573'>Краска для волос Color Naturals 9.1 солнечный пляж &quot;Garnier&quot;</a>.

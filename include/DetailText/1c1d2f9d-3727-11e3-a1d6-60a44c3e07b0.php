@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Normal Plus Fresh &quot;Always&quot; 9 шт по цене 285.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Ultra Normal Plus Fresh &quot;Always&quot; 9 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10652'>Прокладки Ultra Super с бархатистой сеточкой &quot;Ola!&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/10634'>Прокладки Platinum Collection Night &quot;Always&quot; 7 шт</a>.

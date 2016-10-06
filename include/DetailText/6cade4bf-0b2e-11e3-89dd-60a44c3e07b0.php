@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Active baby Junior 11-18 кг 111 шт по цене 1733.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Россия.
+Заказывайте Подгузники &quot;Pampers&quot; Active baby Junior 11-18 кг 111 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10352'>Подгузники Premium Care Junior &quot;Pampers&quot; 11-25 кг 88 шт</a>, <a class='selected' style='color:#000000' href='/item/9844'>Подгузники Everyday Extra Large &quot;Libero&quot; 11-25 кг 56 шт</a>.

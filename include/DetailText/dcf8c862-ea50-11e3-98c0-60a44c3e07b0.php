@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой № 1 Tanzania Kilimanjaro &quot;Julius Meinl&quot; 250 г по цене 419.00 руб.
+Обратите внимание на Срок годности: 18 месяцев, а также Условия хранения: от 1°С до 20°С.
+Заказывайте Кофе зерновой № 1 Tanzania Kilimanjaro &quot;Julius Meinl&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/26277'>Кофе зерновой Richmond &quot;Berty's&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/26276'>Кофе зерновой Prodomo &quot;Dallmayr&quot; 500 г</a>.

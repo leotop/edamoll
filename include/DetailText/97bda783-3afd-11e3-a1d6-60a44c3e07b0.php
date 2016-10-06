@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Reach&quot; Dual Effect Firm 2 for 1 по цене 146.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Марка: Reach.
+Заказывайте Зубная щетка &quot;Reach&quot; Dual Effect Firm 2 for 1 в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10182'>Зубная щетка &quot;Oral-B&quot; Advantage Sensitive 35 Soft</a>, <a class='selected' style='color:#000000' href='/item/10953'>Зубная щетка &quot;Colgate&quot; Отбеливающая средняя</a>.

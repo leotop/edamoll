@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель для стирки &quot;Dosia Color&quot; 1 л по цене 165.00 руб.
+Обратите внимание на Объем: 1 л, а также Упаковка: пластиковая бутылка.
+Заказывайте Гель для стирки &quot;Dosia Color&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/18852'>Средство для стирки &quot;Persil Color Expert Gel&quot; 1,46 л</a>, <a class='selected' style='color:#000000' href='/item/3632'>Капсулы &quot;Ariel Active Gel Color&Style&quot; автомат 32 шт по 35 г</a>.

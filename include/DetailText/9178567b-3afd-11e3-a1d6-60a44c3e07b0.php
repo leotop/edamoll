@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Aquafresh&quot; White and shine 75 мл по цене 80.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: SmithKline Beecham Consumer Healthcare.
+Заказывайте Зубная паста &quot;Aquafresh&quot; White and shine 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/10138'>Зубная паста &quot;Himalaya&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/10141'>Зубная паста &quot;Lacalut&quot; Extra Sensitive 50 мл</a>.

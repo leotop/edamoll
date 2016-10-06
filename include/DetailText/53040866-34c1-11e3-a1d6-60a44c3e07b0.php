@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники  Medium &quot;Merries&quot; 6-11 кг 64 шт по цене 1129.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Merries.
+Заказывайте Подгузники  Medium &quot;Merries&quot; 6-11 кг 64 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10356'>Подгузники Sleep&Play Mini &quot;Pampers&quot; 3-6 кг 88 шт</a>, <a class='selected' style='color:#000000' href='/item/10257'>Подгузники Premium Mini &quot;Pampers&quot; 3-6 кг 72 шт</a>.

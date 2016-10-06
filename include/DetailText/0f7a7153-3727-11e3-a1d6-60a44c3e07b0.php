@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Style Normal &quot;Libresse&quot; 60 шт по цене 88.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Картонная.
+Заказывайте Прокладки ежедневные Style Normal &quot;Libresse&quot; 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10648'>Прокладки Ultra Platinum Light &quot;Always&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/10667'>Прокладки ежедневные Алоэ &quot;Ola!&quot; 20 x 2 шт</a>.

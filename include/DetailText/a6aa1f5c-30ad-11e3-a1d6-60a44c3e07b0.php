@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Влажные салфетки Ultra Comfort Natural &quot;Huggies&quot; 128 шт по цене 199.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Марка: Huggies.
+Заказывайте Влажные салфетки Ultra Comfort Natural &quot;Huggies&quot; 128 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10013'>Подгузники Up&Go Extra Large &quot;Libero&quot; 13-20 кг 28 шт</a>, <a class='selected' style='color:#000000' href='/item/10015'>Подгузники Up&Go Maxi Plus &quot;Libero&quot; 10-14 кг 30 шт</a>.

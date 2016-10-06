@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Premium Care Midi 4-9 кг 120 шт по цене 1815.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Производитель: Procter & Gamble Operations.
+Заказывайте Подгузники &quot;Pampers&quot; Premium Care Midi 4-9 кг 120 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9999'>Пеленки гигиенические Soft &quot;Seni&quot; 90X60 см 30 шт</a>, <a class='selected' style='color:#000000' href='/item/9845'>Подгузники Everyday Maxi &quot;Libero&quot; 7-18 кг 66 шт</a>.

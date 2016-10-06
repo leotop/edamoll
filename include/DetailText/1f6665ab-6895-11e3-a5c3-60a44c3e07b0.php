@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Чай черный с цедрой лимона и бергамотом Earl Grey&quot;Greenfield&quot; 25 пакетиков по цене 67.00 руб.
+Обратите внимание на Вес: 25х2 г, а также Марка: Greenfield.
+Заказывайте Чай черный с цедрой лимона и бергамотом Earl Grey&quot;Greenfield&quot; 25 пакетиков в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18384'>Чай черный English Breakfast &quot;Twinings&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/18892'>Чай зеленый листовой c жасмином &quot;Riston&quot; 225 г</a>.

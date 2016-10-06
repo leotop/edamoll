@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Espresso d'Oro &quot;Dallmayr&quot; 500 г по цене 860.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 20°С, а также Срок годности: 2 года.
+Заказывайте Кофе зерновой Espresso d'Oro &quot;Dallmayr&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/4694'>Сироп для кофе &quot;Delight&quot; Лесной орех 473 мл</a>, <a class='selected' style='color:#000000' href='/item/26257'>Кофе зерновой Crema е Aroma &quot;Cellini&quot; espresso 500 г</a>.

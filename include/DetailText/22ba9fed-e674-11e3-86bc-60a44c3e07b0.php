@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сыр Brilliant Savarin Nature &quot;Lincet&quot; 200 г по цене  руб.
+Обратите внимание на Срок годности: 2 месяца, а также Производитель: Fromagerie Lincet.
+Заказывайте Сыр Brilliant Savarin Nature &quot;Lincet&quot; 200 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Сыры твердые: <a class='selected' style='color:#000000' href='/item/8916'>Сыр Эдамер &quot;Schardinger&quot; полутвердый 40% шар 1,9 кг</a>, <a class='selected' style='color:#000000' href='/item/24147'>Сыр Бри с орехами &quot;President&quot; 125 г</a>.

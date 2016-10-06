@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Jamaica Blue Mountain &quot;Magnum Exotics&quot; 340 г по цене 683.00 руб.
+Обратите внимание на Вес: 340 г, а также Страна производитель: США.
+Заказывайте Кофе зерновой Jamaica Blue Mountain &quot;Magnum Exotics&quot; 340 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18892'>Чай зеленый листовой c жасмином &quot;Riston&quot; 225 г</a>, <a class='selected' style='color:#000000' href='/item/18907'>Чай черный Earl Grey &quot;Lipton&quot; 25 пакетиков</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Sleep&Play Midi &quot;Pampers&quot; 4-9 кг 78 шт по цене 765.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Упаковка: Пленочная пачка.
+Заказывайте Подгузники Sleep&Play Midi &quot;Pampers&quot; 4-9 кг 78 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10346'>Подгузники &quot;Huggies&quot; Ultra Comfort для девочек 12-22 кг 64 шт</a>, <a class='selected' style='color:#000000' href='/item/10365'>Подгузники-трусики Аctive Girl Junior &quot;Pampers&quot; 12-18 кг 96 шт</a>.

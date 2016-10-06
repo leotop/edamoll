@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники-трусики Аctive Girl Junior &quot;Pampers&quot; 12-18 кг 96 шт по цене 1633.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Procter&Gamble.
+Заказывайте Подгузники-трусики Аctive Girl Junior &quot;Pampers&quot; 12-18 кг 96 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9843'>Подгузники Comfort Maxi+ &quot;Libero&quot; 10-16 кг 72 шт</a>, <a class='selected' style='color:#000000' href='/item/10360'>Подгузники для новорожденных &quot;Merries&quot; до 5 кг 90 шт</a>.

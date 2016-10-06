@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Normal &quot;Naturella&quot; 100 шт по цене 228.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки ежедневные Normal &quot;Naturella&quot; 100 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10670'>Прокладки с крылышками Invisible Goodnight &quot;Libresse&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10678'>Прокладки с крылышками Ultra light duo &quot;Always&quot; 20 шт</a>.

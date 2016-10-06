@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой № 4 Ethiopia Mocca Sidamo &quot;Julius Meinl&quot; 250 г по цене 419.00 руб.
+Обратите внимание на Вес: 250 г, а также Срок годности: 18 месяцев.
+Заказывайте Кофе зерновой № 4 Ethiopia Mocca Sidamo &quot;Julius Meinl&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18885'>Чай зеленый &quot;Грезы Султана&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/18897'>Чай травяной &quot;Ройбуш земляничный&quot; 100 г</a>.

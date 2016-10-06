@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Active baby midi 4-9кг 150 шт по цене 1748.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Производитель: Проктер энд Гэмбл.
+Заказывайте Подгузники &quot;Pampers&quot; Active baby midi 4-9кг 150 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10254'>Подгузники Dry Pants Extra Large &quot;Libero&quot; 13-20 кг 30 шт</a>, <a class='selected' style='color:#000000' href='/item/9843'>Подгузники Comfort Maxi+ &quot;Libero&quot; 10-16 кг 72 шт</a>.

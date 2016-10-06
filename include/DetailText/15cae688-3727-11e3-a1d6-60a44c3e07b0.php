@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Sensitive Normal плюс &quot;Always&quot; 10 шт по цене 76.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки Ultra Sensitive Normal плюс &quot;Always&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10675'>Прокладки с крылышками Nova Maxi Classic &quot;Bella&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10634'>Прокладки Platinum Collection Night &quot;Always&quot; 7 шт</a>.

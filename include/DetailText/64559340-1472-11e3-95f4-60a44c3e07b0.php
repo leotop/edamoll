@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные &quot;Discreet Air multiform&quot; 100 шт по цене 205.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки ежедневные &quot;Discreet Air multiform&quot; 100 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10642'>Прокладки Ultra Night Sensitive &quot;Always&quot; 7 шт</a>, <a class='selected' style='color:#000000' href='/item/10658'>Прокладки ежедневные Flexi form &quot;Carefree&quot; 18 шт</a>.

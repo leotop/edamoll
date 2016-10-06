@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Recital Preference 8.1 Копенгаген - светло - русый - пепельный &quot;L`Oreal&quot; по цене 311.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Recital Preference 8.1 Копенгаген - светло - русый - пепельный &quot;L`Oreal&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/9932'>Краска для волос Casting Creme Gloss 535 шоколад &quot;L`Oreal&quot;</a>, <a class='selected' style='color:#000000' href='/item/9933'>Краска для волос Casting Creme Gloss 600 темно - русый &quot;L`Oreal&quot;</a>.

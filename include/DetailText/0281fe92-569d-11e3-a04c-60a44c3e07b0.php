@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сыр Caprice des Dieux мягкий с плесенью 60% &quot;Bongrain&quot; 125 г по цене 243.00 руб.
+Обратите внимание на Срок годности: 60 дней, а также Производитель: "Bongrain".
+Заказывайте Сыр Caprice des Dieux мягкий с плесенью 60% &quot;Bongrain&quot; 125 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Сыры: <a class='selected' style='color:#000000' href='/item/13669'>Сыр с голубой плесенью Saint Agur 60% &quot;Bongrain&quot; 125 г</a>, <a class='selected' style='color:#000000' href='/item/24172'>Сыр Российский &quot;Город Сыра&quot; 200 г</a>.

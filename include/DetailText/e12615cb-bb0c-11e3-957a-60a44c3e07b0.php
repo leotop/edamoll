@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Йогурт Latterie Friulane Лесные ягоды 3,3% &quot;S.Giusto&quot; 2x125 г по цене 208.00 руб.
+Обратите внимание на Жиры: 3,3 г, а также Вес: 250 г.
+Заказывайте Йогурт Latterie Friulane Лесные ягоды 3,3% &quot;S.Giusto&quot; 2x125 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Йогурты и десерты: <a class='selected' style='color:#000000' href='/item/8633'>Десерт творожный 4,2% &quot;Чудо&quot; Персик/маракуйя 100 г</a>, <a class='selected' style='color:#000000' href='/item/8389'>Бисквит &quot;Kinder&quot; Paradiso 29 г</a>.

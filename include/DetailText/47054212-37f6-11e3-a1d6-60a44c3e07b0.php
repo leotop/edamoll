@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;La Espanola&quot; 5 л по цене 2169.00 руб.
+Обратите внимание на Жиры: 99,9 г, а также Производитель: Aceites del sur.
+Заказывайте Масло оливковое Extra Virgin &quot;La Espanola&quot; 5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12081'>Масло оливковое Extra Virgin &quot;De Cecco&quot; 5 л</a>, <a class='selected' style='color:#000000' href='/item/12100'>Масло ореха Макадамия &quot;International Collection&quot; 0,25 л</a>.

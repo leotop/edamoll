@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье сливочное с миндалем Sable Amandes &quot;Swiss Delice&quot; 175 г по цене 225.00 руб.
+Обратите внимание на Жиры: 32,9 г, а также Условия хранения: от 13°С до 23°С.
+Заказывайте Печенье сливочное с миндалем Sable Amandes &quot;Swiss Delice&quot; 175 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/12885'>Печенье сливочное Leibniz Butter Biscuits &quot;Bahlsen&quot; 200 г</a>, <a class='selected' style='color:#000000' href='/item/12803'>Вафли Топленое молоко &quot;Коломенское&quot; 220 г</a>.

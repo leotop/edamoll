@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Шампунь Power&Strength &quot;Syoss&quot; Men 500 мл по цене 193.00 руб.
+Обратите внимание на Объем: 500 мл, а также Производитель: ЗАО "МЭЗОПЛАСТ".
+Заказывайте Шампунь Power&Strength &quot;Syoss&quot; Men 500 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Шампуни: <a class='selected' style='color:#000000' href='/item/11804'>Шампунь Укрепляющий против перхоти &quot;Nivea&quot; Men 400 мл</a>, <a class='selected' style='color:#000000' href='/item/10105'>Шампунь энергия океана &quot;Head&Shoulders&quot; 400 мл</a>.

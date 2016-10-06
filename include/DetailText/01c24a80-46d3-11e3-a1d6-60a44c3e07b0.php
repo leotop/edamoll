@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло ореха Макадамия &quot;International Collection&quot; 0,25 л по цене 380.00 руб.
+Обратите внимание на Жиры: 99,9 г, а также Производитель: ООО "АМЕРИЯ РУСС".
+Заказывайте Масло ореха Макадамия &quot;International Collection&quot; 0,25 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12096'>Масло оливковое с орегано Extra Virgin &quot;Hellada&quot; 0,25 л</a>, <a class='selected' style='color:#000000' href='/item/10748'>Масло оливковое Extra vergine Classico нефильтрованное &quot;Monini&quot; 2 л</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Premium Newborn &quot;Pampers&quot; 2-5 кг 78 шт по цене 810.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Польша.
+Заказывайте Подгузники Premium Newborn &quot;Pampers&quot; 2-5 кг 78 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9837'>Подгузники Baby Soft Midi &quot;Libero&quot; 4-9 кг 90 шт</a>, <a class='selected' style='color:#000000' href='/item/10347'>Подгузники Everyday Midi &quot;Libero&quot; 4-9 кг 74 шт</a>.

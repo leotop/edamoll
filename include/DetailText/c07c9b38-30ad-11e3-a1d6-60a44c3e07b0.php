@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники-трусики Аctive Boy Extra Large &quot;Pampers&quot; 16+ кг 44 шт по цене 807.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Производитель: Procter&Gamble.
+Заказывайте Подгузники-трусики Аctive Boy Extra Large &quot;Pampers&quot; 16+ кг 44 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9879'>Влажные салфетки Нежная забота &quot;Johnson's baby&quot; 64 шт</a>, <a class='selected' style='color:#000000' href='/item/10357'>Подгузники Small &quot;Merries&quot; 4-8 кг 82 шт</a>.

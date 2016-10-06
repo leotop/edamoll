@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки &quot;Always Ultra Normal&quot; 2х10 шт по цене 148.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки &quot;Always Ultra Normal&quot; 2х10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10645'>Прокладки Ultra Sensitive Normal плюс &quot;Always&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10694'>Тампоны Pearl Regular &quot;Tampax&quot; с апликатором 18 шт</a>.

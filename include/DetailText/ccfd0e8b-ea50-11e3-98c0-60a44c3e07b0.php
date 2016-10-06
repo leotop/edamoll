@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Arabica Exclusif &quot;Carte Noire&quot; 250 г по цене 287.00 руб.
+Обратите внимание на Вес: 250 г, а также Страна производитель: Франция.
+Заказывайте Кофе зерновой Arabica Exclusif &quot;Carte Noire&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/26255'>Кофе зерновой Crema d'Oro &quot;Dallmayr&quot; 500 г</a>, <a class='selected' style='color:#000000' href='/item/27867'>Чай зеленый Green Gunpowder листовой ''Lipton'' 100 г</a>.

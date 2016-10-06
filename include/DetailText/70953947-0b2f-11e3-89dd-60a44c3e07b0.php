@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Салфетки нежная забота &quot;Johnson's baby&quot; 64 шт по цене 98.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Johnson & Johnson S.p.A.
+Заказывайте Салфетки нежная забота &quot;Johnson's baby&quot; 64 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9779'>Подгузники &quot;Pampers&quot; Active Baby Jumbo Maxi 7-14 кг 70 шт</a>, <a class='selected' style='color:#000000' href='/item/10362'>Подгузники-трусики &quot;Merries&quot; 9-14 кг 44 шт</a>.

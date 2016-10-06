@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Comfort Maxi+ &quot;Libero&quot; 10-16 кг 112 шт по цене 1528.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Libero.
+Заказывайте Подгузники Comfort Maxi+ &quot;Libero&quot; 10-16 кг 112 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10349'>Подгузники Large &quot;Merries&quot; 9-14 кг 54 шт</a>, <a class='selected' style='color:#000000' href='/item/10365'>Подгузники-трусики Аctive Girl Junior &quot;Pampers&quot; 12-18 кг 96 шт</a>.

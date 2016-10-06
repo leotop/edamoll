@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Calendula Tenderness Normal &quot;Naturella&quot; 60 шт по цене  руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки ежедневные Calendula Tenderness Normal &quot;Naturella&quot; 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10662'>Прокладки ежедневные Normal &quot;Kotex&quot; 50 + 10 шт</a>, <a class='selected' style='color:#000000' href='/item/31263'>Прокладки Super &quot;Helen Harper&quot; 16 шт</a>.

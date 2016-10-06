@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Mixing Colors 3-12 Какао &quot;Syoss&quot; 135 мл по цене 232.00 руб.
+Обратите внимание на Объем: 135 мл, а также Срок годности: 3 года.
+Заказывайте Краска для волос Mixing Colors 3-12 Какао &quot;Syoss&quot; 135 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11578'>Краска для волос Color Sensation 5.62 Царский гранат &quot;Garnier&quot;</a>, <a class='selected' style='color:#000000' href='/item/11591'>Краска для волос Perfect Mousse 400 Темный каштан &quot;Schwarzkopff&quot;</a>.

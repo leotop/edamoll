@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Корм для щенков крупных пород Puppy Large Breed &quot;Eukanuba&quot; 3 кг по цене 1427.00 руб.
+Обратите внимание на Вес: 3 кг, а также Производитель: Iams Europe BV.
+Заказывайте Корм для щенков крупных пород Puppy Large Breed &quot;Eukanuba&quot; 3 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Корм для собак: <a class='selected' style='color:#000000' href='/item/9921'>Корм для собак с говядиной &quot;Chappi&quot; 2,5 кг</a>, <a class='selected' style='color:#000000' href='/item/3935'>Корм для собак с мясом &quot;Darling&quot; 10 кг</a>.

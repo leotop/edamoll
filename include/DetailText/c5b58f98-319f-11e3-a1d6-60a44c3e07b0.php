@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Blend-a-med&quot; Pro-Expert 50 мл по цене 58.00 руб.
+Обратите внимание на Объем: 0,05 л, а также Срок годности: 3 года.
+Заказывайте Зубная паста &quot;Blend-a-med&quot; Pro-Expert 50 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/10132'>Зубная паста &quot;Colgate&quot; Комплексное отбеливание 100 мл</a>, <a class='selected' style='color:#000000' href='/item/10125'>Зубная паста &quot;Blend-a-med&quot; Pro-Expert Свежая мята 125 мл</a>.

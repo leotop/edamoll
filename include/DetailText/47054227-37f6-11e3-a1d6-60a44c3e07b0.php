@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Olive oil &quot;La Espanola&quot; 5 л по цене 2053.00 руб.
+Обратите внимание на Жиры: 99,9 г, а также Упаковка: Жестяная банка.
+Заказывайте Масло оливковое Olive oil &quot;La Espanola&quot; 5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12073'>Масло оливковое Crete Extra Virgin &quot;Hellada&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/8856'>Масло тыквенное 100% нерафинированное &quot;Gea&quot; 250 мл</a>.

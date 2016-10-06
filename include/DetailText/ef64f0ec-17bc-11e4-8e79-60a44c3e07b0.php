@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Active Baby-Dry &quot;Pampers&quot; 7-14 кг 20 шт по цене 356.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Pampers.
+Заказывайте Подгузники Active Baby-Dry &quot;Pampers&quot; 7-14 кг 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10019'>Подгузники-трусики Up&Go Extra Large &quot;Libero&quot; 13-20 кг 44 шт</a>, <a class='selected' style='color:#000000' href='/item/9878'>Влажные салфетки Classic Duo &quot;Huggies&quot; 144 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье сливочное Leibniz Butter Biscuits &quot;Bahlsen&quot; 200 г по цене 125.00 руб.
+Обратите внимание на Срок годности: 9 месяцев, а также Упаковка: Полиэтиленовая.
+Заказывайте Печенье сливочное Leibniz Butter Biscuits &quot;Bahlsen&quot; 200 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/12840'>Печенье ассорти Grabower &quot;Festival&quot; 500 г</a>, <a class='selected' style='color:#000000' href='/item/12911'>Пряник с фруктовой начинкой &quot;Тульский&quot; 140 г, 3 шт</a>.

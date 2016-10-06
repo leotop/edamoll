@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Ariel Expert Professional&quot; автомат 15 кг по цене 1665.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 35°С, а также Вес: 15 кг.
+Заказывайте Стиральный порошок &quot;Ariel Expert Professional&quot; автомат 15 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/3644'>Концентрированный стиральный порошок &quot;Reflect Color&quot; 650 г</a>, <a class='selected' style='color:#000000' href='/item/18863'>Стиральный порошок &quot;Persil Expert Vernel BusinessLine&quot; 15 кг</a>.

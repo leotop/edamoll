@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Jumbo Junior &quot;Pampers&quot; 11-18 кг 58 шт по цене 1015.00 руб.
+Обратите внимание на Условия хранения: В сухом месте, а также Производитель: Procter&Gamble.
+Заказывайте Подгузники Jumbo Junior &quot;Pampers&quot; 11-18 кг 58 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9837'>Подгузники Baby Soft Midi &quot;Libero&quot; 4-9 кг 90 шт</a>, <a class='selected' style='color:#000000' href='/item/30621'>Трусики Dry Pants Maxi &quot;Libero&quot; 7-11 кг 34 шт</a>.

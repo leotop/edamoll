@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Colgate&quot; Pro-relief Отбеливающая 75 мл по цене 137.00 руб.
+Обратите внимание на Объем: 0,75 л, а также Производитель: Colgate-Palmolive Ltd.
+Заказывайте Зубная паста &quot;Colgate&quot; Pro-relief Отбеливающая 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/10918'>Зубная паста &quot;Lacalut&quot; White Эдельвейс 75 мл</a>, <a class='selected' style='color:#000000' href='/item/10932'>Зубная паста &quot;Splat&quot; Максимум 75 мл</a>.

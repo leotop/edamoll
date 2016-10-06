@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гелевый дезодорант Алоэ &quot;Lady Speed Stick&quot; 65 г по цене 146.00 руб.
+Обратите внимание на Вес: 65 г, а также Производитель: Colgate-Palmolive.
+Заказывайте Гелевый дезодорант Алоэ &quot;Lady Speed Stick&quot; 65 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские дезодоранты: <a class='selected' style='color:#000000' href='/item/18615'>Дезодорант-антиперспирант Crystal Clear Diamond &quot;Rexona&quot; 150 мл</a>, <a class='selected' style='color:#000000' href='/item/18935'>Дезодорант для чувствительной кожи Алоэ &quot;Lady Speed Stick&quot; 45 г</a>.

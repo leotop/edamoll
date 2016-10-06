@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны Compak Plus &quot;Tampax&quot; 16 шт по цене 152.00 руб.
+Обратите внимание на Срок годности: 5 лет, а также Упаковка: Картонная коробка.
+Заказывайте Тампоны Compak Plus &quot;Tampax&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31259'>Прокладки Multiform Deo Summer Fresh &quot;Discreet&quot; 60 шт</a>, <a class='selected' style='color:#000000' href='/item/10653'>Прокладки Ultra Super солнечная ромашка &quot;Ola!&quot; 8 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель для душа Angel Star &quot;Nivea&quot; 250 мл по цене 102.00 руб.
+Обратите внимание на Объем: 250 мл, а также Упаковка: Платсмассовая.
+Заказывайте Гель для душа Angel Star &quot;Nivea&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для душа: <a class='selected' style='color:#000000' href='/item/11826'>Гель для душа Vitality Hydrating &quot;Adidas&quot; 250 мл</a>, <a class='selected' style='color:#000000' href='/item/11840'>Гель для душа Термал спа массаж &quot;Palmolive&quot; 250 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники для девочек Ultra Comfort &quot;Huggies&quot; 8-14 кг 126 шт по цене 1635.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Пленочная пачка.
+Заказывайте Подгузники для девочек Ultra Comfort &quot;Huggies&quot; 8-14 кг 126 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10014'>Подгузники Up&Go Extra Large Plus &quot;Libero&quot; 16-26 кг 24 шт</a>, <a class='selected' style='color:#000000' href='/item/9846'>Подгузники Ultra Comfort &quot;Huggies&quot; для девочек 5-9 кг 94 шт</a>.

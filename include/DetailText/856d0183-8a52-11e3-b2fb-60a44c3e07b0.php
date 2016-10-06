@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Спиральки трехцветные Fusilliti tricolore &quot;Bioitalia&quot; 500 г по цене 195.00 руб.
+Обратите внимание на Условия хранения: В прохладном, вентилируемом и сухом месте, а также Жиры: 1,7 г.
+Заказывайте Спиральки трехцветные Fusilliti tricolore &quot;Bioitalia&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Макаронные изделия: <a class='selected' style='color:#000000' href='/item/9480'>Макароны Улитки № 59 &quot;Ameria&quot; 4 кг</a>, <a class='selected' style='color:#000000' href='/item/9441'>Макароны Maccheroncini &quot;Barilla&quot; 500 г</a>.

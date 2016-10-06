@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Reach&quot; Floss Clean средняя по цене 95.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Упаковка: Блистерная упаковка.
+Заказывайте Зубная щетка &quot;Reach&quot; Floss Clean средняя в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10167'>Зубная щетка &quot;Colgate&quot; 360 Sensitive Pro-relief</a>, <a class='selected' style='color:#000000' href='/item/10185'>Зубная щетка &quot;Silver Care&quot; Plus средняя</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Sleep&Play Mini &quot;Pampers&quot; 3-6 кг 88 шт по цене 756.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Procter&Gamble.
+Заказывайте Подгузники Sleep&Play Mini &quot;Pampers&quot; 3-6 кг 88 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10258'>Подгузники Premium Newborn &quot;Pampers&quot; 2-5 кг 78 шт</a>, <a class='selected' style='color:#000000' href='/item/9843'>Подгузники Comfort Maxi+ &quot;Libero&quot; 10-16 кг 72 шт</a>.

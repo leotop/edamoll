@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант-антиперспирант Crystal Clear Aqua &quot;Rexona&quot; 150 мл по цене 125.00 руб.
+Обратите внимание на Условия хранения: Хранить в недоступном для детей месте, а также Марка: Rexona.
+Заказывайте Дезодорант-антиперспирант Crystal Clear Aqua &quot;Rexona&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские дезодоранты: <a class='selected' style='color:#000000' href='/item/18930'>Дезодорант Angel Star Hot Crash &quot;Nivea&quot; спрей 100 мл</a>, <a class='selected' style='color:#000000' href='/item/18614'>Дезодорант-антиперспирант Crystal Clear Aqua &quot;Rexona&quot; 50 мл</a>.

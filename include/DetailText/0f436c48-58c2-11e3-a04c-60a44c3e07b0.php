@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Туалетная бумага Premium comfort &quot;Kleenex&quot; 4 рулона по цене 176.00 руб.
+Обратите внимание на Условия хранения: от 0°С до 20°С, а также Производитель: Kimberly-Clark Corporation.
+Заказывайте Туалетная бумага Premium comfort &quot;Kleenex&quot; 4 рулона в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Туалетная бумага: <a class='selected' style='color:#000000' href='/item/4212'>Туалетная бумага &quot;Zewa Deluxe&quot; Белая 3 слоя 8 рулонов</a>, <a class='selected' style='color:#000000' href='/item/19420'>Туалетная бумага белая Deluxe &quot;Zewa&quot; 4 шт</a>.

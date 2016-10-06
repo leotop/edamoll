@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе растворимый &quot;Nescafe Classic&quot; 95 г по цене 125.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Условия хранения: В сухом прохладном месте.
+Заказывайте Кофе растворимый &quot;Nescafe Classic&quot; 95 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18381'>Чай черный Earl Grey &quot;Twinings&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/18390'>Чай черный Organic &quot;Twinings&quot; 25 пакетиков</a>.

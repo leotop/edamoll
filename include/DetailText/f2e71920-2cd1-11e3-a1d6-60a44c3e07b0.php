@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Comfort Extra Large &quot;Libero&quot; 12-22 кг 66 шт по цене 1035.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Швеция.
+Заказывайте Подгузники Comfort Extra Large &quot;Libero&quot; 12-22 кг 66 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10011'>Подгузники Sleep&Play Maxi &quot;Pampers&quot; 7-18 кг 68 шт</a>, <a class='selected' style='color:#000000' href='/item/10276'>Детские влажные салфетки Нежная забота &quot;Johnson's baby&quot; 128 шт</a>.

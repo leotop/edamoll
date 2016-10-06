@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое D.O.P. Umbria Extra Virgin &quot;Monini&quot; 0,25 л по цене 451.00 руб.
+Обратите внимание на Жиры: 97,6 г, а также Упаковка: Стеклянная бутылка.
+Заказывайте Масло оливковое D.O.P. Umbria Extra Virgin &quot;Monini&quot; 0,25 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/8855'>Масло Трюфельное оливковое &quot;Monini&quot; 250 мл</a>, <a class='selected' style='color:#000000' href='/item/10758'>Масло оливковое Extra Virgin olive oil Kalamata D.O.P &quot;Gaea&quot; 0,5 л</a>.

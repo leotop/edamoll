@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Шампунь Цвет и Блеск Elseve &quot;L'oreal&quot; 250 мл по цене 145.00 руб.
+Обратите внимание на Объем: 250 мл, а также Марка: L'Oreal.
+Заказывайте Шампунь Цвет и Блеск Elseve &quot;L'oreal&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Шампуни: <a class='selected' style='color:#000000' href='/item/10105'>Шампунь энергия океана &quot;Head&Shoulders&quot; 400 мл</a>, <a class='selected' style='color:#000000' href='/item/10050'>Шампунь Volume lift дополнительный объем и сила &quot;Syoss&quot; 500 мл</a>.

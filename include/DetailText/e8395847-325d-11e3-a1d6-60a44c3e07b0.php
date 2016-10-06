@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники-трусики Аctive Boy Maxi &quot;Pampers&quot; 9-14 кг 52 шт по цене 807.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Procter&Gamble.
+Заказывайте Подгузники-трусики Аctive Boy Maxi &quot;Pampers&quot; 9-14 кг 52 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10001'>Подгузники Active Baby Extra Large &quot;Pampers&quot; 15+ кг 54 шт</a>, <a class='selected' style='color:#000000' href='/item/10269'>Влажные салфетки &quot;Pampers&quot; сменный блок 3Х64 шт</a>.

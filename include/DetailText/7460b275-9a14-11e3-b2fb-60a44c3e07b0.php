@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Крем-бальзам питательный &quot;Le Petit Marseillais&quot; 250 мл по цене 251.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Laboratories Vendome S.A.S..
+Заказывайте Крем-бальзам питательный &quot;Le Petit Marseillais&quot; 250 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Уход за телом: <a class='selected' style='color:#000000' href='/item/19324'>Кондиционер для тела Питательный &quot;Nivea&quot; 250 мл</a>, <a class='selected' style='color:#000000' href='/item/19182'>Молочко для тела увлажняющее &quot;Le Petit Marseillais&quot; 250 мл</a>.

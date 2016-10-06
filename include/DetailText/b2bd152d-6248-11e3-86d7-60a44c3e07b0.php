@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Оливки без косточки &quot;Maestro de Oliva&quot; 300 г по цене 68.00 руб.
+Обратите внимание на Жиры: 10,3 г, а также Марка: Maestro de Oliva.
+Заказывайте Оливки без косточки &quot;Maestro de Oliva&quot; 300 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Оливки и маслины: <a class='selected' style='color:#000000' href='/item/18223'>Оливки с косточкой Каламата &quot;Hellada&quot; 360 г</a>, <a class='selected' style='color:#000000' href='/item/18332'>Маслины с косточкой Супергигант &quot;Maestro de Oliva&quot; 425 г</a>.

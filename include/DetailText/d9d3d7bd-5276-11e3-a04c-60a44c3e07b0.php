@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Конфеты шоколадные Бриллиант &quot;Ferrero Rocher&quot; 300 г по цене 544.00 руб.
+Обратите внимание на Вес: 300 г, а также Производитель: Ferrero.
+Заказывайте Конфеты шоколадные Бриллиант &quot;Ferrero Rocher&quot; 300 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Конфеты в коробках: <a class='selected' style='color:#000000' href='/item/13133'>Конфеты шоколадные Compоsition Фундук &quot;Alpen Gold&quot; 165 г</a>, <a class='selected' style='color:#000000' href='/item/13129'>Конфеты шоколадные Compоsition Ассорти &quot;Alpen Gold&quot; 287 г</a>.

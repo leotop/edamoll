@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Normal &quot;Naturella&quot; 10 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки Ultra Normal &quot;Naturella&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31261'>Прокладки Natural Ultra Clip Super &quot;Libresse&quot; 9 шт</a>, <a class='selected' style='color:#000000' href='/item/10631'>Прокладки Lux Normal &quot;Kotex&quot; 10 шт</a>.

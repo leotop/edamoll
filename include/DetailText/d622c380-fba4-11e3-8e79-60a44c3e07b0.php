@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Солнцезащитный спрей SPF 15 Sun &quot;Nivea&quot; 200 мл по цене 387.00 руб.
+Обратите внимание на Условия хранения: от 0°С до 30°С, а также Производитель: Beiersdorf AG.
+Заказывайте Солнцезащитный спрей SPF 15 Sun &quot;Nivea&quot; 200 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Солнцезащитные средства: <a class='selected' style='color:#000000' href='/item/28510'>Сухое масло SPF 30 Sublime Sun &quot;L'Oreal&quot; 150 мл</a>, <a class='selected' style='color:#000000' href='/item/28433'>Молочко SPF 30 Sublime Sun &quot;L'Oreal&quot; 200 мл</a>.

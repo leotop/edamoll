@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra vergine Classico нефильтрованное &quot;Monini&quot; 2 л по цене 1308.00 руб.
+Обратите внимание на Жиры: 97,6 г, а также Упаковка: Пластикова бутылка.
+Заказывайте Масло оливковое Extra vergine Classico нефильтрованное &quot;Monini&quot; 2 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12073'>Масло оливковое Crete Extra Virgin &quot;Hellada&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/10801'>Масло из виноградных косточек Grapeseed Oil &quot;Monini&quot; 1 л</a>.

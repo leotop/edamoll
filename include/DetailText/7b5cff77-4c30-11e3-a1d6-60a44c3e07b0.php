@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Средство для мытья кухонных поверхностей &quot;Meine Liebe&quot; 750 мл по цене 220.00 руб.
+Обратите внимание на Объем: 750 мл, а также Производитель: NOPA Nordic A/C, Denmark.
+Заказывайте Средство для мытья кухонных поверхностей &quot;Meine Liebe&quot; 750 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Для кухни: <a class='selected' style='color:#000000' href='/item/10828'>Моющее средство Анти-жир &quot;Cillit BANG&quot; 750 мл</a>, <a class='selected' style='color:#000000' href='/item/10304'>Жироудалитель Gold Professional &quot;UNICUM&quot; 750 мл</a>.

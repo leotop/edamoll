@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Acorsa&quot; 0,75 л по цене 392.00 руб.
+Обратите внимание на Срок годности: 24 месяца, а также Упаковка: Стеклянная бутылка.
+Заказывайте Масло оливковое Extra Virgin &quot;Acorsa&quot; 0,75 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12084'>Масло оливковое Extra Virgin &quot;La Espanola&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/10824'>Масло шиповника &quot;Golden Kings&quot; 350 мл</a>.

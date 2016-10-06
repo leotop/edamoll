@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Flexi form &quot;Carefree&quot; 18 шт по цене 74.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Италия.
+Заказывайте Прокладки ежедневные Flexi form &quot;Carefree&quot; 18 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10679'>Прокладки с крылышками Ultra Night &quot;Always&quot; 14 шт</a>, <a class='selected' style='color:#000000' href='/item/10628'>Прокладки Invisible Goodnight &quot;Libresse&quot; 10 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin 100% &quot;Terra Delyssa&quot; 0,5 л по цене 212.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном затемненном месте, а также Производитель: Rout de Mahdia.
+Заказывайте Масло оливковое Extra Virgin 100% &quot;Terra Delyssa&quot; 0,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12090'>Масло оливковое Terra Di Bari &quot;Prim Oli&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/10805'>Масло оливковое 100% Oil &quot;Hellada&quot; 0,5 л</a>.

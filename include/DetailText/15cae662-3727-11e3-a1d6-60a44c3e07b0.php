@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Light &quot;Always&quot; 40 шт по цене 244.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Производитель: Procter & Gamble.
+Заказывайте Прокладки Ultra Light &quot;Always&quot; 40 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4264'>Тампоны &quot;o.b. Original&quot; Super 32 шт</a>, <a class='selected' style='color:#000000' href='/item/10661'>Прокладки ежедневные Maxi Fresh &quot;Carefree&quot; 20 шт</a>.

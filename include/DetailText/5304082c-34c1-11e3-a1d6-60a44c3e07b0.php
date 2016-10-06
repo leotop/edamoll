@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники-трусики &quot;Merries&quot; 12-22 кг 38 шт по цене 1129.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Merries.
+Заказывайте Подгузники-трусики &quot;Merries&quot; 12-22 кг 38 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10014'>Подгузники Up&Go Extra Large Plus &quot;Libero&quot; 16-26 кг 24 шт</a>, <a class='selected' style='color:#000000' href='/item/10010'>Подгузники Sleep&Play Junior &quot;Pampers&quot; 11-25 кг 58 шт</a>.

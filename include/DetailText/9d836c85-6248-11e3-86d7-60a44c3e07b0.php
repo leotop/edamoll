@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Оливки с лимоном &quot;Maestro de Oliva&quot; 300 г по цене 54.00 руб.
+Обратите внимание на Жиры: 14 г, а также Производитель: Olive Line International S.L..
+Заказывайте Оливки с лимоном &quot;Maestro de Oliva&quot; 300 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Оливки и маслины: <a class='selected' style='color:#000000' href='/item/18341'>Оливки с миндалем &quot;Maestro de Oliva&quot; 300 г</a>, <a class='selected' style='color:#000000' href='/item/18223'>Оливки с косточкой Каламата &quot;Hellada&quot; 360 г</a>.

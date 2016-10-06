@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Newborn 2-5 кг 27 шт по цене 317.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Вес: 500 г.
+Заказывайте Подгузники &quot;Pampers&quot; Newborn 2-5 кг 27 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/3959'>Подгузники &quot;Pampers&quot; Premium Care Midi 4-9 кг 120 шт</a>, <a class='selected' style='color:#000000' href='/item/9593'>Влажные салфетки &quot;Pampers&quot; Sensitive сменный блок 2Х56 шт</a>.

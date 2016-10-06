@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Invisible Goodnight &quot;Libresse&quot; 10 шт по цене 67.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки Invisible Goodnight &quot;Libresse&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10657'>Прокладки ежедневные Classic Regular &quot;Libresse&quot; 40+10 шт</a>, <a class='selected' style='color:#000000' href='/item/10695'>Тампоны Pearl Super &quot;Tampax&quot; с апликатором 18 шт</a>.

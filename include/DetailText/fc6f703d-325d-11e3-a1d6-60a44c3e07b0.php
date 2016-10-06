@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Корм для волнистых попугаев Menu Vital &quot;Vitakraft&quot; 1 кг по цене 294.00 руб.
+Обратите внимание на Вес: 1 кг, а также Жиры: 4,5 г.
+Заказывайте Корм для волнистых попугаев Menu Vital &quot;Vitakraft&quot; 1 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Для птиц: <a class='selected' style='color:#000000' href='/item/10245'>Крекеры для волнистых попугаев при линьке &quot;Vitakraft&quot; 60 г</a>, <a class='selected' style='color:#000000' href='/item/10243'>Корм для средних попугаев Menu Vital &quot;Vitakraft&quot; 1 кг</a>.

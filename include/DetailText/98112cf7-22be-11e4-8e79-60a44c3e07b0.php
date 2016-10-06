@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Classic Ultra Normal clip Duo &quot;Libresse&quot; 20 шт по цене 129.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Срок годности: 3 года.
+Заказывайте Прокладки Classic Ultra Normal clip Duo &quot;Libresse&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31287'>Прокладки с крылышками Normal &quot;Naturella&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/10694'>Тампоны Pearl Regular &quot;Tampax&quot; с апликатором 18 шт</a>.

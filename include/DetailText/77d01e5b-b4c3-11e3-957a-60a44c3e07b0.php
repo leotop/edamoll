@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Капсулы &quot;Ariel Active Gel Color & Style&quot; 40 шт по 35 г по цене 921.00 руб.
+Обратите внимание на Условия хранения: от 0°С до 35°С, а также Производитель: "Проктер энд Гэмбл Амьенс".
+Заказывайте Капсулы &quot;Ariel Active Gel Color & Style&quot; 40 шт по 35 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/19891'>Средство для стирки &quot;Losk Color Gel&quot; 2,92 л</a>, <a class='selected' style='color:#000000' href='/item/3750'>Жидкое cредство для стирки &quot;Frosch Color gel&quot; универсальное 2 л</a>.

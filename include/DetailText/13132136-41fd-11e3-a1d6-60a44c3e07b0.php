@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Recital Preference 4.01 Париж глубокий каштан &quot;L'oreal&quot; по цене 311.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Recital Preference 4.01 Париж глубокий каштан &quot;L'oreal&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/9923'>Краска Excellence Creme 7.1 русый пепельный &quot;L' Oreal&quot;</a>, <a class='selected' style='color:#000000' href='/item/9953'>Краска для волос Sublime Mousse 800 чистый блонд &quot;L`Oreal&quot;</a>.

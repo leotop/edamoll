@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Одноразовые бритвенные станки Satin Care &quot;Gillette&quot; 4 шт по цене 134.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Марка: Gillette.
+Заказывайте Одноразовые бритвенные станки Satin Care &quot;Gillette&quot; 4 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские бритвы: <a class='selected' style='color:#000000' href='/item/13553'>Кассеты для женского станка Sensor Excel &quot;Gillette&quot; 5 шт</a>, <a class='selected' style='color:#000000' href='/item/13563'>Кассеты сменные для станка Venus &quot;Gillette&quot; 2 шт</a>.

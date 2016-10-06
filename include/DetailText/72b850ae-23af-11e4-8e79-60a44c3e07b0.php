@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Perfecta Ultra Rose &quot;Bella&quot; 20 шт по цене  руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Польша.
+Заказывайте Прокладки Perfecta Ultra Rose &quot;Bella&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31285'>Прокладки Квадро Normal &quot;Naturella&quot; 40 шт</a>, <a class='selected' style='color:#000000' href='/item/10661'>Прокладки ежедневные Maxi Fresh &quot;Carefree&quot; 20 шт</a>.

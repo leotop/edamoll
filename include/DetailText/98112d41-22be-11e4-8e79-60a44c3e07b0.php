@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки урологические 467 мл &quot;Molimed&quot; 14 шт по цене 179.00 руб.
+Обратите внимание на Срок годности: 5 лет, а также Марка: Molimed.
+Заказывайте Прокладки урологические 467 мл &quot;Molimed&quot; 14 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31287'>Прокладки с крылышками Normal &quot;Naturella&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/10634'>Прокладки Platinum Collection Night &quot;Always&quot; 7 шт</a>.

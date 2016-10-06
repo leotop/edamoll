@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Ultra Comfort &quot;Huggies&quot; для мальчиков 5-9 кг 94 шт по цене 1067.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Производитель: Kimberly-Clark.
+Заказывайте Подгузники Ultra Comfort &quot;Huggies&quot; для мальчиков 5-9 кг 94 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10012'>Подгузники Sleep&Play Midi &quot;Pampers&quot; 4-9 кг 78 шт</a>, <a class='selected' style='color:#000000' href='/item/10259'>Подгузники Sleep&Play Junior &quot;Pampers&quot; 11-25 кг 74 шт</a>.

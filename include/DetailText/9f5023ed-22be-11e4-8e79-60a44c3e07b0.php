@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны UltraSorb Нормал&quot;Kotex&quot; 24 шт по цене 181.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Kimberly Clark.
+Заказывайте Тампоны UltraSorb Нормал&quot;Kotex&quot; 24 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31271'>Прокладки ежедневные Light &quot;Naturella&quot; 100 шт</a>, <a class='selected' style='color:#000000' href='/item/10656'>Прокладки ежеденевные Platinum Deo normal &quot;Always&quot; 50 шт</a>.

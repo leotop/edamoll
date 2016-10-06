@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска-мусс для волос Wellaton 8/0 Песочный &quot;Wella&quot; по цене 268.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Procter & Gamble.
+Заказывайте Краска-мусс для волос Wellaton 8/0 Песочный &quot;Wella&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11595'>Краска для волос Perfect Mousse 700 Темно-русый &quot;Schwarzkopff&quot;</a>, <a class='selected' style='color:#000000' href='/item/9946'>Краска для волос Perfect Mousse 400 темный-каштан &quot;Schwarzkopff&quot;</a>.

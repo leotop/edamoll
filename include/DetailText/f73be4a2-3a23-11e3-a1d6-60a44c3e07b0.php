@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Vergin &quot;Coosur&quot; 500 мл по цене 300.00 руб.
+Обратите внимание на Жиры: 98,9 г, а также Условия хранения: В темном месте.
+Заказывайте Масло оливковое Extra Vergin &quot;Coosur&quot; 500 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12098'>Масло оливковое с розмарином Extra Virgin &quot;Monini&quot; 0,25 л</a>, <a class='selected' style='color:#000000' href='/item/12091'>Масло оливковое Toscano &quot;Prim Oli&quot; 0,5 л</a>.

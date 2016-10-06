@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Comfort Extra Large &quot;Libero&quot; 12-22 кг 104 шт по цене 1528.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Пленочная пачка.
+Заказывайте Подгузники Comfort Extra Large &quot;Libero&quot; 12-22 кг 104 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10361'>Подгузники-трусики &quot;Merries&quot; 12-22 кг 38 шт</a>, <a class='selected' style='color:#000000' href='/item/10008'>Подгузники Newborn Mini &quot;Huggies&quot; 3-6 кг 32 шт</a>.

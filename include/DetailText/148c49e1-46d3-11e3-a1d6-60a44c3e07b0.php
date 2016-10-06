@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Fernando Giron&quot; 0,5 л по цене 258.00 руб.
+Обратите внимание на Жиры: 97,6 г, а также Марка: Fernando Giron.
+Заказывайте Масло оливковое Extra Virgin &quot;Fernando Giron&quot; 0,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/10750'>Масло оливковое Extra vergine нефильтрованное &quot;Monini&quot; 0,75 л</a>, <a class='selected' style='color:#000000' href='/item/12101'>Масло подсолнечное &quot;Altero&quot; Vitality 0,81 л</a>.

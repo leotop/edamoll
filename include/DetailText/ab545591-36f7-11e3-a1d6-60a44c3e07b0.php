@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Пицца Guseppe ветчина &quot;Dr.Oetker&quot; 410 г по цене 145.00 руб.
+Обратите внимание на Белки: 9 г, а также Энергетическая ценность: 240 Ккал.
+Заказывайте Пицца Guseppe ветчина &quot;Dr.Oetker&quot; 410 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Пицца: <a class='selected' style='color:#000000' href='/item/10621'>Пицца Ristorante лосось, тунец и креветки &quot;Dr.Oetker&quot; 365 г</a>, <a class='selected' style='color:#000000' href='/item/10622'>Пицца Ristorante моцарелла &quot;Dr.Oetker&quot; 335 г</a>.

@@ -1,0 +1,122 @@
+.catalog-element{
+position:relative;
+}
+.catalog-element-left{
+float:left;
+width:320px;
+margin-right:20px;
+}
+.catalog-element-name{
+width:660px;
+font-size:20pt;
+text-transform: uppercase;
+font-weight: bold;
+}
+.catalog-element-prop{
+width:320px;
+margin-left:20px;
+}
+.catalog-element-prop .propname{
+width:160px;
+display: inline-block;
+}
+.catalog-element-prices{
+width:320px;
+}
+.catalog-element-image{
+width:320px;
+height:320px;
+border: 1px solid rgb(255,0,57);
+text-align: center;
+}
+.catalog-element-image img{
+    display:-moz-inline-box;
+    display:inline-block;
+    vertical-align:middle;
+    zoom:1;
+    //display:inline;
+}
+.catalog-element-image .helper{
+    display:-moz-inline-box;
+    display:inline-block;
+    vertical-align:middle;
+    height:100%;
+    width:0px;
+    zoom:1;
+    //display:inline;
+}
+
+.catalog-element_no_foto{
+width:320px;
+height:320px;
+background: url('/include/img/nofoto.png') no-repeat center;
+border: 1px solid rgb(255,0,57);
+}
+.catalog-element-likes{
+margin-top:40px;
+width:170px;
+height:66px;
+background: url('/include/img/likes.png') no-repeat center;
+}
+.bestseller{
+position: absolute;
+top: 204px;
+background: url("/include/img/Bestseller.png") no-repeat scroll left top transparent;
+left: -4px;
+width: 122px;
+height: 122px;
+z-index: 20;
+}
+.catalog-element-prices .plus{
+top:20px;
+left:83px;
+}
+.catalog-element-prices .minus{
+left:0px;
+top:20px;
+}
+
+.catalog-element-prices .quantity{
+top: 12px;
+left:25px;
+}
+
+.btncart{
+margin-top:60px;
+border:1px solid rgb(255,0,57);
+background: rgb(255,0,57) url("/include/img/cartw.png") no-repeat 5px center;
+width:150px;
+height:44px;
+color:white;
+text-transform:uppercase;
+text-align: right;
+font-weight:bold;
+
+}
+
+.decimal{
+vertical-align: 0.3em;
+font-size: 70%; 
+}
+.catalog-element-prices .old-price{
+ color: black;
+font-weight:bold;
+font-size:14pt;
+text-decoration:line-through
+}
+.catalog-element-prices .price{
+ color: black;
+font-weight:bold;
+font-size:14pt;
+}
+.catalog-element-prices .discount-price{
+ color: rgb(255,0,57);
+font-weight:bold;
+font-size:18pt;
+}
+.flr .discount_panel{
+left: -6px;
+}
+.pmcont{
+position:relative;
+}

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Persil Expert Vernel BusinessLine&quot; 15 кг по цене 1768.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Persil.
+Заказывайте Стиральный порошок &quot;Persil Expert Vernel BusinessLine&quot; 15 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/19925'>Стиральный порошок &quot;Миф Свежий цвет&quot; автомат 400 г</a>, <a class='selected' style='color:#000000' href='/item/21448'>Стиральный порошок &quot;Dosia Color&quot; автомат 1,8 кг</a>.

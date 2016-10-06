@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Prestigio &quot;Cellini&quot; 500 г по цене 909.00 руб.
+Обратите внимание на Срок годности: 18 месяцев, а также Марка: Cellini.
+Заказывайте Кофе зерновой Prestigio &quot;Cellini&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/26299'>Кофе растворимый в стеклянной банке &quot;Jacobs Monarch&quot; 190 г</a>, <a class='selected' style='color:#000000' href='/item/2414'>Кофе растворимый Classic &quot;Nescafe&quot; 150 г</a>.

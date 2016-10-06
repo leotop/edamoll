@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Маска Авокадо и карите Ultra Doux &quot;Garnier&quot; 300 мл по цене 202.00 руб.
+Обратите внимание на Объем: 300 мл, а также Страна производитель: Германия.
+Заказывайте Маска Авокадо и карите Ultra Doux &quot;Garnier&quot; 300 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Бальзамы и маски: <a class='selected' style='color:#000000' href='/item/11485'>Бальзам-ополаскиватель Pro Series Color &quot;Wella&quot; 500 мл</a>, <a class='selected' style='color:#000000' href='/item/11660'>Маска для волос Восстанавливающая Pro Series Repair &quot;Wella&quot; 200 мл</a>.

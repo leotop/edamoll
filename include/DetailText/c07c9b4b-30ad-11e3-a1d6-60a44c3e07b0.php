@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники-трусики Аctive Girl Extra Large &quot;Pampers&quot; 16+ кг 44 шт по цене 807.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Марка: Pampers.
+Заказывайте Подгузники-трусики Аctive Girl Extra Large &quot;Pampers&quot; 16+ кг 44 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9877'>Влажные салфетки &quot;Libero&quot; 128 шт</a>, <a class='selected' style='color:#000000' href='/item/10010'>Подгузники Sleep&Play Junior &quot;Pampers&quot; 11-25 кг 58 шт</a>.

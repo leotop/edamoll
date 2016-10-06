@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Perfect Mousse 400 Темный каштан &quot;Schwarzkopff&quot; по цене 248.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Марка: Schwarzkopf.
+Заказывайте Краска для волос Perfect Mousse 400 Темный каштан &quot;Schwarzkopff&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11566'>Краска для волос Casting 412 Какао со льдом &quot;L`Oreal&quot;</a>, <a class='selected' style='color:#000000' href='/item/11577'>Краска для волос Color Sensation 4.15 Благородный опал &quot;Garnier&quot;</a>.

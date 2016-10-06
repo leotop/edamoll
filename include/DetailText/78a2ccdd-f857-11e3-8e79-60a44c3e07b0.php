@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое с перцем чили Gourmet &quot;Kotanyi&quot; 0,5 л по цене 648.00 руб.
+Обратите внимание на Условия хранения: В темном месте, а также Страна производитель: Австрия.
+Заказывайте Масло оливковое с перцем чили Gourmet &quot;Kotanyi&quot; 0,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/18966'>Масло подсолнечное рафинированное Olio di semi di Girasole &quot;Bioitalia&quot; 750мл</a>, <a class='selected' style='color:#000000' href='/item/10754'>Масло оливковое Extra Virgin &quot;Maestro de Oliva&quot; 1 л</a>.

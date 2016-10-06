@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Конфеты шоколадные Rocher &quot;Ferrero&quot; 125 г по цене 195.00 руб.
+Обратите внимание на Углеводы: 43,8 г, а также Производитель: Ferrero S.p.A..
+Заказывайте Конфеты шоколадные Rocher &quot;Ferrero&quot; 125 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Конфеты в коробках: <a class='selected' style='color:#000000' href='/item/13228'>Конфеты шоколадные С миндалём &quot;Fluide Boutique&quot; 135 г</a>, <a class='selected' style='color:#000000' href='/item/29545'>Конфеты Fioretto с марципаном &quot;Lindt&quot; 138 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Comfort Maxi &quot;Libero&quot; 7-14 кг 120 шт по цене 1528.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Libero.
+Заказывайте Подгузники Comfort Maxi &quot;Libero&quot; 7-14 кг 120 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10009'>Подгузники Premium Midi &quot;Pampers&quot; 4-9 кг 60 шт</a>, <a class='selected' style='color:#000000' href='/item/10005'>Подгузники Classic &quot;Huggies&quot; 7-18 кг 68 шт</a>.

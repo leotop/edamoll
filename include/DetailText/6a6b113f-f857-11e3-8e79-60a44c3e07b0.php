@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Filippo Berio&quot; 500 мл по цене 306.00 руб.
+Обратите внимание на Жиры: 91,3 г, а также Производитель: Salov S.p.A..
+Заказывайте Масло оливковое Extra Virgin &quot;Filippo Berio&quot; 500 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/10758'>Масло оливковое Extra Virgin olive oil Kalamata D.O.P &quot;Gaea&quot; 0,5 л</a>, <a class='selected' style='color:#000000' href='/item/12084'>Масло оливковое Extra Virgin &quot;La Espanola&quot; 0,5 л</a>.

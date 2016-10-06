@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Пена для бритья &quot;Arko Extra Sensitive&quot; 200 мл по цене 70.00 руб.
+Обратите внимание на Условия хранения: Баллончик находится под давлением. Не допускать на, а также Объем: 200 мл.
+Заказывайте Пена для бритья &quot;Arko Extra Sensitive&quot; 200 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гель, пена для бритья: <a class='selected' style='color:#000000' href='/item/17772'>Гель для бритья Satin Care Avocado Twist &quot;Gillette&quot; 200 мл</a>, <a class='selected' style='color:#000000' href='/item/13548'>Гель для бритья &quot;Nivea for men&quot; 200 мл</a>.

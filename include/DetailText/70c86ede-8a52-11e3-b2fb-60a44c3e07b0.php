@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант Fresh&Essence &quot;Lady Speed Stick&quot; стик 65 г по цене 146.00 руб.
+Обратите внимание на Вес: 65 г, а также Условия хранения: При T не выше 50°С.
+Заказывайте Дезодорант Fresh&Essence &quot;Lady Speed Stick&quot; стик 65 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские дезодоранты: <a class='selected' style='color:#000000' href='/item/18925'>Антиперспирант шариковый Алоэ &quot;Rexona&quot; 50 мл</a>, <a class='selected' style='color:#000000' href='/item/18609'>Дезодорант-антиперспирант Aloe Vera &quot;Rexona&quot; 150 мл</a>.

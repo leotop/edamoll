@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Casting Creme Gloss 400 каштан &quot;L`Oreal&quot; по цене 313.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: L'Oreal.
+Заказывайте Краска для волос Casting Creme Gloss 400 каштан &quot;L`Oreal&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/9952'>Краска для волос Sublime Mousse 1000 очень светлый блонд &quot;L`Oreal&quot;</a>, <a class='selected' style='color:#000000' href='/item/9938'>Краска для волос Color 4-1 каштановый &quot;Syoss&quot; 50 мл</a>.

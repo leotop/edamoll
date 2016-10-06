@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Бритва мужская Mach3 Turbo &quot;Gillette&quot; по цене 431.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Упаковка: Пластиковая.
+Заказывайте Бритва мужская Mach3 Turbo &quot;Gillette&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские бритвы: <a class='selected' style='color:#000000' href='/item/13558'>Кассеты сменные для станка Mach3 &quot;Gillette&quot; 4 шт</a>, <a class='selected' style='color:#000000' href='/item/4125'>Одноразовые бритвенные станки &quot;Gillette Blue II Plus&quot; 5 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra vergine нефильтрованное &quot;Monini&quot; 0,25 л по цене 228.00 руб.
+Обратите внимание на Жиры: 97,6 г, а также Марка: Monini.
+Заказывайте Масло оливковое Extra vergine нефильтрованное &quot;Monini&quot; 0,25 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/10800'>Масло горчичное &quot;Golden Kings&quot; 500 мл</a>, <a class='selected' style='color:#000000' href='/item/12071'>Масло оливковое &quot;La Espanola&quot; 1 л</a>.

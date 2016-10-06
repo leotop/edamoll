@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Штрудель вишневый &quot;Conditorei Coppenrath & Wiese&quot; 600 г по цене 160.00 руб.
+Обратите внимание на Углеводы: 31,5 г, а также Срок годности: 3 месяца.
+Заказывайте Штрудель вишневый &quot;Conditorei Coppenrath & Wiese&quot; 600 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Блинчики и варреники, выпечка: <a class='selected' style='color:#000000' href='/item/10499'>Блинчики с творогом &quot;С пылу С жару&quot; 360 г</a>, <a class='selected' style='color:#000000' href='/item/17572'>Чизкейк с клубничным кремом &quot;Conditorei Coppenrath & Wiese&quot; 1100 г</a>.

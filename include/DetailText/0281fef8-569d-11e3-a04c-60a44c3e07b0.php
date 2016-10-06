@@ -1,0 +1,4 @@
+¬ нашем интернет магазине вы можете купить —ыр Coeur de Lion Camembert м€гкий с плесенью 45% &quot;Bongrain&quot; 250 г по цене 318.00 руб.
+ќбратите внимание на —рок годности: 53 дн€, а также ∆иры: 21 г.
+«аказывайте —ыр Coeur de Lion Camembert м€гкий с плесенью 45% &quot;Bongrain&quot; 250 г в интернет-магазине edamoll.ru.
+ќбратите внимание также на другие товары из категории —ыры: <a class='selected' style='color:#000000' href='/item/23863'>—ыр сливочный &quot;“ыс€ча ќзер&quot; 300 г</a>, <a class='selected' style='color:#000000' href='/item/24143'>—ыр белый „еддер &quot;Emborg&quot; 200 г</a>.

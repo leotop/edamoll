@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Dosia Color Active 3&quot; 3,7 кг по цене 288.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Стиральный порошок &quot;Dosia Color Active 3&quot; 3,7 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/18856'>Стиральный порошок &quot;Persil Color Expert BusinessLine&quot; 15 кг</a>, <a class='selected' style='color:#000000' href='/item/18859'>Стиральный порошок &quot;Persil Color Expert&quot; 3 кг</a>.

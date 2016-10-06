@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант Angel Star Hot Crash &quot;Nivea&quot; спрей 100 мл по цене 96.00 руб.
+Обратите внимание на Объем: 100 мл, а также Упаковка: Жестяной баллон.
+Заказывайте Дезодорант Angel Star Hot Crash &quot;Nivea&quot; спрей 100 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские дезодоранты: <a class='selected' style='color:#000000' href='/item/18681'>Кремовый аниперспирант Натурель &quot;Secret&quot; 40 г</a>, <a class='selected' style='color:#000000' href='/item/18933'>Дезодорант Fresh&Essence &quot;Lady Speed Stick&quot; стик 65 г</a>.

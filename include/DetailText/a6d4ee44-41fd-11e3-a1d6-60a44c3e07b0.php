@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска-мусс для волос Wellaton 6/7 Шоколад &quot;Wella&quot; по цене 268.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Procter & Gamble.
+Заказывайте Краска-мусс для волос Wellaton 6/7 Шоколад &quot;Wella&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/9951'>Краска для волос Recital Preference 10.21 светло-светло русый &quot;L`Oreal&quot;</a>, <a class='selected' style='color:#000000' href='/item/11606'>Краска для волос Sublime Mousse 400 Чистый темный каштан &quot;L`Oreal&quot;</a>.

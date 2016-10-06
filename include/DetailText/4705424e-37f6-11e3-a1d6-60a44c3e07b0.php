@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Maestro de Oliva&quot; 1 л по цене 546.00 руб.
+Обратите внимание на Жиры: 97,60 г, а также Срок годности: 2 года.
+Заказывайте Масло оливковое Extra Virgin &quot;Maestro de Oliva&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12096'>Масло оливковое с орегано Extra Virgin &quot;Hellada&quot; 0,25 л</a>, <a class='selected' style='color:#000000' href='/item/10801'>Масло из виноградных косточек Grapeseed Oil &quot;Monini&quot; 1 л</a>.

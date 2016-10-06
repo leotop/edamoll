@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Влажные салфетки Clean & Play &quot;Pampers&quot; сменный блок 2Х64 шт по цене 200.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Pampers.
+Заказывайте Влажные салфетки Clean & Play &quot;Pampers&quot; сменный блок 2Х64 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9883'>Влажные салфетки Ultra Comfort Natural &quot;Huggies&quot; 128 шт</a>, <a class='selected' style='color:#000000' href='/item/10231'>Влажные салфетки Clean & Play &quot;Pampers&quot; сменный блок 64 шт</a>.

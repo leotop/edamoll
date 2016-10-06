@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье миндальное Montibovi la dolcevita &quot;Cuntunccini&quot; 250 г по цене 167.00 руб.
+Обратите внимание на Жиры: 17,5 г, а также Страна производитель: Италия.
+Заказывайте Печенье миндальное Montibovi la dolcevita &quot;Cuntunccini&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/23827'>Печенье с кленовым сиропом и орехом пекан &quot;Elsa’s Story&quot; 200 г</a>, <a class='selected' style='color:#000000' href='/item/12857'>Печенье песочное с сахаром Classic Cafe Kranze &quot;Coppenrath&quot; 250 г</a>.

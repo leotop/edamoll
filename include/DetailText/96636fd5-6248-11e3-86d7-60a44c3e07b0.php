@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Маслины супергигантские без косточки &quot;Maestro de Oliva&quot; 425 г по цене 129.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Olive Line International S.L..
+Заказывайте Маслины супергигантские без косточки &quot;Maestro de Oliva&quot; 425 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Оливки и маслины: <a class='selected' style='color:#000000' href='/item/18345'>Оливки с семгой &quot;Maestro de Oliva&quot; 300 г</a>, <a class='selected' style='color:#000000' href='/item/18329'>Маслины Мини без косточки &quot;Iberica&quot; 300 г</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Влажные салфетки Нежная забота &quot;Johnson's baby&quot; 64 шт по цене 101.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Производитель: Johnsons& Johnsons.
+Заказывайте Влажные салфетки Нежная забота &quot;Johnson's baby&quot; 64 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10005'>Подгузники Classic &quot;Huggies&quot; 7-18 кг 68 шт</a>, <a class='selected' style='color:#000000' href='/item/10254'>Подгузники Dry Pants Extra Large &quot;Libero&quot; 13-20 кг 30 шт</a>.

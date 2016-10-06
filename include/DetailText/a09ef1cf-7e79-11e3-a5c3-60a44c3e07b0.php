@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант-аэрозоль Crystal Clear Pure &quot;Rexona&quot; 150 мл по цене 116.00 руб.
+Обратите внимание на Объем: 150 мл, а также Срок годности: 30 месяцев.
+Заказывайте Дезодорант-аэрозоль Crystal Clear Pure &quot;Rexona&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские дезодоранты: <a class='selected' style='color:#000000' href='/item/18927'>Гелевый дезодорант Алоэ &quot;Lady Speed Stick&quot; 65 г</a>, <a class='selected' style='color:#000000' href='/item/18614'>Дезодорант-антиперспирант Crystal Clear Aqua &quot;Rexona&quot; 50 мл</a>.

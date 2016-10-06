@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Корм для крыс Premium menu &quot;Vitakraft&quot; 400 г по цене 231.00 руб.
+Обратите внимание на Условия хранения: от 4°С до 35°С, а также Срок годности: 18 месяцев.
+Заказывайте Корм для крыс Premium menu &quot;Vitakraft&quot; 400 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Для грызунов: <a class='selected' style='color:#000000' href='/item/12461'>Корм для шиншил Emotion Beauty &quot;Vitakraft&quot; 600 г</a>, <a class='selected' style='color:#000000' href='/item/19781'>Лакомство для грызунов с фруктами &quot;Triol&quot; 100 г</a>.

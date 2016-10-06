@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое с розмарином Extra Virgin &quot;Hellada&quot; 0,25 л по цене 242.00 руб.
+Обратите внимание на Объем: 0,25 л, а также Срок годности: 24 месяца.
+Заказывайте Масло оливковое с розмарином Extra Virgin &quot;Hellada&quot; 0,25 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/12077'>Масло оливковое Extra Virgin &quot;Acorsa&quot; 0,75 л</a>, <a class='selected' style='color:#000000' href='/item/10808'>Масло оливковое Extra Vergin Granfruttato&quot;Monini&quot; 1 л</a>.

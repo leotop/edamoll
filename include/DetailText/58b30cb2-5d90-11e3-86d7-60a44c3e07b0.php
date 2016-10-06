@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сменные кассеты Venus Breeze &quot;Gillette&quot; 4 шт по цене 631.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: Procter&Gamble.
+Заказывайте Сменные кассеты Venus Breeze &quot;Gillette&quot; 4 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские бритвы: <a class='selected' style='color:#000000' href='/item/17865'>Станок для бритья Venus Embrace &quot;Gillette&quot;</a>, <a class='selected' style='color:#000000' href='/item/13563'>Кассеты сменные для станка Venus &quot;Gillette&quot; 2 шт</a>.

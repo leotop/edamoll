@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Persil Color Expert BusinessLine&quot; 15 кг по цене 1768.00 руб.
+Обратите внимание на Условия хранения: В сухом, недоступной для детей месте, а также Вес: 15 кг.
+Заказывайте Стиральный порошок &quot;Persil Color Expert BusinessLine&quot; 15 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/18871'>Стиральный порошок &quot;Tide Альпийская свежесть&quot; автомат 9 кг</a>, <a class='selected' style='color:#000000' href='/item/19896'>Стиральный порошок &quot;Ariel Lenor effect aromatherapy&quot; автомат 4,5 кг</a>.

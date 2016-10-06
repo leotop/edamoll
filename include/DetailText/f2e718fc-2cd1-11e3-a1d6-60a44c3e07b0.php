@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Everyday Extra Large &quot;Libero&quot; 11-25 кг 56 шт по цене 688.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: SCA Hygiene Products.
+Заказывайте Подгузники Everyday Extra Large &quot;Libero&quot; 11-25 кг 56 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10355'>Подгузники Premium Care Newborn &quot;Pampers&quot; &lt;2,5 кг 30 шт</a>, <a class='selected' style='color:#000000' href='/item/10348'>Подгузники Extra Large &quot;Merries&quot; 12-20 кг 44 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Perfect Mousse 465 шоколадный каштан &quot;Schwarzkopff&quot; по цене 248.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Упаковка: Бумажная.
+Заказывайте Краска для волос Perfect Mousse 465 шоколадный каштан &quot;Schwarzkopff&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/11579'>Краска для волос Color Sensation 6.0 Роскошный темно - русый &quot;Garnier&quot;</a>, <a class='selected' style='color:#000000' href='/item/9938'>Краска для волос Color 4-1 каштановый &quot;Syoss&quot; 50 мл</a>.

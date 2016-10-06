@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант &quot;Old Spice Whitewater&quot; стик 60 мл по цене 115.00 руб.
+Обратите внимание на Объем: 60 мл, а также Условия хранения: Хранить в недоступном для детей месте..
+Заказывайте Дезодорант &quot;Old Spice Whitewater&quot; стик 60 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские дезодоранты: <a class='selected' style='color:#000000' href='/item/4430'>Дезодорант &quot;Old Spice Whitewater&quot; аэрозоль 150 мл</a>, <a class='selected' style='color:#000000' href='/item/18604'>Дезодорант Sport Defense &quot;Rexona&quot; 150 мл</a>.

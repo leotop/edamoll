@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Colgate&quot; 360 Sensitive Pro-relief по цене 178.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Упаковка: Блистерная упаковка.
+Заказывайте Зубная щетка &quot;Colgate&quot; 360 Sensitive Pro-relief в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10944'>Зубная щетка &quot;Aquafresh&quot; Inbetween средняя</a>, <a class='selected' style='color:#000000' href='/item/10171'>Зубная щетка &quot;Colgate&quot; 360 Суперчистота 1+1</a>.

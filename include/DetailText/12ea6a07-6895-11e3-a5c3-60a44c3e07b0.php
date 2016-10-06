@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Чай черный Earl Grey &quot;Ahmad&quot; 100 пакетиков по цене 280.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Срок годности: 24 месяца.
+Заказывайте Чай черный Earl Grey &quot;Ahmad&quot; 100 пакетиков в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18909'>Чай черный English Breakfast &quot;Newby&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/18905'>Чай черный Ceylon Premium &quot;Riston&quot; 200 г</a>.

@@ -1,0 +1,212 @@
+/**Top menu**/
+#horizontal-multilevel-menu,#horizontal-multilevel-menu ul
+{
+z-index:999;
+position:relative;
+	margin:0; padding:0;
+	height:38px;
+	width:1000px;
+	list-style:none;
+	font-size:11px;
+	float:left;
+display:block;
+/**background: rgb(255,0,57);**/
+}
+
+/*Links*/
+#horizontal-multilevel-menu a
+{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+line-height:38px;
+height:38px;
+}
+#horizontal-multilevel-menu li li a{
+height:auto;
+}
+#horizontal-multilevel-menu li 
+{
+	float:left;
+}
+
+/*Root items*/
+#horizontal-multilevel-menu li a.root-item
+{
+	color:#fff;
+	font-weight:bold;
+	padding:0;
+background: rgb(255,0,57);
+text-align:center;
+overflow:hidden;
+}
+#horizontal-multilevel-menu li a.root-item1
+{
+width:177px;
+}
+#horizontal-multilevel-menu li a.root-item2
+{
+width:158px;
+}
+#horizontal-multilevel-menu li a.root-item3
+{
+width:203px;
+}
+#horizontal-multilevel-menu li a.root-item4
+{
+width:128px;
+}
+#horizontal-multilevel-menu li a.root-item5
+{
+width:155px;
+}
+#horizontal-multilevel-menu li a.root-item6
+{
+width:169px;
+}
+
+#horizontal-multilevel-menu li a.root-item7
+{
+display:none;
+}
+
+
+
+/*Root menu selected*/
+#horizontal-multilevel-menu li a.root-item-selected
+{
+overflow:hidden;
+	padding:0;
+	background:rgb(149,209,0);
+	color:#fff;
+}
+
+/*Root items: hover*/
+#horizontal-multilevel-menu li:hover a.root-item, #horizontal-multilevel-menu li.jshover a.root-item
+{
+	background:rgb(149,209,0);
+	color:#fff;
+}
+
+/*Sub-menu box*/
+#horizontal-multilevel-menu li ul
+{
+	position:absolute;
+left: 0;
+	top:auto;
+	display:none;
+	z-index:500;
+min-height:160px;
+	height:auto;
+	background:white;
+	border:1px solid rgb(255,0,57);
+padding-left:0;
+width: 858px;
+padding-right: 140px;
+padding-bottom:15px;
+}
+#horizontal-multilevel-menu li ul ul{
+min-height:0;
+}
+
+#horizontal-multilevel-menu li ul li
+{ 
+float:none; 
+/*margin-right:30px;*/
+margin-left:10px;
+width:150px;
+display:inline-block;
+vertical-align: top;
+}
+
+/*Item link*/
+#horizontal-multilevel-menu li ul a
+{
+	text-align:left;
+line-height:normal;
+margin-right:10px;
+ color:rgb(255,0,57);
+ text-transform: uppercase;
+font-weight:bold;
+font-size:9pt;
+margin-top:15px;
+}
+
+#horizontal-multilevel-menu li ul ul a:hover
+{
+ color:rgb(255,0,57);
+}
+#horizontal-multilevel-menu li ul ul a
+{
+ color:black;
+ text-transform: none;
+font-weight:normal;
+margin-top:0;
+}
+
+
+
+#horizontal-multilevel-menu li ul ul
+{
+padding:0;
+border:none;
+position:static;
+width:auto;
+}
+
+#horizontal-multilevel-menu li ul ul li
+{ float:none; margin-left:0;}
+
+#horizontal-multilevel-menu li:hover ul ul,
+#horizontal-multilevel-menu li.jshover ul ul,
+#horizontal-multilevel-menu li:hover ul ul ul,
+#horizontal-multilevel-menu li.jshover ul ul ul,
+#horizontal-multilevel-menu li:hover ul ul ul ul,
+#horizontal-multilevel-menu li.jshover ul ul ul ul,
+#horizontal-multilevel-menu li:hover ul ul ul ul ul,
+#horizontal-multilevel-menu li.jshover ul ul ul ul ul
+{
+	display:block;
+}
+
+#horizontal-multilevel-menu li:hover ul,
+#horizontal-multilevel-menu li.jshover ul,
+#horizontal-multilevel-menu li li:hover ul,
+#horizontal-multilevel-menu li li.jshover ul,
+#horizontal-multilevel-menu li li li:hover ul,
+#horizontal-multilevel-menu li li li.jshover ul,
+#horizontal-multilevel-menu li li li li:hover ul,
+#horizontal-multilevel-menu li li li li.jshover ul,
+#horizontal-multilevel-menu li li li li li:hover ul,
+#horizontal-multilevel-menu li li li li li.jshover ul
+{
+	display:block;
+}
+
+div.menu-clear-left
+{
+	clear:left;
+}
+
+.top_menu_img_cont{
+width:160px;
+height:160px;
+position:absolute;
+right:15px;
+bottom:15px;
+overflow:hidden;
+text-align:center;
+display:none;
+}
+
+#horizontal-multilevel-menu a:hover .top_menu_img_cont{
+display:block;
+}
+.root_delimiter{width:2px;height:38px;background: red url('/include/img/border.png') 0px 0px repeat-y scroll;}
+
+.li_right{
+position: absolute;
+right: 15px;
+height:100%;
+top:0px;
+}

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Спрей двухфазный Aqua Light &quot;Pantene Pro-V&quot; 150 мл по цене 224.00 руб.
+Обратите внимание на Объем: 150 мл, а также Марка: Pantene Pro-V.
+Заказывайте Спрей двухфазный Aqua Light &quot;Pantene Pro-V&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Бальзамы и маски: <a class='selected' style='color:#000000' href='/item/9860'>Бальзам Color Protect для окрашенных и тонированных волос &quot;Syoss&quot; 500 мл</a>, <a class='selected' style='color:#000000' href='/item/11501'>Бальзам-ополаскиватель укрепляющий Чистый блеск Fructis &quot;Garnier&quot; 200 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Lacalut&quot; White and Repair 50 мл по цене 224.00 руб.
+Обратите внимание на Объем: 0,05 л, а также Производитель: Dr. Theiss.
+Заказывайте Зубная паста &quot;Lacalut&quot; White and Repair 50 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/10135'>Зубная паста &quot;Colgate&quot; Прополис 100 мл</a>, <a class='selected' style='color:#000000' href='/item/9681'>Зубная паста &quot;Новый жемчуг&quot; Лёгкий аромат мяты 100 мл</a>.

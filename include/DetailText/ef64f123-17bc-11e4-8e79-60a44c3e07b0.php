@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Трусики Dry Pants Maxi &quot;Libero&quot; 7-11 кг 34 шт по цене 538.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: ООО "ЮСиЭм Рус".
+Заказывайте Трусики Dry Pants Maxi &quot;Libero&quot; 7-11 кг 34 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10354'>Подгузники Premium Care Midi &quot;Pampers&quot; 4-9 кг 120 шт</a>, <a class='selected' style='color:#000000' href='/item/10277'>Детские впитывающие пеленки &quot;Helen Harper&quot; 60Х90 10 шт</a>.

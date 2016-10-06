@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Up&Go Extra Large Plus &quot;Libero&quot; 16-26 кг 24 шт по цене 524.00 руб.
+Обратите внимание на Условия хранения: В сухом прохладном месте, а также Страна производитель: Швеция.
+Заказывайте Подгузники Up&Go Extra Large Plus &quot;Libero&quot; 16-26 кг 24 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10357'>Подгузники Small &quot;Merries&quot; 4-8 кг 82 шт</a>, <a class='selected' style='color:#000000' href='/item/10006'>Подгузники Everyday Mini &quot;Libero&quot; 3-6 кг 50 шт</a>.

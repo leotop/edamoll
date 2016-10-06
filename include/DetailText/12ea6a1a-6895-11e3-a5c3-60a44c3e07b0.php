@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Чай черный English Breakfast &quot;Ahmad&quot; 100 пакетиков по цене 227.00 руб.
+Обратите внимание на Срок годности: 24 месяца, а также Упаковка: Картонная.
+Заказывайте Чай черный English Breakfast &quot;Ahmad&quot; 100 пакетиков в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18910'>Чай черный English Elite &quot;Riston&quot; 100 пак</a>, <a class='selected' style='color:#000000' href='/item/18892'>Чай зеленый листовой c жасмином &quot;Riston&quot; 225 г</a>.

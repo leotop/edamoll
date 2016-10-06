@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Active Baby Extra Large &quot;Pampers&quot; 15+ кг 54 шт по цене 950.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Pampers.
+Заказывайте Подгузники Active Baby Extra Large &quot;Pampers&quot; 15+ кг 54 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10011'>Подгузники Sleep&Play Maxi &quot;Pampers&quot; 7-18 кг 68 шт</a>, <a class='selected' style='color:#000000' href='/item/10270'>Влажные салфетки &quot;Ушастый нянь&quot; 80 шт</a>.

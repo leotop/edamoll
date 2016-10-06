@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Perfecta Ultra Violet &quot;Bella&quot; 20 шт по цене  руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Срок годности: 3 года.
+Заказывайте Прокладки Perfecta Ultra Violet &quot;Bella&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10670'>Прокладки с крылышками Invisible Goodnight &quot;Libresse&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10628'>Прокладки Invisible Goodnight &quot;Libresse&quot; 10 шт</a>.

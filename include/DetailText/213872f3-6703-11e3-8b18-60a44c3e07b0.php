@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Оливки с косточкой &quot;Bonduelle&quot; 300 г по цене 60.00 руб.
+Обратите внимание на Углеводы: 5,1 г, а также Производитель: Industrias Alimentaris de Navarra.
+Заказывайте Оливки с косточкой &quot;Bonduelle&quot; 300 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Оливки и маслины: <a class='selected' style='color:#000000' href='/item/18232'>Плоды каперсов &quot;Iberica&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/18340'>Оливки с косточкой Гигантские &quot;Maestro de Oliva&quot; 420 г</a>.

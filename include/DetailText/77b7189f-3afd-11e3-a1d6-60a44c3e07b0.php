@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Ополаскиватель для рта &quot;Colgate&quot; Optic White 500 мл по цене 190.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Colgate-Palmolive Ltd.
+Заказывайте Ополаскиватель для рта &quot;Colgate&quot; Optic White 500 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Ополаскиватели: <a class='selected' style='color:#000000' href='/item/10986'>Ополаскиватель для рта &quot;La Ligne&quot; Mintfresh 500 мл</a>, <a class='selected' style='color:#000000' href='/item/10216'>Ополаскиватель для рта &quot;Colgate&quot; Plax Свежесть чая 500 мл</a>.

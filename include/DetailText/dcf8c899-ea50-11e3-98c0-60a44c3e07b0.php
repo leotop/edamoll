@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Blue Label &quot;Ambassador&quot; 250 г по цене 218.00 руб.
+Обратите внимание на Вес: 250 г, а также Упаковка: Фольгированный пакет с клапаном.
+Заказывайте Кофе зерновой Blue Label &quot;Ambassador&quot; 250 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/26267'>Кофе зерновой № 1 Tanzania Kilimanjaro &quot;Julius Meinl&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/26278'>Кофе зерновой Ristretto &quot;Roberto Totti&quot; 250 г</a>.

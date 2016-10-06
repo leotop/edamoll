@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки урологические Lady Ultra mini &quot;Tena&quot; 28 шт по цене 168.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Условия хранения: от 5°С до 30°С.
+Заказывайте Прокладки урологические Lady Ultra mini &quot;Tena&quot; 28 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31254'>Прокладки Invisible Clip Super Soft &quot;Libresse&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/31284'>Прокладки женские Ultra Normal Duo &quot;Naturella&quot; 20 шт</a>.

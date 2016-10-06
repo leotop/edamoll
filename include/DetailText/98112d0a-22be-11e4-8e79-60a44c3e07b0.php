@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Sensitive Super Plus &quot;Always&quot; 8 шт по цене 146.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Срок годности: 2 года.
+Заказывайте Прокладки Ultra Sensitive Super Plus &quot;Always&quot; 8 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4242'>Прокладки &quot;Always Ultra Normal&quot; 2х10 шт</a>, <a class='selected' style='color:#000000' href='/item/31271'>Прокладки ежедневные Light &quot;Naturella&quot; 100 шт</a>.

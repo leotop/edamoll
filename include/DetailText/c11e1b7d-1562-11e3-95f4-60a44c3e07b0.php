@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант &quot;Old Spice Whitewater&quot; аэрозоль 150 мл по цене 133.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Old Spice.
+Заказывайте Дезодорант &quot;Old Spice Whitewater&quot; аэрозоль 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские дезодоранты: <a class='selected' style='color:#000000' href='/item/18931'>Дезодорант Bahamas &quot;Old Spice&quot; спрей 125 мл</a>, <a class='selected' style='color:#000000' href='/item/18610'>Дезодорант-антиперспирант Arctic Ice &quot;Gillette&quot; 50 г</a>.

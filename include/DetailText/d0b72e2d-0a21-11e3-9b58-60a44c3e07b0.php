@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Жидкое средство для стирки &quot;Kokosal Protection Delicate&quot; 1 л по цене 117.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Польша.
+Заказывайте Жидкое средство для стирки &quot;Kokosal Protection Delicate&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/3633'>Капсулы &quot;Ariel Active Capsules Горный Родник&quot; автомат 16 шт по 35 г</a>, <a class='selected' style='color:#000000' href='/item/18855'>Средство для стирки &quot;Persil Sensitive Expert Gel Алоэ Вера&quot; 2,19 л</a>.

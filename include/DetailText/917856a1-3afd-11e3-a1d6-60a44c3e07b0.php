@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная паста &quot;Aquafresh&quot; Total Care отбеливающая 100 мл по цене 80.00 руб.
+Обратите внимание на Условия хранения: от 0°С до 20°C, а также Производитель: SmithKline Beecham Consumer Healthcare.
+Заказывайте Зубная паста &quot;Aquafresh&quot; Total Care отбеливающая 100 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные пасты: <a class='selected' style='color:#000000' href='/item/9644'>Зубная паста &quot;Colgate&quot; Лечебные травы 150 мл</a>, <a class='selected' style='color:#000000' href='/item/10136'>Зубная паста &quot;Colgate&quot; Тройное действие 150 мл</a>.

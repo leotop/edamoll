@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье с шоколадом и лесными орехами Japonais &quot;Swiss Delice&quot; 100 г по цене 220.00 руб.
+Обратите внимание на Срок годности: 1 год, а также Белки: 8 г.
+Заказывайте Печенье с шоколадом и лесными орехами Japonais &quot;Swiss Delice&quot; 100 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/12887'>Печенье сливочное с лесными орехами Delice De Noisette &quot;Swiss Delice&quot; 175 г</a>, <a class='selected' style='color:#000000' href='/item/12745'>Печенье бисквитное Shocolife клубника &quot;Alpen Gold&quot; 136 г</a>.

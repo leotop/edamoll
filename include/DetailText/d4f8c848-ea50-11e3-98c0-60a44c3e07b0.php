@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Crema е Aroma &quot;Cellini&quot; espresso 500 г по цене 773.00 руб.
+Обратите внимание на Срок годности: 18 месяцев, а также Марка: Cellini.
+Заказывайте Кофе зерновой Crema е Aroma &quot;Cellini&quot; espresso 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/26270'>Кофе зерновой № 3 Guatemala Genuine Antigua &quot;Julius Meinl&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/26285'>Кофе молотый President &quot;Paulig&quot; 500 г</a>.

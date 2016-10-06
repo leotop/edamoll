@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сухой солнцезащитный спрей Ambre Solaire SPF 30 &quot;Garnier&quot; 200 мл по цене 480.00 руб.
+Обратите внимание на Объем: 200 мл, а также Марка: Garnier.
+Заказывайте Сухой солнцезащитный спрей Ambre Solaire SPF 30 &quot;Garnier&quot; 200 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Солнцезащитные средства: <a class='selected' style='color:#000000' href='/item/28425'>Лосьон после загара SOS Sun &quot;Nivea&quot; 200 мл</a>, <a class='selected' style='color:#000000' href='/item/28511'>Сухой солнцезащитный спрей Ambre Solaire SPF 20 &quot;Garnier&quot; 200 мл</a>.

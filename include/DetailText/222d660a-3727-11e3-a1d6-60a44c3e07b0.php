@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Platinum Light &quot;Always&quot; 10 шт по цене 94.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Россия.
+Заказывайте Прокладки Ultra Platinum Light &quot;Always&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10636'>Прокладки Platinum Collection Super &quot;Always&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/10656'>Прокладки ежеденевные Platinum Deo normal &quot;Always&quot; 50 шт</a>.

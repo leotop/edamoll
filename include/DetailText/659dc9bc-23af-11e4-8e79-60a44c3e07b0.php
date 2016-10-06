@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Panty Classic &quot;Bella&quot; 20 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Условия хранения: от 5°С до 30°С.
+Заказывайте Прокладки ежедневные Panty Classic &quot;Bella&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31276'>Прокладки ежедневные Panty Aroma Energy &quot;Bella&quot; 20 шт</a>, <a class='selected' style='color:#000000' href='/item/31279'>Прокладки ежедневные Panty Aroma Sensitive &quot;Bella&quot; 60 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Солнцезащитный крем ВВ Ambre Solaire SPF 30 &quot;Garnier&quot; 50 мл по цене 384.00 руб.
+Обратите внимание на Объем: 50 мл, а также Условия хранения: от 0°С до 30°С.
+Заказывайте Солнцезащитный крем ВВ Ambre Solaire SPF 30 &quot;Garnier&quot; 50 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Солнцезащитные средства: <a class='selected' style='color:#000000' href='/item/28432'>Молочко SPF 20 Sublime Sun &quot;L'Oreal&quot; 200 мл</a>, <a class='selected' style='color:#000000' href='/item/28505'>Спрей цветной детский солнцезащитный SPF 30 Sun &quot;Nivea&quot; 200 мл</a>.

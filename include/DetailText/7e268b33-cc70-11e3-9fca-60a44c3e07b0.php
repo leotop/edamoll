@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Салфетки вискозные Practi Universal &quot;Paclan&quot; 3 шт по цене 57.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Страна производитель: Россия.
+Заказывайте Салфетки вискозные Practi Universal &quot;Paclan&quot; 3 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Салфетки: <a class='selected' style='color:#000000' href='/item/22723'>Чудо тряпка Abrasive &quot;Bagi&quot; 30 шт</a>, <a class='selected' style='color:#000000' href='/item/22690'>Салфетки бытовые Свежесть &quot;Vileda&quot; 2 шт</a>.

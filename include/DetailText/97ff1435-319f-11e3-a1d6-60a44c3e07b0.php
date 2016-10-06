@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Oral-B&quot; 3D  White Свежесть 40 средняя по цене 106.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: Braun GmbH.
+Заказывайте Зубная щетка &quot;Oral-B&quot; 3D  White Свежесть 40 средняя в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10186'>Зубная щетка &quot;Splat&quot; Complete средняя</a>, <a class='selected' style='color:#000000' href='/item/10942'>Зубная щетка &quot;Aquafresh&quot; Clean Сontrol</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны Pearl Regular &quot;Tampax&quot; с апликатором 18 шт по цене 207.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: Procter & Gamble.
+Заказывайте Тампоны Pearl Regular &quot;Tampax&quot; с апликатором 18 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10640'>Прокладки Ultra Light &quot;Always&quot; 40 шт</a>, <a class='selected' style='color:#000000' href='/item/10633'>Прокладки Platinum Collection Night &quot;Always&quot; 14 шт</a>.

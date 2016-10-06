@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки &quot;Libresse Invisible&quot; Normal 2*10 шт по цене 73.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Страна производитель: Россия.
+Заказывайте Прокладки &quot;Libresse Invisible&quot; Normal 2*10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10652'>Прокладки Ultra Super с бархатистой сеточкой &quot;Ola!&quot; 8 шт</a>, <a class='selected' style='color:#000000' href='/item/10673'>Прокладки с крылышками Nova Komfort &quot;Bella&quot; 10 шт</a>.

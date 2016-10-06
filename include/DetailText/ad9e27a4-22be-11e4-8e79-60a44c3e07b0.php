@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Panty Aroma Relax &quot;Bella&quot; 60 шт по цене 105.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Марка: Bella.
+Заказывайте Прокладки ежедневные Panty Aroma Relax &quot;Bella&quot; 60 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/31305'>Тампоны UltraSorb Нормал&quot;Kotex&quot; 24 шт</a>, <a class='selected' style='color:#000000' href='/item/10662'>Прокладки ежедневные Normal &quot;Kotex&quot; 50 + 10 шт</a>.

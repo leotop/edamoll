@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Бальзам после бритья &quot;Gillette Sensitive Skin&quot; 75 мл по цене 171.00 руб.
+Обратите внимание на Объем: 75 мл, а также Срок годности: 3 года.
+Заказывайте Бальзам после бритья &quot;Gillette Sensitive Skin&quot; 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Средства после бритья: <a class='selected' style='color:#000000' href='/item/17809'>Лосьон после бритья Cool Wave &quot;Gillette&quot; 100 мл</a>, <a class='selected' style='color:#000000' href='/item/17762'>Бальзам после бритья для чувствительной кожи &quot;Nivea for men&quot; 100 мл</a>.

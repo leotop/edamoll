@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Ultra Sensetive Normal &quot;Always&quot; 20 шт по цене 148.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Марка: Always.
+Заказывайте Прокладки Ultra Sensetive Normal &quot;Always&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10669'>Прокладки с крылышками GoodNight &quot;Libresse&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/4264'>Тампоны &quot;o.b. Original&quot; Super 32 шт</a>.

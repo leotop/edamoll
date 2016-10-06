@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Oral-B&quot; ProExpert Clinic Line Pro-Flex 38 мягкая по цене 205.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Упаковка: Блистерная упаковка.
+Заказывайте Зубная щетка &quot;Oral-B&quot; ProExpert Clinic Line Pro-Flex 38 мягкая в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/10953'>Зубная щетка &quot;Colgate&quot; Отбеливающая средняя</a>, <a class='selected' style='color:#000000' href='/item/10171'>Зубная щетка &quot;Colgate&quot; 360 Суперчистота 1+1</a>.

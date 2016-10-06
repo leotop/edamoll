@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Super Clip &quot;Libresse&quot; 9 шт по цене 44.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: SCA Hygiene Products.
+Заказывайте Прокладки ежедневные Super Clip &quot;Libresse&quot; 9 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10700'>Тампоны Pro comfort Super &quot;O.B.&quot; 16 шт</a>, <a class='selected' style='color:#000000' href='/item/21852'>Прокладки Ultra Super Plus &quot;Always&quot; 8 шт</a>.

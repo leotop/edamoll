@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Зубная щетка &quot;Aquafresh&quot; Inbetween средняя по цене 64.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: M & C Schiffer GmbH.
+Заказывайте Зубная щетка &quot;Aquafresh&quot; Inbetween средняя в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Зубные щетки: <a class='selected' style='color:#000000' href='/item/9699'>Зубная щетка &quot;Oral-B&quot; Expert Антибактериальная 40 Средняя</a>, <a class='selected' style='color:#000000' href='/item/10180'>Зубная щетка &quot;Oral-B&quot; 3D  White Свежесть 40 мягкая</a>.

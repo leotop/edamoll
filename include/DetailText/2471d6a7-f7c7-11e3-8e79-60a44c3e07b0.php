@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Капсулы Color Expert Duo-Caps &quot;Persil&quot; 16 шт по цене 445.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 40°С, а также Производитель: Henkel Magyarorsz?g, Kft.
+Заказывайте Капсулы Color Expert Duo-Caps &quot;Persil&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/19882'>Гель для стирки &quot;Neon Black&quot; концентрированный 1 л</a>, <a class='selected' style='color:#000000' href='/item/19398'>Средство для стирки &quot;Ласка Сияние белого&quot; 2 л</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Жидкое cредство для стирки &quot;Kokosal Black Profection&quot; 1 л по цене 116.00 руб.
+Обратите внимание на Объем: 1 л, а также Производитель: PZ Cussons.
+Заказывайте Жидкое cредство для стирки &quot;Kokosal Black Profection&quot; 1 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гели для стирки: <a class='selected' style='color:#000000' href='/item/3631'>Капсулы &quot;Ariel Active Gel Color&Style&quot; автомат 16 шт по 35 г</a>, <a class='selected' style='color:#000000' href='/item/19882'>Гель для стирки &quot;Neon Black&quot; концентрированный 1 л</a>.

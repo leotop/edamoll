@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Влажные салфетки Extra Gentle &quot;Huggies&quot; 192 шт по цене 249.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Марка: Huggies.
+Заказывайте Влажные салфетки Extra Gentle &quot;Huggies&quot; 192 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/31069'>Влажные салфетки &quot;Merries&quot; 54 шт</a>, <a class='selected' style='color:#000000' href='/item/10230'>Влажные салфетки Clean & Play &quot;Pampers&quot; сменный блок 2Х64 шт</a>.

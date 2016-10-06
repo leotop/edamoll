@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Краска для волос Color Naturals 7.1 ольха &quot;Garnier&quot; по цене 114.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Космепол СП. з.о.о..
+Заказывайте Краска для волос Color Naturals 7.1 ольха &quot;Garnier&quot; в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Краска для волос: <a class='selected' style='color:#000000' href='/item/9947'>Краска для волос Perfect Mousse 465 шоколадный каштан &quot;Schwarzkopff&quot;</a>, <a class='selected' style='color:#000000' href='/item/11588'>Краска для волос Mixing Colors 7-58 Дымчатый микс &quot;Syoss&quot; 135 мл</a>.

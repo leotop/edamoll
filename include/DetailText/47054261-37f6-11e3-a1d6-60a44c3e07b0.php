@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Масло оливковое Extra Virgin &quot;Maestro de Oliva&quot; 0,5 л по цене 284.00 руб.
+Обратите внимание на Срок годности: 2 года, а также Энергетическая ценность: 824 Ккал.
+Заказывайте Масло оливковое Extra Virgin &quot;Maestro de Oliva&quot; 0,5 л в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Растительные масла: <a class='selected' style='color:#000000' href='/item/8839'>Масло 100% оливковое &quot;Filippo Berio&quot; 500 мл</a>, <a class='selected' style='color:#000000' href='/item/10761'>Масло оливковое первого хол. отжима с розмарином Extra Virgion D.O.P. &quot;Gaea&quot; 0,25 л</a>.

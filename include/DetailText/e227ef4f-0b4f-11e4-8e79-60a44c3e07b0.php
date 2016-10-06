@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Печенье детское шоколадное Zoo Jungle Animals &quot;Leibniz&quot; 100 г по цене 85.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 20°С, а также Производитель: Bahlsen GmbH & Co.KG.
+Заказывайте Печенье детское шоколадное Zoo Jungle Animals &quot;Leibniz&quot; 100 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Печенье, пряники, вафли: <a class='selected' style='color:#000000' href='/item/12836'>Печенье Ginger Thins Тонкое имбирное &quot;Anna's&quot; 150 г</a>, <a class='selected' style='color:#000000' href='/item/29717'>Печенье Shortbread Highlanders &quot;Walkers&quot; 135 г</a>.

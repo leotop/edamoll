@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Newborn Mini &quot;Huggies&quot; 3-6 кг 32 шт по цене 299.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Производитель: Kimberly-Clark.
+Заказывайте Подгузники Newborn Mini &quot;Huggies&quot; 3-6 кг 32 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10014'>Подгузники Up&Go Extra Large Plus &quot;Libero&quot; 16-26 кг 24 шт</a>, <a class='selected' style='color:#000000' href='/item/10015'>Подгузники Up&Go Maxi Plus &quot;Libero&quot; 10-14 кг 30 шт</a>.

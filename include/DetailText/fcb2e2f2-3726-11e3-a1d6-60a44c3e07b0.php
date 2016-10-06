@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки с крылышками Perfecta Green &quot;Bella&quot; 10 шт по цене 51.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Полиэтиленовая.
+Заказывайте Прокладки с крылышками Perfecta Green &quot;Bella&quot; 10 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10634'>Прокладки Platinum Collection Night &quot;Always&quot; 7 шт</a>, <a class='selected' style='color:#000000' href='/item/10643'>Прокладки Ultra Night с шелковистой поверхностью &quot;Ola!&quot; 7 шт</a>.

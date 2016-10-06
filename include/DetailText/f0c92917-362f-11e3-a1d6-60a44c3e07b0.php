@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Средство для посудомоечных машин Multi Perfect &quot;Somat&quot; 78 таб по цене 878.00 руб.
+Обратите внимание на Условия хранения: от 0°С до 40°С, а также Марка: Somat.
+Заказывайте Средство для посудомоечных машин Multi Perfect &quot;Somat&quot; 78 таб в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Для кухни: <a class='selected' style='color:#000000' href='/item/11477'>Активный гель для очистки духовок &quot;Dr. Beckmann&quot; 375 мл</a>, <a class='selected' style='color:#000000' href='/item/10304'>Жироудалитель Gold Professional &quot;UNICUM&quot; 750 мл</a>.

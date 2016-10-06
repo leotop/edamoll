@@ -1,0 +1,14 @@
+.catalog-price {
+	 color:red;
+}
+div.catalog-section table td {
+	padding-right:10px;
+	padding-top:10px;
+}
+
+div.catalog-section table td a{
+color:black;
+}
+div.catalog-section table td a:hover{
+color:rgb(255,0,57);
+}

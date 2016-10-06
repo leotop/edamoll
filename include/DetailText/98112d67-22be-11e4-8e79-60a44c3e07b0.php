@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки женские Ultra Normal Duo &quot;Naturella&quot; 20 шт по цене 88.00 руб.
+Обратите внимание на Условия хранения: от 5°С до 30°С, а также Страна производитель: Венгрия.
+Заказывайте Прокладки женские Ultra Normal Duo &quot;Naturella&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4381'>Тампоны &quot;Tampax Compak Super&quot; с аппликатором 16 шт</a>, <a class='selected' style='color:#000000' href='/item/4241'>Прокладки &quot;Always Ultra light&quot; 10 шт</a>.

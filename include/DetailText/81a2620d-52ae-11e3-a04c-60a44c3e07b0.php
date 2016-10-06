@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Смесь зернобобовая фасоль, горох Zuppa di fagioli e ceci &quot;Fertitecnica Colfiorito&quot; 500 г по цене 243.00 руб.
+Обратите внимание на Белки: 14,1 г, а также Производитель: Fertitecnica sns di Mattioni Ivano.
+Заказывайте Смесь зернобобовая фасоль, горох Zuppa di fagioli e ceci &quot;Fertitecnica Colfiorito&quot; 500 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Крупы: <a class='selected' style='color:#000000' href='/item/20818'>Рис Басмати Mix &quot;Мистраль&quot; 500 г</a>, <a class='selected' style='color:#000000' href='/item/20823'>Рис Жасмин пакетированный &quot;Увелка&quot; 100х5 г</a>.

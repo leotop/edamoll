@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сухое масло SPF 30 Sublime Sun &quot;L'Oreal&quot; 150 мл по цене 551.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: L'Oreal Group.
+Заказывайте Сухое масло SPF 30 Sublime Sun &quot;L'Oreal&quot; 150 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Солнцезащитные средства: <a class='selected' style='color:#000000' href='/item/28463'>Солнцезащитное молочко для младенцев SPF 50+ &quot;Bubchen&quot; 100 мл</a>, <a class='selected' style='color:#000000' href='/item/28475'>Солнцезащитный спрей SPF 20 Kids &quot;Sunny Day&quot; 180 мл</a>.

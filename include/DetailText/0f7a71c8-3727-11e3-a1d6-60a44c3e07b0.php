@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные So slim &quot;Libresse&quot; 64 шт по цене 111.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: SCA Hygiene Products.
+Заказывайте Прокладки ежедневные So slim &quot;Libresse&quot; 64 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10640'>Прокладки Ultra Light &quot;Always&quot; 40 шт</a>, <a class='selected' style='color:#000000' href='/item/10676'>Прокладки с крылышками Perfecta Blue &quot;Bella&quot; 10 шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кофе зерновой Organic Brazilian Carnaval &quot;Magnum Exotics&quot; 227 г по цене 612.00 руб.
+Обратите внимание на Вес: 227 г, а также Срок годности: 18 месяцев.
+Заказывайте Кофе зерновой Organic Brazilian Carnaval &quot;Magnum Exotics&quot; 227 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Чай, кофе, какао: <a class='selected' style='color:#000000' href='/item/18889'>Чай зеленый &quot;Чай императора&quot; 100 г</a>, <a class='selected' style='color:#000000' href='/item/18904'>Чай черный Ceylon Premium &quot;Riston&quot; 100 г</a>.

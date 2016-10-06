@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Гель для бритья для чувствительной кожи &quot;Gillette Series&quot; 200 мл по цене 200.00 руб.
+Обратите внимание на Объем: 200 мл, а также Страна производитель: Россия.
+Заказывайте Гель для бритья для чувствительной кожи &quot;Gillette Series&quot; 200 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Гель, пена для бритья: <a class='selected' style='color:#000000' href='/item/17772'>Гель для бритья Satin Care Avocado Twist &quot;Gillette&quot; 200 мл</a>, <a class='selected' style='color:#000000' href='/item/4032'>Пена для бритья &quot;Arko Extra Sensitive&quot; 200 мл</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Шоколадный Мусс &quot;Conditorei Coppenrath & Wiese&quot; 180 г по цене 208.00 руб.
+Обратите внимание на Вес: 180 г, а также Производитель: Conditorei Coppenrath & Wiese.
+Заказывайте Шоколадный Мусс &quot;Conditorei Coppenrath & Wiese&quot; 180 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Блинчики и варреники, выпечка: <a class='selected' style='color:#000000' href='/item/10607'>Пирог с картофелем и грибами &quot;Осетинский&quot; 500 г</a>, <a class='selected' style='color:#000000' href='/item/10507'>Вареники с вишней замороженные &quot;от Палыча&quot; 2 шт по 500 г</a>.

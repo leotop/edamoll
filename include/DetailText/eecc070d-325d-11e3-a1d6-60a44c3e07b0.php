@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Active Baby Midi &quot;Pampers&quot; 4-9 кг 186 шт по цене 1790.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Упаковка: Пленочная пачка.
+Заказывайте Подгузники Active Baby Midi &quot;Pampers&quot; 4-9 кг 186 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10356'>Подгузники Sleep&Play Mini &quot;Pampers&quot; 3-6 кг 88 шт</a>, <a class='selected' style='color:#000000' href='/item/10255'>Подгузники Newborn &quot;Huggies&quot; 3-6 кг 88 шт</a>.

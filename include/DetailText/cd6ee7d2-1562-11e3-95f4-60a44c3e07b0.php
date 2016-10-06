@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Дезодорант-антиперспирант &quot;Gillette Power Beads Power Rush&quot; гель 75 мл по цене 89.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Gillette.
+Заказывайте Дезодорант-антиперспирант &quot;Gillette Power Beads Power Rush&quot; гель 75 мл в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские дезодоранты: <a class='selected' style='color:#000000' href='/item/18606'>Дезодорант-антиперспирант 24/7 Активный день &quot;Mennen Speed Stick&quot; 150 мл</a>, <a class='selected' style='color:#000000' href='/item/18621'>Дезодорант-аэрозоль Серебрянная защита &quot;Nivea&quot; 150 мл</a>.

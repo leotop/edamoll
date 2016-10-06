@@ -1,0 +1,126 @@
+.catalog_item a{
+text-decoration: none;
+color:black;
+    /*font-size:90%;*/
+text-align: center;
+}
+.catalog_item_container{
+position:relative;
+float:left;
+//overflow:hidden;
+width:166px;
+height:257px;
+margin:0;
+}
+.catalog_item {
+position:relative;
+float:left;
+border: 1px solid rgb(255,0,57);
+overflow:hidden;
+width:150px;
+height:237px;
+margin-left: 5px;
+}
+.catalog_item_container:hover .catalog_item {
+border: 5px solid rgb(255,0,57);
+margin-top:-4px;
+margin-left:1px;
+}
+
+.catalog_foto,.catalog_no_foto{
+overflow:hidden;
+width:152px;
+height:152px;
+}
+.catalog_no_foto{
+background: url('/include/img/nofoto.png') no-repeat center;
+}
+
+.catalog_item_price{
+overflow:hidden;
+width:148px;
+height:24px;
+}
+.catalog_item_price .decimal{
+vertical-align: 0.3em;
+font-size: 70%; 
+}
+.old-price{
+ color: black;
+font-weight:bold;
+font-size:9pt;
+text-decoration:line-through
+}
+.price{
+ color: black;
+font-weight:bold;
+//font-size:9pt;
+}
+.discount-price{
+ color: rgb(255,0,57);
+font-weight:bold;
+//font-size:9pt;
+}
+.catalog_item_buy{
+position:absolute;
+display:none;
+top:104px;
+background:url('/include/img/buy_panel.png') no-repeat top left;
+left:-12px;
+width: 180px;
+height:55px;
+z-index:20;
+}
+
+.catalog_item_container:hover .catalog_item_buy{
+display:block;
+}
+.discount_panel{
+position:absolute;
+top:12px;
+background:url('/include/img/discount_panel.png') no-repeat top left;
+left:-2px;
+width: 65px;
+height:32px;
+//z-index:20;
+padding-top:2px;
+}
+.discount_panel span{
+color: white;
+text-transform: uppercase;
+font-weight: bold;
+}
+.clear{
+clear:both;
+}
+.nosearch{
+float:left;
+margin-top:100px;
+}
+.search-result .system-nav-orange{margin-bottom:5px;}
+.cont_cont{
+float: left;
+margin-top: 10px;
+}
+
+.catalog_item img{
+display:inline-block;
+vertical-align:middle;
+}
+.img_helper{
+display:inline-block;
+vertical-align:middle;
+}
+.del_izb
+{
+    color: rgb(255,0,57);
+    text-decoration: underline;
+    font-size: 12px;
+    cursor: pointer;
+    clear: both;
+    display: block;
+}
+.catalog_item_name span
+{
+    font-size: 13px!important;
+}

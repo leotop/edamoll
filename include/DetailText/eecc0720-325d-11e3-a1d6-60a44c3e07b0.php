@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Dry Pants Extra Large &quot;Libero&quot; 13-20 кг 30 шт по цене 516.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Libero.
+Заказывайте Подгузники Dry Pants Extra Large &quot;Libero&quot; 13-20 кг 30 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9841'>Подгузники Comfort Maxi &quot;Libero&quot; 7-14 кг 80 шт</a>, <a class='selected' style='color:#000000' href='/item/9879'>Влажные салфетки Нежная забота &quot;Johnson's baby&quot; 64 шт</a>.

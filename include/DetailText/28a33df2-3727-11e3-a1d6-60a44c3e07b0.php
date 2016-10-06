@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны Pro comfort Normal &quot;O.B.&quot; 16 шт по цене 124.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Марка: o.b..
+Заказывайте Тампоны Pro comfort Normal &quot;O.B.&quot; 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10658'>Прокладки ежедневные Flexi form &quot;Carefree&quot; 18 шт</a>, <a class='selected' style='color:#000000' href='/item/10678'>Прокладки с крылышками Ultra light duo &quot;Always&quot; 20 шт</a>.

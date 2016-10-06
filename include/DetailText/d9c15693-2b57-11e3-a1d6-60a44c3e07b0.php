@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники &quot;Pampers&quot; Active Baby Jumbo Midi 4-9 кг 82 шт по цене 950.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Производитель: Pampers.
+Заказывайте Подгузники &quot;Pampers&quot; Active Baby Jumbo Midi 4-9 кг 82 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/9780'>Подгузники &quot;Pampers&quot; Active Baby Jumbo Maxi 9-16 кг 62 шт</a>, <a class='selected' style='color:#000000' href='/item/10252'>Подгузники Active Baby Maxi &quot;Pampers&quot; 7-14 кг 162 шт</a>.

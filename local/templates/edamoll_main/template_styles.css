@@ -1,0 +1,427 @@
+html { width:100%; height: 100%; }
+body
+{
+    height:100%;
+    margin:0;
+    padding:0;
+    font-size: 80.01%;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-weight: normal;
+}
+
+textarea,
+input[type="text"],
+input[type="submit"] {
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+
+
+form { margin:0; padding:0;}
+form.main-form
+{ 
+    display: block;
+    margin:0; 
+    padding:0;
+    width:100%;
+    height:100%;
+}
+
+#page-wrapper
+{	
+    min-height:100%;	
+    /*width:878px;*/  
+    margin: 0 auto -90px;
+}
+
+* html #page-wrapper { height: 100%; }
+
+#header {
+    height: 100px;
+    position: relative;
+    width:1000px;
+    margin:25px auto 80px;
+}
+.header_item {
+    position: relative;
+    float:left;
+    height:100px;
+    overflow: hidden
+}
+.header_item_s{
+    height:60px;
+    position: relative;
+    float:left;
+    overflow: hidden
+}
+.header_item span{
+    display:block;
+}
+.header_item td{
+    vertical-align:bottom;
+}
+#header_menu {
+    height: 38px;
+    position: absolute;
+    z-index: 100;
+    width:1000px;
+    margin:0 auto 25px;
+    top:-70px;
+}
+
+#scroll_menu{
+    position:fixed;
+    height:87px;
+    width:100%;
+
+    top:0;
+    left:0;
+    z-index:999;
+}
+
+#scroll_menu_top{
+    width:100%;
+    border-bottom:4px solid rgb(255,0,57);
+}
+
+.pinktext, .footer-links a.pinktext{
+    color:rgb(255,0,57);
+    text-transform: uppercase;
+    font-weight:700;
+    font-size:9pt;
+}
+
+
+.whitetext{
+    color: white;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size:9pt;
+}
+
+.blacktext{
+    color: black;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size:9pt;
+}
+.logotext{
+    font-size:111%;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0){
+    .pinktext, .footer-links a.pinktext, .whitetext, .blacktext{
+    font-size:8pt;
+} 
+.logotext{
+    font-size:100%;
+}
+
+}
+
+#header_bot {height: 40px; position: relative; width:1000px; margin:0 auto 25px;}
+.header_bot_item {height:40px;}
+
+#content {position: relative; width:1000px; margin:0 auto;}
+.sidebar {width: 150px;float: left; margin-right:20px;overflow:hidden;}
+
+.workarea_small,.footer-links,.header_work_area {width: 830px; float: right;}
+#workarea{width: 1000px; float: right;}
+
+#space-for-footer {clear:both}
+#footer {position: relative; width:1000px; margin:65px auto 0;}
+//.footer-links{font-size: 90%;}
+.footer-links a{color:black;}
+.footer-links td{vertical-align:top;}
+.footer-links{
+    background:url('/include/img/logo_bot.png') no-repeat right top;
+}
+.slidesjs-navigation{
+    display:block;
+    position:absolute;
+    width:38px;
+    height:0px;
+    top:138px;
+    background-position: 0px 0px;
+    padding-top: 38px;
+    overflow: hidden;
+    z-index:15;
+}
+.slidesjs-previous{
+    background:url('/include/img/slider/arrowL.png') no-repeat;
+    left:22px;
+}
+.slidesjs-next{
+    background:url('/include/img/slider/arrowR.png') no-repeat;
+    right:22px;
+}
+
+#workarea ul.slidesjs-pagination{
+    list-style-type: none;
+    position: absolute;
+    z-index: 15;
+    top: 260px;
+    left: 672px;
+}
+#workarea ul.slidesjs-pagination li{
+    float: left;
+    margin-right:6px;
+}
+#workarea ul.slidesjs-pagination li a{
+    width:11px;
+    height:0;
+    background:url('/include/img/slider/noactive.png') no-repeat;
+    z-index:15;
+    display:block;
+    padding-top: 11px;
+    background-position: 0px 0px;
+    overflow: hidden;
+
+}
+#workarea ul.slidesjs-pagination li a.active{
+    background:url('/include/img/slider/active.png') no-repeat;
+}
+
+.scroll_cart_container{
+    overflow:hidden;
+    width: 283px;
+    height: 58px;
+    float: left;
+    background: none repeat scroll 0% 0% white;
+}
+td
+{
+    //font-size: 80%;
+}
+h1, h2{
+    font-size: 19pt;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+#workarea div.edamoll_menu_left
+{
+    font-size:100%;
+    color:black;
+}
+
+#workarea div.edamoll_menu_left ul
+{
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+}
+
+#workarea div.edamoll_menu_left ul ul
+{
+    width: auto;
+    margin:0;
+    padding: 0;
+}
+
+#workarea div.edamoll_menu_left li
+{
+    margin: 0;
+    padding:1px 0;
+}
+#workarea .edamoll_menu_left a
+{
+    color:black;
+}
+#workarea .edamoll_menu_left a.pinktext,#workarea .edamoll_menu_left a.active
+{
+    color:rgb(255,0,57);
+}
+#workarea .edamoll_menu_left li.active
+{
+    color:rgb(255,0,57);
+}
+.minus,.plus{
+    width:30px;
+    height:30px;
+    position:absolute;
+    top:12px;
+    cursor:pointer;
+}
+.minus{
+    left:11px;
+    background:url('/include/img/minus.png') no-repeat center;
+}
+.plus{
+    left:94px;
+    background:url('/include/img/plus.png') no-repeat center;
+}
+.quantity{
+    width:49px;
+    height:30px;
+    position:absolute;
+    top:12px;
+    background:url('/include/img/quantity.png') no-repeat top left;
+    left:42px;
+    border:none;
+    text-align: center;
+}
+
+.addtoCart{
+    width:37px;
+    height:27px;
+    position:absolute;
+    top:13px;
+    left:127px;
+    cursor:pointer;
+    background:url('/include/img/cart.png') no-repeat top left;
+    border:none;
+}
+.half, .half2{
+    width:490px;
+    float:0;
+    float:left;
+}
+.half{
+    margin-right:20px;
+}
+.largetext{
+    font-size:20pt;
+    font-weight:bold;
+}
+.largetext .pinktext{
+    font-size:20pt;
+}
+.system-nav-orange a{
+    color:black;
+}
+.system-nav-orange .nav-current-page {
+    color: white;
+    background-color: rgb(255, 0, 57);
+    font-weight: bold;
+    padding: 1px 0px;
+}
+.personal_sbmt{
+    color:white;
+    text-transform:uppercase;
+    font-weight:bold;
+    border:1px solid rgb(255,0,57);
+    background: rgb(255,0,57);
+    width: 180px;
+    height:40px;
+    //float:right;
+}
+.quantity{font-weight:bold;}
+.btncart{cursor:pointer;}
+span.nav-current-page{
+    background:rgb(255,0,57);
+}
+#addItemInCart{
+    color:white;
+    background:rgb(162,215,26);
+    text-transform:uppercase;
+    width:244px;
+    font-weight:bold;
+    padding:15px;
+}
+
+.modal{
+    display:none;
+    position:absolute;
+    z-index:99999;
+    top:150px;
+    left:726px;
+}
+.modal.login_window{
+    display: none;
+    top: 50%;
+    left: 50%;
+    position: fixed;
+}
+.item_price,.old_price{
+    font-size:16pt;
+}
+
+#dark{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    min-height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 999;
+    display:none;
+}
+div.bx-auth-title{
+    border:none;
+    padding:0;
+    font-size:12pt;
+    font-weight:bold;
+    margin-top: 20px;
+    text-align: left;
+}
+div.bx-auth-note{
+    display:none;
+}
+div.bx-auth-services{
+    margin-top:40px;
+    width:300px;
+}
+div.bx-auth-services div{
+    margin-top:10px;
+    margin-right:20px;
+}
+div.bx-auth-services a:hover{
+    border:none;
+}
+
+#ed_reg{
+    min-width: 300px;
+    margin-left: -300px;
+    background: #fff;
+    border-radius: 7px;
+    padding: 0 10px;
+    text-align: center;
+}
+#ed_reg .a_log{
+    position: absolute;
+    background: white;
+    bottom: 70px;
+    right: 20px;
+    width: 340px;
+    text-align: left;
+    font-size: 12pt;
+    text-decoration: underline;
+    font-weight:bold;
+
+}
+#ed_reg .a_log a{
+    color:black;
+}
+.close_button{
+    cursor:pointer;
+}
+.LKhead{margin-right:25px;}
+.LKtab{display:none;}
+.notworking{color:rgb(96,96,96);}
+.LKhead.blacktext{cursor:pointer;}
+#admin_page_form input.w150{width: 150px;}
+.item_title{color:black;}
+.picto{width:75px; height:54px; overflow:hidden; background-position: center 0%; background-repeat:no-repeat;}
+.picto.pictact{background-position: center -55px}
+.pict_cont{float: left;width:75px;}
+.pict_name{visibility:hidden; font-size:80%; font-weight:bold;text-align:center; color:black;}
+.pict_cont:hover .picto{background-position: center -55px}
+.pict_cont:hover .pict_name{visibility:visible;}
+.catalog_item_name span
+{
+    font-size: 90%!important;
+}
+
+@media only screen and (max-device-width: 480px) {
+    .tal .input_text_style {
+    line-height: normal !important;
+    height: 29px;
+}
+    .tal .btuse {
+    height: 37px;
+}
+}
+

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки ежедневные Maxi Fresh &quot;Carefree&quot; 20 шт по цене 88.00 руб.
+Обратите внимание на Срок годности: 3 года, а также Марка: Carefree.
+Заказывайте Прокладки ежедневные Maxi Fresh &quot;Carefree&quot; 20 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10666'>Прокладки ежедневные Super Clip &quot;Libresse&quot; 9 шт</a>, <a class='selected' style='color:#000000' href='/item/4365'>Прокладки &quot;Always Ultra Normal&quot; 10 шт</a>.

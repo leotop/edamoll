@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Кассеты сменные для станка Mach3 Turbo &quot;Gillette&quot; 2 шт по цене 365.00 руб.
+Обратите внимание на Срок годности: Не ограничен, а также Производитель: Procter&Gamble.
+Заказывайте Кассеты сменные для станка Mach3 Turbo &quot;Gillette&quot; 2 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Мужские бритвы: <a class='selected' style='color:#000000' href='/item/17864'>Станок для бритья Fusion Power &quot;Gillette&quot;</a>, <a class='selected' style='color:#000000' href='/item/17796'>Кассеты сменные для станка Mach3 &quot;Gillette&quot; 2 шт</a>.

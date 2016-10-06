@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Тампоны &quot;Tampax Compak Super&quot; с аппликатором 16 шт по цене 153.00 руб.
+Обратите внимание на Срок годности: 5 лет, а также Страна производитель: Россия.
+Заказывайте Тампоны &quot;Tampax Compak Super&quot; с аппликатором 16 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/10634'>Прокладки Platinum Collection Night &quot;Always&quot; 7 шт</a>, <a class='selected' style='color:#000000' href='/item/10672'>Прокладки с крылышками Nova Classic &quot;Bella&quot; 10  шт</a>.

@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Сыр Pecorino Romano &quot;Ambrosi&quot; 200 г по цене  руб.
+Обратите внимание на Условия хранения: от 2°С до 8°С, а также Энергетическая ценность: 419 Ккал.
+Заказывайте Сыр Pecorino Romano &quot;Ambrosi&quot; 200 г в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Сыры твердые: <a class='selected' style='color:#000000' href='/item/13661'>Сыр Coeur de Lion Camembert мягкий с плесенью 45% &quot;Bongrain&quot; 250 г</a>, <a class='selected' style='color:#000000' href='/item/24162'>Сыр Маскарпоне &quot;Locatelli&quot; 250 г</a>.

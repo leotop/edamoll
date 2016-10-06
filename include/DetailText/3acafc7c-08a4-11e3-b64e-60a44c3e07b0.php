@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Стиральный порошок &quot;Dosia Color Active 3&quot; 8,4 кг по цене 535.00 руб.
+Обратите внимание на Вес: 8,4 кг, а также Упаковка: Полиэтиленовая.
+Заказывайте Стиральный порошок &quot;Dosia Color Active 3&quot; 8,4 кг в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Стиральные порошки автомат: <a class='selected' style='color:#000000' href='/item/18865'>Стиральный порошок &quot;Persil Expert Vernel&quot; 450 г</a>, <a class='selected' style='color:#000000' href='/item/18862'>Стиральный порошок &quot;Persil Expert Sensitive Алоэ Вера&quot; 4,5 кг</a>.

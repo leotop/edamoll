@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Прокладки Classic Night &quot;Naturella&quot; 14 шт по цене  руб.
+Обратите внимание на Срок годности: 2 года, а также Страна производитель: Венгрия.
+Заказывайте Прокладки Classic Night &quot;Naturella&quot; 14 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Женские прокладки, тампоны: <a class='selected' style='color:#000000' href='/item/4365'>Прокладки &quot;Always Ultra Normal&quot; 10 шт</a>, <a class='selected' style='color:#000000' href='/item/10643'>Прокладки Ultra Night с шелковистой поверхностью &quot;Ola!&quot; 7 шт</a>.

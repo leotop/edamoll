@@ -1,0 +1,4 @@
+В нашем интернет магазине вы можете купить Подгузники Classic &quot;Huggies&quot; 7-18 кг 68 шт по цене 743.00 руб.
+Обратите внимание на Срок годности: 2,5 года, а также Страна производитель: Великобритания.
+Заказывайте Подгузники Classic &quot;Huggies&quot; 7-18 кг 68 шт в интернет-магазине edamoll.ru.
+Обратите внимание также на другие товары из категории Подгузники, салфетки, пеленки: <a class='selected' style='color:#000000' href='/item/10019'>Подгузники-трусики Up&Go Extra Large &quot;Libero&quot; 13-20 кг 44 шт</a>, <a class='selected' style='color:#000000' href='/item/9781'>Подгузники &quot;Pampers&quot; Active Baby Jumbo Midi 4-9 кг 82 шт</a>.
