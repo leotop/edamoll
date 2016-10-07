@@ -1,4 +1,4 @@
-window.onscroll = function() { 
+window.onscroll = function() {
   var scrolled = window.pageYOffset || document.documentElement.scrollTop;
 if (scrolled>200) {
 document.getElementById('scroll_menu').style.display = 'block';
@@ -24,11 +24,11 @@ function OpenModalWindow(ModalName){
 }
 
 
-function addToCart(element, text, qq, base) {      
+function addToCart(element, text, qq, base) {
 
 	//if (!element)		return;
-	
-	//var href = element.href;		 
+
+	//var href = element.href;
 	//var button = $(element);
 var q;
 _gaq.push(['_trackEvent','item','add2basket']);
@@ -39,7 +39,7 @@ ga('send', 'event', 'item', 'add2basket');
 if (base=="кг" || base=="КГ"){
   q=parseFloat($("#"+qq).val());
 }else{q=parseInt($("#"+qq).val());}
-	
+
 	$('#addItemInCart').html("Товар добавлен в корзину<BR />"+text + " - "+q+ base);
 	var ModalName = $('#addItemInCart');
 	if (typeof(currentTimeout)!=='undefined') {clearTimeout(currentTimeout);}
@@ -61,7 +61,7 @@ currentTimeout = setTimeout(function()  {$(ModalName).css({"display":"none","opa
 }
 
 
-function addToCartDelay(qq, base) {      
+function addToCartDelay(qq, base) {
 
 var q;
 _gaq.push(['_trackEvent','item','add2basketdelay']);
@@ -115,39 +115,34 @@ async: false,
 });
 }
 
-function minus(ID,base)
-	{
+function minus(ID,base) {
   var name_input = document.getElementById(ID);
-if (base=="кг" || base=="КГ"){
-
-  if (parseFloat(name_input.value)>0.1)
-  {
-var g_numb=parseFloat(name_input.value)-0.1;
-g_numb=g_numb.toFixed(1);
-name_input.value=g_numb+" "+base;
-  }
-
-}
-		else{
-  if (parseInt(name_input.value)>1)
-  {
-name_input.value=parseInt(name_input.value)-1+" "+base;
-  }
-		}
+    if (base=="кг" || base=="КГ"){
+      if (parseFloat(name_input.value)>0.1) {
+        var g_numb=parseFloat(name_input.value)-0.1;
+        g_numb=g_numb.toFixed(1);
+        name_input.value=g_numb+" "+base;
+      }
+    } else {
+      if (parseInt(name_input.value) >= 2) {
+        name_input.value = parseInt(name_input.value)-1+' '+base;
+      } else if(parseInt(name_input.value) == 1) {
+        name_input.value = parseInt(name_input.value)+' '+base;
+      }
+    }
 }
 
-function plus(ID,base)
-	{
-var name_input = document.getElementById(ID);
-		if (base=="кг" || base=="КГ"){
-var g_numb=parseFloat(name_input.value)+0.1;
-g_numb=g_numb.toFixed(1);
-name_input.value=g_numb+" "+base;
-}
-		else{
-
-name_input.value=parseInt(name_input.value)+1+" "+base;
-		}
+function plus(ID,base) {
+    var name_input = document.getElementById(ID);
+    if (base=="кг" || base=="КГ") {
+        var g_numb=parseFloat(name_input.value)+0.1;
+        g_numb=g_numb.toFixed(1);
+        name_input.value=g_numb+" "+base;
+    } else {
+        if (parseInt(name_input.value) >= 1) {
+            name_input.value = parseInt(name_input.value)+1+' '+base;
+      }
+    }
 }
 
 function edit_q(ID,base)
@@ -193,7 +188,7 @@ function ajaxpostshow(urlres, datares, wherecontent ){
                 $(wherecontent).prepend('<div class="ajaxloader"></div>');
                 $('.ajaxloader').css('height', elementheight);
                 $('.ajaxloader').prepend('<img id="bxid_12335" class="imgcode" src="/include/js/ajax-loader.gif"  />');
-            },         
+            },
            success: function(fillter){
                 $(wherecontent).html(fillter);
            }

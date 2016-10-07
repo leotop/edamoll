@@ -61,16 +61,21 @@ $flag_discount=true;
 
 		</div>
 					<?if ($arItem["CAN_BUY"]):?>
+                    <?
+                    if(!is_numeric($arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"])){
+                        $base_quantity = $arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"];
+                    }
+                    ?>
 <div class="catalog_item_buy">
 					<form action="<?=POST_FORM_ACTION_URI?>" method="post" enctype="multipart/form-data">
-<span class="minus" onclick="minus('q_<?=$arItem['ID']?>','<?=$arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]?>')"></span>
+<span class="minus" onclick="minus('q_<?=$arItem['ID']?>','<?=$base_quantity?>')"></span>
 						<? if($arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]=="สร" || $arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]=="๊ใ") {$g_qu="1.0";} else {$g_qu="1";} ?>
 
-								<input onchange="edit_q('q_<?=$arItem['ID']?>','<?=$arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]?>')" id="q_<?=$arItem['ID']?>" type="text" size="6" class="quantity" type="text" name="<?echo $arParams["PRODUCT_QUANTITY_VARIABLE"]?>" value="<?=$g_qu?> <?=$arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]?>">
-<span class="plus" onclick="plus('q_<?=$arItem['ID']?>','<?=$arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]?>')"></span>
+								<input onchange="edit_q('q_<?=$arItem['ID']?>','<?=$base_quantity?>')" id="q_<?=$arItem['ID']?>" type="text" size="6" class="quantity" type="text" name="<?echo $arParams["PRODUCT_QUANTITY_VARIABLE"]?>" value="<?=$g_qu?> <?=$base_quantity?>">
+<span class="plus" onclick="plus('q_<?=$arItem['ID']?>','<?=$base_quantity?>')"></span>
 					<input type="hidden" name="<?echo $arParams["ACTION_VARIABLE"]?>" value="BUY">
 					<input type="hidden" name="<?echo $arParams["PRODUCT_ID_VARIABLE"]?>" value="<?echo $arItem["ID"]?>">
-						<a href="<?=$arItem["ADD_URL"]?>" name="<?echo $arParams["ACTION_VARIABLE"]."ADD2BASKET"?>" class="addtoCart" value="" onclick="return addToCart(this, '<?=str_replace("'","&lsquo;",$arItem["NAME"])?>','q_<?=$arItem['ID']?>','<?=$arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]?>');"></a>
+						<a href="<?=$arItem["ADD_URL"]?>" name="<?echo $arParams["ACTION_VARIABLE"]."ADD2BASKET"?>" class="addtoCart" value="" onclick="return addToCart(this, '<?=str_replace("'","&lsquo;",$arItem["NAME"])?>','q_<?=$arItem['ID']?>','<?=$base_quantity?>');"></a>
 					</form>
 
 </div>
