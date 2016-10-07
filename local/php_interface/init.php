@@ -7,7 +7,7 @@
         if ($adminCheck) {
             if (!$USER->IsAdmin()) {
                 return false;
-            } 
+            }
         }
         echo "<pre>";
         print_r($array);
@@ -48,20 +48,20 @@
                 "VALUE" => $arOrder["USER_DESCRIPTION"]
             );
             CSaleOrderPropsValue::Add($arFieldsAdd);
-        } 
+        }
 
 
         $strOrderList .= '<table rules="rows" width="100%" style="border-bottom:1px solid black;margin-bottom:60px;"><thead><tr><th></th>';
         $strOrderList .= '<th style="text-align:left;">Название</th><th>Количество/Вес</th><th>Цена за ед.</th>';
         if (doubleval($discountPrice) > 0)  {
-            $strOrderList .= '<th>Скидка</th>';   
+            $strOrderList .= '<th>Скидка</th>';
         }
         $strOrderList .= '<th>Сумма</th></tr></thead><tbody>';
         global $USER;
         $elementsArrayList = array();
 
         $dbBasket = CSaleBasket::GetList(
-            array("ID" => "ASC"), 
+            array("ID" => "ASC"),
             array("ORDER_ID" => $id)
         );
 
@@ -76,14 +76,14 @@
             $strOrderItems = "";
             $baseUnit = "шт";
             $obProperty = CIBlockElement::GetProperty(
-                11, 
-                $arBasketItems["PRODUCT_ID"], 
-                array("sort" => "asc"), 
+                11,
+                $arBasketItems["PRODUCT_ID"],
+                array("sort" => "asc"),
                 array("CODE" => "CML2_BASE_UNIT")
             );
             if($arProperty = $obProperty->Fetch()) {
                 if($arProperty["VALUE"]) {
-                    $baseUnit = $arProperty["VALUE"]; 
+                    $baseUnit = $arProperty["VALUE"];
                 }
             }
 
@@ -118,7 +118,7 @@
                 $strOrderItems .='</td>';
             }
 
-            $summm = $arBasketItems["QUANTITY"] * $arBasketItems["PRICE"]; 
+            $summm = $arBasketItems["QUANTITY"] * $arBasketItems["PRICE"];
             $formatedPrice = round(100 * ($summm - floor($summm)));
             if (strlen($formatedPrice) < 2) {
                 $formatedPrice = "0".$formatedPrice;
@@ -629,6 +629,17 @@
         $mail->Send();*/
     }
 
+    AddEventHandler('main', 'OnEpilog', '_Check404Error', 1);
+
+    function _Check404Error(){
+       if(defined('ERROR_404') && ERROR_404=='Y' || CHTTP::GetLastStatus() == "404 Not Found"){
+          GLOBAL $APPLICATION;
+          $APPLICATION->RestartBuffer();
+          require $_SERVER['DOCUMENT_ROOT'].SITE_TEMPLATE_PATH.'/header.php';
+          require $_SERVER['DOCUMENT_ROOT'].'/404.php';
+          require $_SERVER['DOCUMENT_ROOT'].SITE_TEMPLATE_PATH.'/footer.php';
+       }
+    }
     function ProductRating($ID = false)
     {
         if (CModule::IncludeModule("iblock") && CModule::IncludeModule("sale") && CModule::IncludeModule("catalog"))
