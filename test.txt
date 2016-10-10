@@ -6,28 +6,28 @@ Array
                 (
                     [0] => Array
                         (
-                            [ID] => 1049975
-                            [~ID] => 1049975
-                            [NAME] => Зеленый горошек &quot;Бондюэль&quot; 800 г
-                            [~NAME] => Зеленый горошек "Бондюэль" 800 г
+                            [ID] => 1048493
+                            [~ID] => 1048493
+                            [NAME] => Картофель в сетке &quot;Агропродспектр&quot; 5 кг
+                            [~NAME] => Картофель в сетке "Агропродспектр" 5 кг
                             [CALLBACK_FUNC] => 
                             [~CALLBACK_FUNC] => 
                             [MODULE] => catalog
                             [~MODULE] => catalog
-                            [PRODUCT_ID] => 4625
-                            [~PRODUCT_ID] => 4625
+                            [PRODUCT_ID] => 17601
+                            [~PRODUCT_ID] => 17601
                             [QUANTITY] => 2.00
                             [~QUANTITY] => 2.00
                             [DELAY] => N
                             [~DELAY] => N
                             [CAN_BUY] => Y
                             [~CAN_BUY] => Y
-                            [PRICE] => 106.0000
-                            [~PRICE] => 106.0000
+                            [PRICE] => 39.0000
+                            [~PRICE] => 39.0000
                             [WEIGHT] => 0
                             [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/4625
-                            [~DETAIL_PAGE_URL] => /item/4625
+                            [DETAIL_PAGE_URL] => /item/17601/
+                            [~DETAIL_PAGE_URL] => /item/17601/
                             [NOTES] => Розничная
                             [~NOTES] => Розничная
                             [CURRENCY] => RUB
@@ -36,8 +36,8 @@ Array
                             [~VAT_RATE] => 0.0000
                             [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
                             [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 61d12cbd-191c-11e3-95f4-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 61d12cbd-191c-11e3-95f4-60a44c3e07b0
+                            [PRODUCT_XML_ID] => 7433a32e-5831-11e3-a04c-60a44c3e07b0
+                            [~PRODUCT_XML_ID] => 7433a32e-5831-11e3-a04c-60a44c3e07b0
                             [SUBSCRIBE] => N
                             [~SUBSCRIBE] => N
                             [DISCOUNT_PRICE] => 0.0000
@@ -49,39 +49,39 @@ Array
                                 )
 
                             [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 106.00
+                            [PRICE_FORMATED] => 39.00
                             [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 106
+                            [BASE_PRICE] => 39
                             [DISCOUNT_PRICE_PERCENT] => 0
                             [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 106
-                            [FULL_PRICE_FORMATED] => 106.00
+                            [FULL_PRICE] => 39
+                            [FULL_PRICE_FORMATED] => 39.00
                         )
 
                     [1] => Array
                         (
-                            [ID] => 1049973
-                            [~ID] => 1049973
-                            [NAME] => Кукуруза золотистая &quot;Бондюэль&quot; 800 мл
-                            [~NAME] => Кукуруза золотистая "Бондюэль" 800 мл
+                            [ID] => 1048489
+                            [~ID] => 1048489
+                            [NAME] => Морковь очищенная 1 кг
+                            [~NAME] => Морковь очищенная 1 кг
                             [CALLBACK_FUNC] => 
                             [~CALLBACK_FUNC] => 
                             [MODULE] => catalog
                             [~MODULE] => catalog
-                            [PRODUCT_ID] => 4642
-                            [~PRODUCT_ID] => 4642
-                            [QUANTITY] => 2.00
-                            [~QUANTITY] => 2.00
+                            [PRODUCT_ID] => 11968
+                            [~PRODUCT_ID] => 11968
+                            [QUANTITY] => 8.00
+                            [~QUANTITY] => 8.00
                             [DELAY] => N
                             [~DELAY] => N
                             [CAN_BUY] => Y
                             [~CAN_BUY] => Y
-                            [PRICE] => 108.0000
-                            [~PRICE] => 108.0000
+                            [PRICE] => 98.0000
+                            [~PRICE] => 98.0000
                             [WEIGHT] => 0
                             [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/4642
-                            [~DETAIL_PAGE_URL] => /item/4642
+                            [DETAIL_PAGE_URL] => /item/11968/
+                            [~DETAIL_PAGE_URL] => /item/11968/
                             [NOTES] => Розничная
                             [~NOTES] => Розничная
                             [CURRENCY] => RUB
@@ -90,8 +90,8 @@ Array
                             [~VAT_RATE] => 0.0000
                             [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
                             [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 61d12cd0-191c-11e3-95f4-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 61d12cd0-191c-11e3-95f4-60a44c3e07b0
+                            [PRODUCT_XML_ID] => bdcc9939-453f-11e3-a1d6-60a44c3e07b0
+                            [~PRODUCT_XML_ID] => bdcc9939-453f-11e3-a1d6-60a44c3e07b0
                             [SUBSCRIBE] => N
                             [~SUBSCRIBE] => N
                             [DISCOUNT_PRICE] => 0.0000
@@ -103,309 +103,39 @@ Array
                                 )
 
                             [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 108.00
+                            [PRICE_FORMATED] => 98.00
                             [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 108
+                            [BASE_PRICE] => 98
                             [DISCOUNT_PRICE_PERCENT] => 0
                             [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 108
-                            [FULL_PRICE_FORMATED] => 108.00
+                            [FULL_PRICE] => 98
+                            [FULL_PRICE_FORMATED] => 98.00
                         )
 
                     [2] => Array
                         (
-                            [ID] => 1050080
-                            [~ID] => 1050080
-                            [NAME] => Лимонная кислота &quot;Распак&quot; 50 г
-                            [~NAME] => Лимонная кислота "Распак" 50 г
+                            [ID] => 1048495
+                            [~ID] => 1048495
+                            [NAME] => Чай холодный со вкусом персика &quot;Nestea&quot; 0,5 л
+                            [~NAME] => Чай холодный со вкусом персика "Nestea" 0,5 л
                             [CALLBACK_FUNC] => 
                             [~CALLBACK_FUNC] => 
                             [MODULE] => catalog
                             [~MODULE] => catalog
-                            [PRODUCT_ID] => 19157
-                            [~PRODUCT_ID] => 19157
-                            [QUANTITY] => 12.00
-                            [~QUANTITY] => 12.00
-                            [DELAY] => N
-                            [~DELAY] => N
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 14.0000
-                            [~PRICE] => 14.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19157
-                            [~DETAIL_PAGE_URL] => /item/19157
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 5304cbbb-9a75-11e3-b2fb-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 5304cbbb-9a75-11e3-b2fb-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 14.00
-                            [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 14
-                            [DISCOUNT_PRICE_PERCENT] => 0
-                            [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 14
-                            [FULL_PRICE_FORMATED] => 14.00
-                        )
-
-                    [3] => Array
-                        (
-                            [ID] => 1049968
-                            [~ID] => 1049968
-                            [NAME] => Масло подсолнечное &quot;Слобода&quot; 1,8 л
-                            [~NAME] => Масло подсолнечное "Слобода" 1,8 л
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 4240
-                            [~PRODUCT_ID] => 4240
-                            [QUANTITY] => 2.00
-                            [~QUANTITY] => 2.00
-                            [DELAY] => N
-                            [~DELAY] => N
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 143.0000
-                            [~PRICE] => 143.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/4240
-                            [~DETAIL_PAGE_URL] => /item/4240
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 215feea0-13b5-11e3-95f4-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 215feea0-13b5-11e3-95f4-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 143.00
-                            [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 143
-                            [DISCOUNT_PRICE_PERCENT] => 0
-                            [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 143
-                            [FULL_PRICE_FORMATED] => 143.00
-                        )
-
-                    [4] => Array
-                        (
-                            [ID] => 1049984
-                            [~ID] => 1049984
-                            [NAME] => Морские водоросли Нори Professional &quot;Midori&quot; 50 листов 145 г
-                            [~NAME] => Морские водоросли Нори Professional "Midori" 50 листов 145 г
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 19582
-                            [~PRODUCT_ID] => 19582
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => N
-                            [~DELAY] => N
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 215.0000
-                            [~PRICE] => 215.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19582
-                            [~DETAIL_PAGE_URL] => /item/19582
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 9f6cdb72-aea1-11e3-948f-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 9f6cdb72-aea1-11e3-948f-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 215.00
-                            [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 215
-                            [DISCOUNT_PRICE_PERCENT] => 0
-                            [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 215
-                            [FULL_PRICE_FORMATED] => 215.00
-                        )
-
-                    [5] => Array
-                        (
-                            [ID] => 1049500
-                            [~ID] => 1049500
-                            [NAME] => Презервативы &quot;Contex&quot; Lights 12 шт
-                            [~NAME] => Презервативы "Contex" Lights 12 шт
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 18545
-                            [~PRODUCT_ID] => 18545
-                            [QUANTITY] => 4.00
-                            [~QUANTITY] => 4.00
-                            [DELAY] => N
-                            [~DELAY] => N
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 282.0000
-                            [~PRICE] => 282.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/18545
-                            [~DETAIL_PAGE_URL] => /item/18545
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 27b5c0e5-7c55-11e3-a5c3-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 27b5c0e5-7c55-11e3-a5c3-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 282.00
-                            [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 282
-                            [DISCOUNT_PRICE_PERCENT] => 0
-                            [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 282
-                            [FULL_PRICE_FORMATED] => 282.00
-                        )
-
-                    [6] => Array
-                        (
-                            [ID] => 1049983
-                            [~ID] => 1049983
-                            [NAME] => Салат из водорослей Чука замороженный &quot;Takemura&quot; 500 г
-                            [~NAME] => Салат из водорослей Чука замороженный "Takemura" 500 г
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 27635
-                            [~PRODUCT_ID] => 27635
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => N
-                            [~DELAY] => N
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 159.0000
-                            [~PRICE] => 159.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/27635
-                            [~DETAIL_PAGE_URL] => /item/27635
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => f56c6883-f5fd-11e3-8e79-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => f56c6883-f5fd-11e3-8e79-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 159.00
-                            [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 159
-                            [DISCOUNT_PRICE_PERCENT] => 0
-                            [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 159
-                            [FULL_PRICE_FORMATED] => 159.00
-                        )
-
-                    [7] => Array
-                        (
-                            [ID] => 1049460
-                            [~ID] => 1049460
-                            [NAME] => Чай черный Earl Grey &quot;Twinings&quot; 100 г
-                            [~NAME] => Чай черный Earl Grey "Twinings" 100 г
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 18381
-                            [~PRODUCT_ID] => 18381
+                            [PRODUCT_ID] => 31160
+                            [~PRODUCT_ID] => 31160
                             [QUANTITY] => 5.00
                             [~QUANTITY] => 5.00
                             [DELAY] => N
                             [~DELAY] => N
                             [CAN_BUY] => Y
                             [~CAN_BUY] => Y
-                            [PRICE] => 212.0000
-                            [~PRICE] => 212.0000
+                            [PRICE] => 49.0000
+                            [~PRICE] => 49.0000
                             [WEIGHT] => 0
                             [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/18381
-                            [~DETAIL_PAGE_URL] => /item/18381
+                            [DETAIL_PAGE_URL] => /item/31160/
+                            [~DETAIL_PAGE_URL] => /item/31160/
                             [NOTES] => Розничная
                             [~NOTES] => Розничная
                             [CURRENCY] => RUB
@@ -414,8 +144,8 @@ Array
                             [~VAT_RATE] => 0.0000
                             [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
                             [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 25a4b1bd-6895-11e3-a5c3-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 25a4b1bd-6895-11e3-a5c3-60a44c3e07b0
+                            [PRODUCT_XML_ID] => 86314a4b-2130-11e4-8e79-60a44c3e07b0
+                            [~PRODUCT_XML_ID] => 86314a4b-2130-11e4-8e79-60a44c3e07b0
                             [SUBSCRIBE] => N
                             [~SUBSCRIBE] => N
                             [DISCOUNT_PRICE] => 0.0000
@@ -427,13 +157,121 @@ Array
                                 )
 
                             [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 212.00
+                            [PRICE_FORMATED] => 49.00
                             [WEIGHT_FORMATED] => 0 г
-                            [BASE_PRICE] => 212
+                            [BASE_PRICE] => 49
                             [DISCOUNT_PRICE_PERCENT] => 0
                             [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
-                            [FULL_PRICE] => 212
-                            [FULL_PRICE_FORMATED] => 212.00
+                            [FULL_PRICE] => 49
+                            [FULL_PRICE_FORMATED] => 49.00
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 1048494
+                            [~ID] => 1048494
+                            [NAME] => Чай холодный со вкусом персика &quot;Nestea&quot; 1,75 л
+                            [~NAME] => Чай холодный со вкусом персика "Nestea" 1,75 л
+                            [CALLBACK_FUNC] => 
+                            [~CALLBACK_FUNC] => 
+                            [MODULE] => catalog
+                            [~MODULE] => catalog
+                            [PRODUCT_ID] => 31161
+                            [~PRODUCT_ID] => 31161
+                            [QUANTITY] => 7.00
+                            [~QUANTITY] => 7.00
+                            [DELAY] => N
+                            [~DELAY] => N
+                            [CAN_BUY] => Y
+                            [~CAN_BUY] => Y
+                            [PRICE] => 80.0000
+                            [~PRICE] => 80.0000
+                            [WEIGHT] => 0
+                            [~WEIGHT] => 0.00
+                            [DETAIL_PAGE_URL] => /item/31161/
+                            [~DETAIL_PAGE_URL] => /item/31161/
+                            [NOTES] => Розничная
+                            [~NOTES] => Розничная
+                            [CURRENCY] => RUB
+                            [~CURRENCY] => RUB
+                            [VAT_RATE] => 0.0000
+                            [~VAT_RATE] => 0.0000
+                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
+                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
+                            [PRODUCT_XML_ID] => 7e713b16-2130-11e4-8e79-60a44c3e07b0
+                            [~PRODUCT_XML_ID] => 7e713b16-2130-11e4-8e79-60a44c3e07b0
+                            [SUBSCRIBE] => N
+                            [~SUBSCRIBE] => N
+                            [DISCOUNT_PRICE] => 0.0000
+                            [~DISCOUNT_PRICE] => 0.0000
+                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
+                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
+                            [PROPS] => Array
+                                (
+                                )
+
+                            [PRICE_VAT_VALUE] => 0
+                            [PRICE_FORMATED] => 80.00
+                            [WEIGHT_FORMATED] => 0 г
+                            [BASE_PRICE] => 80
+                            [DISCOUNT_PRICE_PERCENT] => 0
+                            [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
+                            [FULL_PRICE] => 80
+                            [FULL_PRICE_FORMATED] => 80.00
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 1048496
+                            [~ID] => 1048496
+                            [NAME] => Чай холодный черный с лимоном &quot;Ahmad&quot; 1,5 л
+                            [~NAME] => Чай холодный черный с лимоном "Ahmad" 1,5 л
+                            [CALLBACK_FUNC] => 
+                            [~CALLBACK_FUNC] => 
+                            [MODULE] => catalog
+                            [~MODULE] => catalog
+                            [PRODUCT_ID] => 31163
+                            [~PRODUCT_ID] => 31163
+                            [QUANTITY] => 7.00
+                            [~QUANTITY] => 7.00
+                            [DELAY] => N
+                            [~DELAY] => N
+                            [CAN_BUY] => Y
+                            [~CAN_BUY] => Y
+                            [PRICE] => 68.0000
+                            [~PRICE] => 68.0000
+                            [WEIGHT] => 0
+                            [~WEIGHT] => 0.00
+                            [DETAIL_PAGE_URL] => /item/31163/
+                            [~DETAIL_PAGE_URL] => /item/31163/
+                            [NOTES] => Розничная
+                            [~NOTES] => Розничная
+                            [CURRENCY] => RUB
+                            [~CURRENCY] => RUB
+                            [VAT_RATE] => 0.0000
+                            [~VAT_RATE] => 0.0000
+                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
+                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
+                            [PRODUCT_XML_ID] => 86314a81-2130-11e4-8e79-60a44c3e07b0
+                            [~PRODUCT_XML_ID] => 86314a81-2130-11e4-8e79-60a44c3e07b0
+                            [SUBSCRIBE] => N
+                            [~SUBSCRIBE] => N
+                            [DISCOUNT_PRICE] => 0.0000
+                            [~DISCOUNT_PRICE] => 0.0000
+                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
+                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
+                            [PROPS] => Array
+                                (
+                                )
+
+                            [PRICE_VAT_VALUE] => 0
+                            [PRICE_FORMATED] => 68.00
+                            [WEIGHT_FORMATED] => 0 г
+                            [BASE_PRICE] => 68
+                            [DISCOUNT_PRICE_PERCENT] => 0
+                            [DISCOUNT_PRICE_PERCENT_FORMATED] => 0%
+                            [FULL_PRICE] => 68
+                            [FULL_PRICE_FORMATED] => 68.00
                         )
 
                 )
@@ -442,28 +280,28 @@ Array
                 (
                     [0] => Array
                         (
-                            [ID] => 1049543
-                            [~ID] => 1049543
-                            [NAME] => Имбирь маринованный &quot;Сэн Сой&quot; 145 г
-                            [~NAME] => Имбирь маринованный "Сэн Сой" 145 г
+                            [ID] => 1048488
+                            [~ID] => 1048488
+                            [NAME] => Рис Янтарь пропаренный длиннозерный &quot;Мистраль&quot; 1 кг
+                            [~NAME] => Рис Янтарь пропаренный длиннозерный "Мистраль" 1 кг
                             [CALLBACK_FUNC] => 
                             [~CALLBACK_FUNC] => 
                             [MODULE] => catalog
                             [~MODULE] => catalog
-                            [PRODUCT_ID] => 19572
-                            [~PRODUCT_ID] => 19572
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
+                            [PRODUCT_ID] => 8718
+                            [~PRODUCT_ID] => 8718
+                            [QUANTITY] => 2.00
+                            [~QUANTITY] => 2.00
                             [DELAY] => Y
                             [~DELAY] => Y
                             [CAN_BUY] => Y
                             [~CAN_BUY] => Y
-                            [PRICE] => 103.0000
-                            [~PRICE] => 103.0000
+                            [PRICE] => 68.0000
+                            [~PRICE] => 68.0000
                             [WEIGHT] => 0
                             [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19572
-                            [~DETAIL_PAGE_URL] => /item/19572
+                            [DETAIL_PAGE_URL] => /item/8718/
+                            [~DETAIL_PAGE_URL] => /item/8718/
                             [NOTES] => Розничная
                             [~NOTES] => Розничная
                             [CURRENCY] => RUB
@@ -472,8 +310,8 @@ Array
                             [~VAT_RATE] => 0.0000
                             [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
                             [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => b98a6b01-aea1-11e3-948f-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => b98a6b01-aea1-11e3-948f-60a44c3e07b0
+                            [PRODUCT_XML_ID] => c68a0eab-1f94-11e3-95f4-60a44c3e07b0
+                            [~PRODUCT_XML_ID] => c68a0eab-1f94-11e3-95f4-60a44c3e07b0
                             [SUBSCRIBE] => N
                             [~SUBSCRIBE] => N
                             [DISCOUNT_PRICE] => 0.0000
@@ -485,34 +323,34 @@ Array
                                 )
 
                             [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 103.00
+                            [PRICE_FORMATED] => 68.00
                             [WEIGHT_FORMATED] => 0 г
                         )
 
                     [1] => Array
                         (
-                            [ID] => 1049541
-                            [~ID] => 1049541
-                            [NAME] => Имбирь розовый маринованный &quot;Сэн Сой&quot; 350 г
-                            [~NAME] => Имбирь розовый маринованный "Сэн Сой" 350 г
+                            [ID] => 1048492
+                            [~ID] => 1048492
+                            [NAME] => Яйцо куриное отборное С0 &quot;Лето&quot; 10 шт
+                            [~NAME] => Яйцо куриное отборное С0 "Лето" 10 шт
                             [CALLBACK_FUNC] => 
                             [~CALLBACK_FUNC] => 
                             [MODULE] => catalog
                             [~MODULE] => catalog
-                            [PRODUCT_ID] => 19573
-                            [~PRODUCT_ID] => 19573
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
+                            [PRODUCT_ID] => 19306
+                            [~PRODUCT_ID] => 19306
+                            [QUANTITY] => 3.00
+                            [~QUANTITY] => 3.00
                             [DELAY] => Y
                             [~DELAY] => Y
                             [CAN_BUY] => Y
                             [~CAN_BUY] => Y
-                            [PRICE] => 183.0000
-                            [~PRICE] => 183.0000
+                            [PRICE] => 88.0000
+                            [~PRICE] => 88.0000
                             [WEIGHT] => 0
                             [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19573
-                            [~DETAIL_PAGE_URL] => /item/19573
+                            [DETAIL_PAGE_URL] => /item/19306/
+                            [~DETAIL_PAGE_URL] => /item/19306/
                             [NOTES] => Розничная
                             [~NOTES] => Розничная
                             [CURRENCY] => RUB
@@ -521,8 +359,8 @@ Array
                             [~VAT_RATE] => 0.0000
                             [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
                             [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => b38d6f49-aea1-11e3-948f-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => b38d6f49-aea1-11e3-948f-60a44c3e07b0
+                            [PRODUCT_XML_ID] => d07e4d34-9f83-11e3-b2fb-60a44c3e07b0
+                            [~PRODUCT_XML_ID] => d07e4d34-9f83-11e3-b2fb-60a44c3e07b0
                             [SUBSCRIBE] => N
                             [~SUBSCRIBE] => N
                             [DISCOUNT_PRICE] => 0.0000
@@ -534,693 +372,7 @@ Array
                                 )
 
                             [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 183.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [2] => Array
-                        (
-                            [ID] => 1049557
-                            [~ID] => 1049557
-                            [NAME] => Соевый соус &quot;Kikkoman&quot; 150 мл
-                            [~NAME] => Соевый соус "Kikkoman" 150 мл
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 19558
-                            [~PRODUCT_ID] => 19558
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 218.0000
-                            [~PRICE] => 218.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19558
-                            [~DETAIL_PAGE_URL] => /item/19558
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 3b1950b1-aafb-11e3-948f-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 3b1950b1-aafb-11e3-948f-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 218.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [3] => Array
-                        (
-                            [ID] => 1049979
-                            [~ID] => 1049979
-                            [NAME] => Соус кунжутный Sesame Dressing &quot;Takemura&quot; 1,5 л
-                            [~NAME] => Соус кунжутный Sesame Dressing "Takemura" 1,5 л
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 27659
-                            [~PRODUCT_ID] => 27659
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 730.0000
-                            [~PRICE] => 730.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/27659
-                            [~DETAIL_PAGE_URL] => /item/27659
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 845f1600-f5fd-11e3-8e79-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 845f1600-f5fd-11e3-8e79-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 730.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [4] => Array
-                        (
-                            [ID] => 1049978
-                            [~ID] => 1049978
-                            [NAME] => Соус сладкий чили с лаймом &quot;Blue Dragon&quot; 190 мл
-                            [~NAME] => Соус сладкий чили с лаймом "Blue Dragon" 190 мл
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 27663
-                            [~PRODUCT_ID] => 27663
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 160.0000
-                            [~PRICE] => 160.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/27663
-                            [~DETAIL_PAGE_URL] => /item/27663
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 03818059-f5fe-11e3-8e79-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 03818059-f5fe-11e3-8e79-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 160.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [5] => Array
-                        (
-                            [ID] => 1049547
-                            [~ID] => 1049547
-                            [NAME] => Соус соевый легкий &quot;Kikkoman&quot; 150 мл
-                            [~NAME] => Соус соевый легкий "Kikkoman" 150 мл
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 19605
-                            [~PRODUCT_ID] => 19605
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 240.0000
-                            [~PRICE] => 240.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19605
-                            [~DETAIL_PAGE_URL] => /item/19605
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => ad590e14-aea1-11e3-948f-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => ad590e14-aea1-11e3-948f-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 240.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [6] => Array
-                        (
-                            [ID] => 1049977
-                            [~ID] => 1049977
-                            [NAME] => Соус чили оригинальный &quot;Blue Dragon&quot; 190 мл
-                            [~NAME] => Соус чили оригинальный "Blue Dragon" 190 мл
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 27670
-                            [~PRODUCT_ID] => 27670
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 122.0000
-                            [~PRICE] => 122.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/27670
-                            [~DETAIL_PAGE_URL] => /item/27670
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => fbcae767-f5fd-11e3-8e79-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => fbcae767-f5fd-11e3-8e79-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 122.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [7] => Array
-                        (
-                            [ID] => 1049762
-                            [~ID] => 1049762
-                            [NAME] => Сыр &quot;Ламбер&quot; полутвердый бочонок 1 кг
-                            [~NAME] => Сыр "Ламбер" полутвердый бочонок 1 кг
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 8901
-                            [~PRODUCT_ID] => 8901
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 545.0000
-                            [~PRICE] => 545.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/8901
-                            [~DETAIL_PAGE_URL] => /item/8901
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 4bedcac3-211d-11e3-95f4-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 4bedcac3-211d-11e3-95f4-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 545.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [8] => Array
-                        (
-                            [ID] => 1049759
-                            [~ID] => 1049759
-                            [NAME] => Сыр Эдамер &quot;Schardinger&quot; полутвердый 40% шар 1,9 кг
-                            [~NAME] => Сыр Эдамер "Schardinger" полутвердый 40% шар 1,9 кг
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 8916
-                            [~PRODUCT_ID] => 8916
-                            [QUANTITY] => 2.90
-                            [~QUANTITY] => 2.90
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 575.0000
-                            [~PRICE] => 575.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/8916
-                            [~DETAIL_PAGE_URL] => /item/8916
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 4595dc45-211d-11e3-95f4-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 4595dc45-211d-11e3-95f4-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 575.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [9] => Array
-                        (
-                            [ID] => 1049558
-                            [~ID] => 1049558
-                            [NAME] => Томатная паста &quot;Heinz&quot; 70 г
-                            [~NAME] => Томатная паста "Heinz" 70 г
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 19263
-                            [~PRODUCT_ID] => 19263
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 28.0000
-                            [~PRICE] => 28.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19263
-                            [~DETAIL_PAGE_URL] => /item/19263
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 4ba22048-9a75-11e3-b2fb-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 4ba22048-9a75-11e3-b2fb-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 28.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [10] => Array
-                        (
-                            [ID] => 1049555
-                            [~ID] => 1049555
-                            [NAME] => Томатная паста &quot;Помидорка&quot; 70 г
-                            [~NAME] => Томатная паста "Помидорка" 70 г
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 19694
-                            [~PRODUCT_ID] => 19694
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 29.0000
-                            [~PRICE] => 29.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/19694
-                            [~DETAIL_PAGE_URL] => /item/19694
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => bb5cf926-af37-11e3-948f-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => bb5cf926-af37-11e3-948f-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 29.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [11] => Array
-                        (
-                            [ID] => 1049985
-                            [~ID] => 1049985
-                            [NAME] => Туалетная бумага &quot;Zewa Plus&quot; Яблоко 2 слоя 12 рулонов
-                            [~NAME] => Туалетная бумага "Zewa Plus" Яблоко 2 слоя 12 рулонов
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 3973
-                            [~PRODUCT_ID] => 3973
-                            [QUANTITY] => 2.00
-                            [~QUANTITY] => 2.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 145.0000
-                            [~PRICE] => 145.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/3973
-                            [~DETAIL_PAGE_URL] => /item/3973
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 87578380-0b2f-11e3-89dd-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 87578380-0b2f-11e3-89dd-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 145.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [12] => Array
-                        (
-                            [ID] => 1049987
-                            [~ID] => 1049987
-                            [NAME] => Туалетная бумага Deluxe Персик &quot;Zewa&quot; 16 рулонов
-                            [~NAME] => Туалетная бумага Deluxe Персик "Zewa" 16 рулонов
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 17693
-                            [~PRODUCT_ID] => 17693
-                            [QUANTITY] => 2.00
-                            [~QUANTITY] => 2.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 341.0000
-                            [~PRICE] => 341.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/17693
-                            [~DETAIL_PAGE_URL] => /item/17693
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 01ce3fc7-58c2-11e3-a04c-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 01ce3fc7-58c2-11e3-a04c-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 341.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [13] => Array
-                        (
-                            [ID] => 1049986
-                            [~ID] => 1049986
-                            [NAME] => Туалетная бумага Белая с тиснением 3-слойная &quot;Lambi&quot; 12 рулонов
-                            [~NAME] => Туалетная бумага Белая с тиснением 3-слойная "Lambi" 12 рулонов
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 17698
-                            [~PRODUCT_ID] => 17698
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 283.0000
-                            [~PRICE] => 283.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/17698
-                            [~DETAIL_PAGE_URL] => /item/17698
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => 0f436c20-58c2-11e3-a04c-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => 0f436c20-58c2-11e3-a04c-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 283.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [14] => Array
-                        (
-                            [ID] => 1049499
-                            [~ID] => 1049499
-                            [NAME] => Хлопья Овсяные с отрубями &quot;Nordic&quot; 600 г
-                            [~NAME] => Хлопья Овсяные с отрубями "Nordic" 600 г
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 20845
-                            [~PRODUCT_ID] => 20845
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 105.0000
-                            [~PRICE] => 105.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/20845
-                            [~DETAIL_PAGE_URL] => /item/20845
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => c8a04b0d-c484-11e3-b131-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => c8a04b0d-c484-11e3-b131-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 105.00
-                            [WEIGHT_FORMATED] => 0 г
-                        )
-
-                    [15] => Array
-                        (
-                            [ID] => 1049559
-                            [~ID] => 1049559
-                            [NAME] => Хумус с кедровыми орехами &quot;Перекусовъ&quot; 150 г
-                            [~NAME] => Хумус с кедровыми орехами "Перекусовъ" 150 г
-                            [CALLBACK_FUNC] => 
-                            [~CALLBACK_FUNC] => 
-                            [MODULE] => catalog
-                            [~MODULE] => catalog
-                            [PRODUCT_ID] => 12645
-                            [~PRODUCT_ID] => 12645
-                            [QUANTITY] => 1.00
-                            [~QUANTITY] => 1.00
-                            [DELAY] => Y
-                            [~DELAY] => Y
-                            [CAN_BUY] => Y
-                            [~CAN_BUY] => Y
-                            [PRICE] => 78.0000
-                            [~PRICE] => 78.0000
-                            [WEIGHT] => 0
-                            [~WEIGHT] => 0.00
-                            [DETAIL_PAGE_URL] => /item/12645
-                            [~DETAIL_PAGE_URL] => /item/12645
-                            [NOTES] => Розничная
-                            [~NOTES] => Розничная
-                            [CURRENCY] => RUB
-                            [~CURRENCY] => RUB
-                            [VAT_RATE] => 0.0000
-                            [~VAT_RATE] => 0.0000
-                            [CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [~CATALOG_XML_ID] => 1b865a58-3e29-4f37-a765-dd0daa5a6700
-                            [PRODUCT_XML_ID] => e093c6b0-4c2f-11e3-a1d6-60a44c3e07b0
-                            [~PRODUCT_XML_ID] => e093c6b0-4c2f-11e3-a1d6-60a44c3e07b0
-                            [SUBSCRIBE] => N
-                            [~SUBSCRIBE] => N
-                            [DISCOUNT_PRICE] => 0.0000
-                            [~DISCOUNT_PRICE] => 0.0000
-                            [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [~PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
-                            [PROPS] => Array
-                                (
-                                )
-
-                            [PRICE_VAT_VALUE] => 0
-                            [PRICE_FORMATED] => 78.00
+                            [PRICE_FORMATED] => 88.00
                             [WEIGHT_FORMATED] => 0 г
                         )
 
@@ -1238,172 +390,53 @@ Array
 
     [ITEMS_IMG] => Array
         (
-            [1049985] => Array
+            [1048488] => Array
                 (
-                    [SRC] => /upload/resize_cache/iblock/bf8/110_110_1/bf85dacc1524b6a1c6fd5f6f30372744.jpeg
-                    [WIDTH] => 110
-                    [HEIGHT] => 82
-                )
-
-            [1049968] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/810/110_110_1/8107e7c2908ea646c06f722ef4f58838.jpeg
-                    [WIDTH] => 46
-                    [HEIGHT] => 110
-                )
-
-            [1049975] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/e60/110_110_1/e60e3e756740f6f10e0b3b9b3fa9e050.jpeg
-                    [WIDTH] => 81
-                    [HEIGHT] => 110
-                )
-
-            [1049973] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/a69/110_110_1/a69ca064fb6a27c8d7b66954fffb870c.jpeg
-                    [WIDTH] => 84
-                    [HEIGHT] => 110
-                )
-
-            [1049762] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/4fb/110_110_1/4fbfa829e98fa9b9b43dbaf864b1c74b.jpeg
-                    [WIDTH] => 110
-                    [HEIGHT] => 108
-                )
-
-            [1049759] => Array
-                (
-                    [SRC] => /upload/iblock/611/611d2e528930b48a0b6765ba36b95b6c.jpeg
-                    [WIDTH] => 0
-                    [HEIGHT] => 0
-                )
-
-            [1049559] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/a2c/110_110_1/a2c3e3ebaf96254ba2f2641abe61aeae.jpeg
-                    [WIDTH] => 110
-                    [HEIGHT] => 88
-                )
-
-            [1049987] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/5c5/110_110_1/5c5e31f8aa0c18e17ed18bf01b39d4a6.jpeg
-                    [WIDTH] => 110
-                    [HEIGHT] => 52
-                )
-
-            [1049986] => Array
-                (
-                    [SRC] => /upload/iblock/749/7496c332baec21e9b49e0f21635a7abf.jpeg
-                    [WIDTH] => 0
-                    [HEIGHT] => 0
-                )
-
-            [1049460] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/c43/110_110_1/c43f80991f0a572ebb1370360f374367.jpeg
-                    [WIDTH] => 96
-                    [HEIGHT] => 110
-                )
-
-            [1049500] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/761/110_110_1/761ade71e8dd68785dd59d5de5905818.jpeg
-                    [WIDTH] => 61
-                    [HEIGHT] => 110
-                )
-
-            [1050080] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/77a/110_110_1/77ae8dab69db8e1f08ae8c29ff05b92e.jpeg
-                    [WIDTH] => 102
-                    [HEIGHT] => 110
-                )
-
-            [1049558] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/697/110_110_1/6976655ff6eac5beee263b9ca129a8d8.jpeg
-                    [WIDTH] => 110
-                    [HEIGHT] => 98
-                )
-
-            [1049557] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/b60/110_110_1/b60c39a9654132962677899505ea47b5.jpeg
-                    [WIDTH] => 51
-                    [HEIGHT] => 110
-                )
-
-            [1049543] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/f52/110_110_1/f524ce4da6986450f93b653284e5f1a0.jpeg
-                    [WIDTH] => 59
-                    [HEIGHT] => 110
-                )
-
-            [1049541] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/2ca/110_110_1/2caab19c860709ef67cf72ff7e0a7ad7.jpeg
-                    [WIDTH] => 64
-                    [HEIGHT] => 110
-                )
-
-            [1049984] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/c89/110_110_1/c8904b7ddfceee00e8e390c27f86d045.jpeg
-                    [WIDTH] => 110
-                    [HEIGHT] => 110
-                )
-
-            [1049547] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/10f/110_110_1/10f79b24ff7ee50b8c3cd3de27639215.jpeg
-                    [WIDTH] => 56
-                    [HEIGHT] => 110
-                )
-
-            [1049555] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/63f/110_110_1/63f81589f3df886fdb5b214e5c1d9c3c.png
-                    [WIDTH] => 110
-                    [HEIGHT] => 104
-                )
-
-            [1049499] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/2f7/110_110_1/2f7719536812898ff5f75265052155da.jpeg
-                    [WIDTH] => 87
-                    [HEIGHT] => 110
-                )
-
-            [1049983] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/631/110_110_1/631c82ccc455158754210438d036826e.jpeg
-                    [WIDTH] => 90
-                    [HEIGHT] => 110
-                )
-
-            [1049979] => Array
-                (
-                    [SRC] => /upload/resize_cache/iblock/e19/110_110_1/e19fd8e67ed0af7615f7d8e10215a8e5.jpeg
+                    [SRC] => /upload/resize_cache/iblock/f71/110_110_1/f713c4b4bba727772847bcc6cd5f6828.jpeg
                     [WIDTH] => 74
                     [HEIGHT] => 110
                 )
 
-            [1049978] => Array
+            [1048489] => Array
                 (
-                    [SRC] => /upload/resize_cache/iblock/0b8/110_110_1/0b88f08602e1faf1f55e63e42f75ac89.jpeg
-                    [WIDTH] => 58
+                    [SRC] => /upload/resize_cache/iblock/bcc/110_110_1/bcccb8f37eed2ea010c4bb99bfd20adc.jpeg
+                    [WIDTH] => 110
+                    [HEIGHT] => 82
+                )
+
+            [1048493] => Array
+                (
+                    [SRC] => /upload/resize_cache/iblock/c25/110_110_1/c258ebdf9d61cbbf0ba762a402de1ee0.jpeg
+                    [WIDTH] => 110
+                    [HEIGHT] => 80
+                )
+
+            [1048492] => Array
+                (
+                    [SRC] => /upload/resize_cache/iblock/28f/110_110_1/28f228f3d924668bd9a98d1f6a10d8b9.jpeg
+                    [WIDTH] => 110
+                    [HEIGHT] => 51
+                )
+
+            [1048495] => Array
+                (
+                    [SRC] => /upload/resize_cache/iblock/609/110_110_1/6091e9c78422612404a9fc4984d3e9b9.jpeg
+                    [WIDTH] => 57
                     [HEIGHT] => 110
                 )
 
-            [1049977] => Array
+            [1048494] => Array
                 (
-                    [SRC] => /upload/resize_cache/iblock/e1a/110_110_1/e1a29cc85bf84f2ed92ccf68831ffdb9.jpeg
-                    [WIDTH] => 59
+                    [SRC] => /upload/resize_cache/iblock/097/110_110_1/097877ac106b7ea804b503438b94d16d.jpeg
+                    [WIDTH] => 47
                     [HEIGHT] => 110
+                )
+
+            [1048496] => Array
+                (
+                    [SRC] => /upload/iblock/8ff/8ff899724c93413e00f89bd65ec80702.jpeg
+                    [WIDTH] => 0
+                    [HEIGHT] => 0
                 )
 
         )
@@ -1412,10 +445,10 @@ Array
     [ShowDelay] => Y
     [ShowNotAvail] => N
     [ShowSubscribe] => N
-    [allSum] => 3444
+    [allSum] => 2143
     [allWeight] => 0
     [allWeight_FORMATED] => 0 г
-    [allSum_FORMATED] => 3 444.00
+    [allSum_FORMATED] => 2 143.00
     [DISCOUNT_PRICE_FORMATED] => 
     [DISCOUNT_PRICE_ALL] => 0
     [DISCOUNT_PRICE_ALL_FORMATED] => 0.00

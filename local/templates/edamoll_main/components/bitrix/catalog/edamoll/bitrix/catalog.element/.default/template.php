@@ -273,6 +273,8 @@ $ggg_str.='<b class="propname">'.$arProperty["NAME"].'</b>&nbsp;<span class="pro
              <?
             if(!is_numeric($arResult["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"])){
                 $base_quantity = $arResult["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"];
+            }  else {
+                $base_quantity = '';
             }
             ?>
 			<?if($arParams["USE_PRODUCT_QUANTITY"] || count($arResult["PRODUCT_PROPERTIES"])):?>
