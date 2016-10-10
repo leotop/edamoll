@@ -270,17 +270,21 @@ $ggg_str.='<b class="propname">'.$arProperty["NAME"].'</b>&nbsp;<span class="pro
 		<?endif?>
 		<?if($arResult["CAN_BUY"]):?>
 
-
+             <?
+            if(!is_numeric($arResult["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"])){
+                $base_quantity = $arResult["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"];
+            }
+            ?>
 			<?if($arParams["USE_PRODUCT_QUANTITY"] || count($arResult["PRODUCT_PROPERTIES"])):?>
 				<form action="<?=POST_FORM_ACTION_URI?>" method="post" enctype="multipart/form-data">
 				<?if($arParams["USE_PRODUCT_QUANTITY"] && $arResult["CATALOG_QUANTITY"]>0):?>
 						<div><?echo (" ÓÎË˜ÂÒÚ‚Ó");?></div>
 <div class="pmcont">
-<a class="minus" onclick="minus('q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>')"></a>
+<a class="minus" onclick="minus('q_<?=$arResult["ID"]?>','<?=$base_quantity?>')"></a>
 						<? if($gg_base_unit==" √" || $gg_base_unit=="Í„") {$g_qu="1.0";} else {$g_qu="1";} ?>
 
-								<input  onchange="edit_q('q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>')" id="q_<?=$arResult["ID"]?>" type="text" size="6" class="quantity" type="text" name="<?echo $arParams["PRODUCT_QUANTITY_VARIABLE"]?>" value="<?=$g_qu?> <?=$gg_base_unit?>">
-<a class="plus" onclick="plus('q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>')"></a>
+								<input  onchange="edit_q('q_<?=$arResult["ID"]?>','<?=$base_quantity?>')" id="q_<?=$arResult["ID"]?>" type="text" size="6" class="quantity" type="text" name="<?echo $arParams["PRODUCT_QUANTITY_VARIABLE"]?>" value="<?=$g_qu?> <?=$base_quantity?>">
+<a class="plus" onclick="plus('q_<?=$arResult["ID"]?>','<?=$base_quantity?>')"></a>
 
 						</div>
 
@@ -317,7 +321,7 @@ $ggg_str.='<b class="propname">'.$arProperty["NAME"].'</b>&nbsp;<span class="pro
 <div>
 	<? if ($arResult["CATALOG_QUANTITY"]>0) { ?>
 				<a class="btncart" href="<?=$arItem["ADD_URL"]?>" class="addtoCart" name="<?echo $arParams["ACTION_VARIABLE"]."ADD2BASKET"?>"  onclick="return addToCart(this, '<?=str_replace("'","&lsquo;",$arResult["NAME"])?>','q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>');"><?echo GetMessage("CATALOG_ADD_TO_BASKET")?></a>
-	<a href="#" class="btndelay" onclick="return addToCartDelay('q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>');" style="margin-left: 4px;"><img style="margin-right: 11px;margin-bottom: -5px;" src="/images/time.png">Œ“ÀŒ∆»“‹</a>
+	<a href="#" class="btndelay" onclick="return addToCartDelay('q_<?=$arResult["ID"]?>','<?=$base_quantity?>');" style="margin-left: 4px;"><img style="margin-right: 11px;margin-bottom: -5px;" src="/images/time.png">Œ“ÀŒ∆»“‹</a>
     <?
     global $APPLICATION,$USER;
     if($USER->IsAuthorized()){
