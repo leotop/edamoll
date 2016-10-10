@@ -150,17 +150,22 @@ $ggg_str.='<b class="propname">'.$arProperty["NAME"].'</b>&nbsp;<span class="pro
 				</noindex>
 			<?endif?>
 			<?if($arOffer["CAN_BUY"]):?>
+                    <?
+                    if(!is_numeric($arResult["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"])){
+                        $base_quantity = $arResult["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"];
+                    }
+                    ?>
 				<?if($arParams["USE_PRODUCT_QUANTITY"]):?>
 					<form action="<?=POST_FORM_ACTION_URI?>" method="post" enctype="multipart/form-data">
 					<table border="0" cellspacing="0" cellpadding="2">
 						<tr valign="top">
 							<td><?echo GetMessage("CT_BCE_QUANTITY")?>:</td>
 							<td>
-<a class="minus" onclick="minus('q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>')"></a>
+<a class="minus" onclick="minus('q_<?=$arResult["ID"]?>','<?=$base_quantity?>')"></a>
 						<? if($gg_base_unit=="สร" || $gg_base_unit=="๊ใ") {$g_qu="1.0";} else {$g_qu="1";} ?>
 
-								<input  onchange="edit_q('q_<?=$arResult["ID"]?>','<?=$arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"]?>')" id="q_<?=$arResult["ID"]?>" type="text" size="6" class="quantity" type="text" name="<?echo $arParams["PRODUCT_QUANTITY_VARIABLE"]?>" value="<?=$g_qu?> <?=$gg_base_unit?>">
-<a class="plus" onclick="plus('q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>')"></a>
+								<input  onchange="edit_q('q_<?=$arResult["ID"]?>','<?=$base_quantity?>')" id="q_<?=$arResult["ID"]?>" type="text" size="6" class="quantity" type="text" name="<?echo $arParams["PRODUCT_QUANTITY_VARIABLE"]?>" value="<?=$g_qu?> <?=$base_quantity?>">
+<a class="plus" onclick="plus('q_<?=$arResult["ID"]?>','<?=$base_quantity?>')"></a>
 
 							</td>
 						</tr>
@@ -168,7 +173,7 @@ $ggg_str.='<b class="propname">'.$arProperty["NAME"].'</b>&nbsp;<span class="pro
 					<input type="hidden" name="<?echo $arParams["ACTION_VARIABLE"]?>" value="BUY">
 					<input type="hidden" name="<?echo $arParams["PRODUCT_ID_VARIABLE"]?>" value="<?echo $arOffer["ID"]?>">
 					<input type="submit" name="<?echo $arParams["ACTION_VARIABLE"]."BUY"?>" value="<?echo GetMessage("CATALOG_BUY")?>">
-						<a href="<?=$arItem["ADD_URL"]?>" name="<?echo $arParams["ACTION_VARIABLE"]."ADD2BASKET"?>" class="addtoCart" value="" onclick="return addToCart(this, '<?=str_replace("'","&lsquo;",$arItem["NAME"])?>','q_<?=$arResult["ID"]?>','<?=$gg_base_unit?>');"></a>
+						<a href="<?=$arItem["ADD_URL"]?>" name="<?echo $arParams["ACTION_VARIABLE"]."ADD2BASKET"?>" class="addtoCart" value="" onclick="return addToCart(this, '<?=str_replace("'","&lsquo;",$arItem["NAME"])?>','q_<?=$arResult["ID"]?>','<?=$base_quantity?>');"></a>
 					</form>
 				<?else:?>
 					<noindex>
