@@ -54,6 +54,8 @@
                     <?
                     if(!is_numeric($arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"])){
                         $base_quantity = $arItem["PROPERTIES"]["CML2_BASE_UNIT"]["VALUE"];
+                    } else {
+                        $base_quantity = '';
                     }
                     ?>
 <div class="catalog_item_buy">

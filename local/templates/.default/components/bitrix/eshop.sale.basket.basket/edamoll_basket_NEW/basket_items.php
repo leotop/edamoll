@@ -384,17 +384,18 @@
                                         $GG_BU = "";
                                         $db_props =
                                         CIBlockElement::GetProperty(11, $arBasketItems["PRODUCT_ID"], array("sort" => "asc"), Array("CODE" => "CML2_BASE_UNIT"));
-                                        if ($ar_props = $db_props->Fetch())
-                                        {
-                                            $GG_BU = $ar_props["VALUE"];
+                                        if ($ar_props = $db_props->Fetch()) {
+                                            if(!is_numeric($ar_props["VALUE"])){
+                                                $GG_BU = $ar_props["VALUE"];
+                                            }
                                         }
-                                        if ($GG_BU == " √" || $GG_BU == "Í„")
-                                        {
+
+                                        if ($GG_BU == " √" || $GG_BU == "Í„") {
                                             $gg_quant = number_format($arBasketItems["QUANTITY"], 1) . " Í„";
-                                        }
-                                        else
-                                        {
+                                        } elseif ($GG_BU == "ÿ“" || $GG_BU == "¯Ú") {
                                             $gg_quant = number_format($arBasketItems["QUANTITY"], 0) . " ¯Ú";
+                                        } else {
+                                            $gg_quant = number_format($arBasketItems["QUANTITY"], 0);
                                         }
                                         //$(".bc$arBasketItems["ID"]").first().val(bc--);
                                         /*
@@ -598,16 +599,16 @@
                     <tr>
                         <td colspan="2" class="tal">
                             <input class="input_text_style"
-                                <? 
-                                    if (empty($arResult["COUPON"])) { 
+                                <?
+                                    if (empty($arResult["COUPON"])) {
                                     ?>
-                                    
+
                                     style="color:#a9a9a9"
-                                    <? 
-                                    } 
-                                ?> 
-                                value="<? 
-                                    if (!empty($arResult["COUPON"])) { 
+                                    <?
+                                    }
+                                ?>
+                                value="<?
+                                    if (!empty($arResult["COUPON"])) {
                                         echo $arResult["COUPON"];
                                     }
                                 ?>"
