@@ -137,6 +137,47 @@
             $strOrderList .= $elementArray["HTML"];
         }
         $strOrderList .= "</tbody></table>";
+
+
+        $arOrder = CSaleOrder::GetByID($arFields["ORDER_ID"]);
+        $db_props = CSaleOrderPropsValue::GetList(array("SORT" => "ASC"),array("ORDER_ID" => $arFields["ORDER_ID"],));
+        while($arOrderProps = $db_props->Fetch()) {
+            if($arOrderProps["CODE"]){
+                $arOrder[$arOrderProps["CODE"]] = $arOrderProps["VALUE"];
+            }
+        }
+        $strOrderInfo .= '<div><table style="float:left;"><col width="200"><tr><td style="color:#815e5e; font-size:16px">ФИО</td><td>';
+        $strOrderInfo .= $arOrder["name"];
+        $strOrderInfo .= '</td></tr><tr><td style="color:#815e5e; font-size:16px">Номер телефона</td><td>';
+        $strOrderInfo .= $arOrder["tel"];
+        $strOrderInfo .= '</td></tr><tr><td style="color:#815e5e; font-size:16px">Email</td><td>';
+        $strOrderInfo .= $arOrder["email"];
+        $strOrderInfo .= '</td></tr><tr><td style="color:#815e5e; font-size:16px">Адрес доставки</td><td>';
+        $strOrderInfo .= $arOrder["adres"];
+        $strOrderInfo .= '</td></tr><tr><td style="color:#815e5e; font-size:16px">Дата доставки</td><td>';
+        $strOrderInfo .= $arOrder["delivery_date"];
+        $strOrderInfo .= '</td></tr><tr><td style="color:#815e5e; font-size:16px">Оплата банковской картой во время доставки</td><td>';
+        if(!empty($arOrder["card_payment"])) {
+            $strOrderInfo .= 'Да';    
+        } else {
+            $strOrderInfo .= 'Нет';            
+        };
+        $strOrderInfo .= '</td></tr><tr><td style="color:#815e5e; font-size:16px">Комментарий к заказу</td><td>';
+        $strOrderInfo .= $arOrder["COMMENTUSER"];
+        $strOrderInfo .= '</td></tr></table>';
+        $strOrderInfo .= '<div style="float:right; width:350px; font-size:16px"><div style="float:left; width:200px"><b>СУММА ЗАКАЗА:</b></div><div style="float:right"><b>';
+        $strOrderInfo .= $arOrder["PRICE"];
+        $strOrderInfo .= '</b></div><div style="float:left; width:200px; height:45px; border-bottom: 1px solid black"><b>СТОИМОСТЬ ДОСТАВКИ:</b></div><div style="float:right; width:150px; height:45px; border-bottom:1px solid black; text-align:right;"><b>';
+        if(!empty($arOrder["PRICE_DELIVERY"])){
+            $strOrderInfo .= $arOrder["PRICE_DELIVERY"];    
+        } else {
+            $strOrderInfo .='<span style="color:red">БЕСПЛАТНО</span>'; 
+        };
+        $strOrderInfo .= '</b></div><div style="float:left; width:200px"><b>ОБЩАЯ СТОИМОСТЬ:</b></div><div style="float:right"><b>';
+        $strOrderInfo .= $arOrder["PRICE"] + $arOrder["PRICE_DELIVERY"];
+        $strOrderInfo .= '</b></div></div>';
+
+        $arFields["PRICE"] = $strOrderInfo;
         $arFields["ORDER_LIST"] = $strOrderList;
         return $arFields;
     }
@@ -197,23 +238,23 @@
     /*
     class LogInOut
     {
-        // ??????? ?????????? ??????? "OnAfterUserLogin"
-        function OnAfterUserLoginHandler(&$fields)
-        {
-            // ???? ????? ?? ??????? ??
-            if ($fields['USER_ID'] > 0 && $fields['USER_ID'] <> 1 && $fields['USER_ID'] <> 205)
-            {
-                LocalRedirect("/");
-            }
-        }
+    // ??????? ?????????? ??????? "OnAfterUserLogin"
+    function OnAfterUserLoginHandler(&$fields)
+    {
+    // ???? ????? ?? ??????? ??
+    if ($fields['USER_ID'] > 0 && $fields['USER_ID'] <> 1 && $fields['USER_ID'] <> 205)
+    {
+    LocalRedirect("/");
+    }
+    }
 
-        function OnAfterUserLogoutHandler($arParams)
-        {
-            LocalRedirect("/");
-        }
+    function OnAfterUserLogoutHandler($arParams)
+    {
+    LocalRedirect("/");
+    }
 
     }
-             */
+    */
     AddEventHandler("main", "OnBeforeUserRegister", Array(
         "NewUserReg",
         "OnAfterUserRegisterHandler"
@@ -632,13 +673,13 @@
     AddEventHandler('main', 'OnEpilog', '_Check404Error', 1);
 
     function _Check404Error(){
-       if(defined('ERROR_404') && ERROR_404=='Y' || CHTTP::GetLastStatus() == "404 Not Found"){
-          GLOBAL $APPLICATION;
-          $APPLICATION->RestartBuffer();
-          require $_SERVER['DOCUMENT_ROOT'].SITE_TEMPLATE_PATH.'/header.php';
-          require $_SERVER['DOCUMENT_ROOT'].'/404.php';
-          require $_SERVER['DOCUMENT_ROOT'].SITE_TEMPLATE_PATH.'/footer.php';
-       }
+        if(defined('ERROR_404') && ERROR_404=='Y' || CHTTP::GetLastStatus() == "404 Not Found"){
+            GLOBAL $APPLICATION;
+            $APPLICATION->RestartBuffer();
+            require $_SERVER['DOCUMENT_ROOT'].SITE_TEMPLATE_PATH.'/header.php';
+            require $_SERVER['DOCUMENT_ROOT'].'/404.php';
+            require $_SERVER['DOCUMENT_ROOT'].SITE_TEMPLATE_PATH.'/footer.php';
+        }
     }
     function ProductRating($ID = false)
     {
