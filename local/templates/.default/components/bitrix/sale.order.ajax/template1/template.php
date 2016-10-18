@@ -48,8 +48,8 @@ else
 		function submitForm(val)
 		{
 
-			if ($("#ORDER_PROP_1").val()==""){
-var gdate= new Date().getTime();$("#ORDER_PROP_1").val("noemail@edamoll.ru");
+			if ($("#ORDER_PROP_1").val()=="") {
+				var gdate= new Date().getTime();$("#ORDER_PROP_1").val("noemail@edamoll.ru");
 			}
 			if(val != 'Y')
 				BX('confirmorder').value = 'N';
@@ -58,9 +58,16 @@ var gdate= new Date().getTime();$("#ORDER_PROP_1").val("noemail@edamoll.ru");
 			var orderForm = BX('ORDER_FORM');
 
 			BX.ajax.submitComponentForm(orderForm, 'order_form_content', true);
-			BX.submit(orderForm);
 
-return true;
+			$.post("/ajax/check_user_existance.php", {
+				mail: $("#ORDER_PROP_1").val(),
+				phone: $("#ORDER_PROP_5").val(),
+				name: $("#ORDER_PROP_7").val(),
+			}, function(result) {
+				BX.submit(orderForm);
+		    });
+			
+			return true;
 		}
 		function SetContact(profileId)
 		{
