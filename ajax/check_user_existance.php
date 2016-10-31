@@ -25,31 +25,32 @@
 			    "PERSONAL_PHONE" => "%" . $user_phone . "%"
 			);
 		}
-		// выбираем пользователей
-		$users = CUser::GetList(
-			($by = "ID"),
-			($order = "desc"),
-			$filter,
-			array (
-				"FIELDS" => array("ID"),
-				"SELECT" => array("UF_REGISTERED")
-			)
-		);
-		if ($data = $users->Fetch()) {
-			$user_confirmed_registration = $data['UF_REGISTERED'];
-		}
-		
-		if (!$user_confirmed_registration) {
-			// если он не подтвержден, то обновляем его данные и авторизуем
-			$user_object = new CUser;
-			$user_fields_update = Array(
-				"NAME" => $user_name,
-				"UF_REGISTERED" => 1, 
+		if (is_array($filter) && !empty($filter)) {
+			// выбираем пользователей
+			$users = CUser::GetList(
+				($by = "ID"),
+				($order = "desc"),
+				$filter,
+				array (
+					"FIELDS" => array("ID"),
+					"SELECT" => array("UF_REGISTERED")
+				)
 			);
-			$user_fields_update = strlen($user_phone) == 9 ? array_merge($user_fields_update, array("PERSONAL_PHONE" => $user_phone)) : $user_fields_update;
-			$user_fields_update = $user_mail ? array_merge($user_fields_update, array("EMAIL" => $user_mail)) : $user_fields_update;
-			$user_object->Update($data['ID'], $user_fields_update);
+			if ($data = $users->Fetch()) {
+				$user_confirmed_registration = $data['UF_REGISTERED'];
+				if (!$user_confirmed_registration) {
+					// если он не подтвержден, то обновляем его данные и авторизуем
+					$user_object = new CUser;
+					$user_fields_update = Array(
+						"NAME" => $user_name,
+						"UF_REGISTERED" => 1, 
+					);
+					$user_fields_update = strlen($user_phone) == 9 ? array_merge($user_fields_update, array("PERSONAL_PHONE" => $user_phone)) : $user_fields_update;
+					$user_fields_update = $user_mail ? array_merge($user_fields_update, array("EMAIL" => $user_mail)) : $user_fields_update;
+					$user_object->Update($data['ID'], $user_fields_update);
+				}
+				$USER->Authorize($data['ID']);
+			}
 		}
-		$USER->Authorize($data['ID']);
 	}
 ?>
